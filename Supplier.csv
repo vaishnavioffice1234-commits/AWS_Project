@@ -1,0 +1,887 @@
+supplier_id,supplier_code,supplier_name,supplier_type,gst_number,pan_number,email,phone_number,contact_person,address_line_1,address_line_2,city,state,country,postal_code,payment_terms_id,bank_name,bank_account_number,ifsc_code,supplier_status,created_date,modified_date
+1,SUP00001,"Sem, Tiwari and Bahri",Service Provider,30JAEOX4834R3ZO,OVPMU6048Y,hsinha@ramachandran.com,+910603496673,Lekha Narang,"107
+Swamy Street",,Jaipur,Rajasthan,India,937994,8,ICICI Bank,4832326800561200,ICIC0619106,Active,2019-06-19,2023-12-11
+2,SUP00002,Srivastava Group,Raw Material Supplier,35GFFYL3257T8ZL,AJMWL0206U,nmohan@viswanathan-ahuja.com,03462182184,Turvi Chokshi,"63/559, Lal Ganj",,Chennai,Tamil Nadu,India,058428,5,ICICI Bank,2463912037195425,ICIC0399849,Active,2018-08-11,2022-09-03
+3,SUP00003,Khare PLC,Service Provider,23OVJDA4506G1ZN,YNXND2467Y,ladli26@ratti-sarkar.info,4269413305,Anirudh Borde,"97, Khatri Chowk",Suite 13,Bengaluru,Karnataka,India,821437,7,Yes Bank,2408273431211078,YES 0411014,Active,2022-09-21,2025-04-15
+4,SUP00004,Aggarwal-Pingle,Logistics Provider,36VMBJV4436T1ZQ,TJGUU9188C,krishnasankaran@bawa.biz,08339970911,Raghav Doshi,"89, Swamy Circle",Suite 48,New Delhi,Delhi,India,524254,3,Axis Bank,16651740995082,AXIS0375196,Active,2025-10-02,2026-05-01
+5,SUP00005,Andra-Bobal,Service Provider,29MNOLA9144U7Z6,PLGWX8797L,grewalyauvani@gupta.com,00209746201,Jagrati Yohannan,"33
+Sampath Circle",,Pune,Maharashtra,India,533805,5,HDFC Bank,62942011516611,HDFC0834459,Active,2024-02-16,2025-08-20
+6,SUP00006,"Walia, Ghosh and Bail",Equipment Vendor,37CFOVN6033V5Z0,AMXUP1909Y,wakeeta72@bahl-mammen.com,+919891463750,Oscar Lanka,"22, Tella Circle",Suite 31,Pune,Maharashtra,India,338847,5,Axis Bank,34292154817332,AXIS0810078,Active,2018-06-18,2021-01-21
+7,SUP00007,"Patil, Butala and Khatri",Logistics Provider,07QMOJF4331A6Z6,FAFWI6264X,wgokhale@pathak.biz,0313885841,Wriddhish Samra,"33
+Gour Road",Suite 23,Mumbai,Maharashtra,India,637740,5,Yes Bank,643881676982,YES 0418888,Active,2021-09-30,2023-11-16
+8,SUP00008,"Shanker, Jha and Banik",Equipment Vendor,18XFZTF1023G7Z6,FEXJY7507Y,ria42@kanda.com,00094973738,Christopher Bala,"757
+Ramachandran Path",,Coimbatore,Tamil Nadu,India,914154,8,HDFC Bank,03156827952,HDFC0105796,Active,2023-01-07,2024-06-16
+9,SUP00009,"Shanker, Dash and Issac",Raw Material Supplier,09NQQFE0719B2ZW,SNBAI6213W,faras43@de.com,9438327730,Jyoti Andra,"404, Bhasin Marg",Suite 11,Noida,Uttar Pradesh,India,980397,2,Kotak Mahindra Bank,932237877233,KOTA0554390,Active,2025-06-27,2025-10-01
+10,SUP00010,Tella-Yogi,Logistics Provider,12EQZWX0749F8ZH,QATZN7088O,rachana05@pal.info,7893730739,Hemani Suri,"045, Mistry Path",Floor 19,Mysuru,Karnataka,India,072320,10,IndusInd Bank,7425693919657373,INDU0635464,Active,2023-12-25,2024-03-14
+11,SUP00011,"Dugar, Dua and Kant",Contractor,19NGOHF5354N3ZQ,FEOYE9184T,ganesanjack@ravel.com,3801339913,Rachana Venkatesh,"45, Sahni Path",Floor 9,New Delhi,Delhi,India,970697,2,IndusInd Bank,85091075766,INDU0832476,Active,2019-10-30,2024-04-10
+12,SUP00012,Barad Ltd,Goods Supplier,19ZKXRG7632X3ZD,RGYNN2188D,kurianurmi@lala.com,05746401491,Ekta Devi,"H.No. 46, Madan Zila",Suite 22,Ahmedabad,Gujarat,India,305681,6,Yes Bank,00685193379,YES 0253122,Active,2018-02-26,2024-09-22
+13,SUP00013,"Solanki, Kamdar and Patla",Contractor,22DRQVC9098K8ZZ,UMCSK7952L,chakradhartalwar@modi.com,+916832033250,Shravya Kothari,"63/49
+Pillay Street",Floor 16,Kolkata,West Bengal,India,255241,2,State Bank of India,3687884607724274,STAT0918867,Blocked,2020-07-11,2025-05-26
+14,SUP00014,Korpal Ltd,Raw Material Supplier,19THLZC2699P5Z1,IFGUD5926Q,falak86@rana.org,04393103637,Ojas Sani,"42/860
+Agrawal Street",Unit 52,Kolkata,West Bengal,India,271701,2,Axis Bank,069791728062,AXIS0450131,Active,2019-07-06,2026-03-19
+15,SUP00015,"Narang, Choudhry and Goda",Goods Supplier,18WTATW9740P4ZB,AXAMY3947C,sanaya46@dalia-mallick.com,+916475452855,Naveen Chand,"050
+Pal Street",,New Delhi,Delhi,India,800025,5,Yes Bank,37151028357926,YES 0919793,Active,2019-02-26,2025-01-12
+16,SUP00016,"Kata, Dave and Naidu",Raw Material Supplier,05MQWGR2146U6ZK,AAZYB1819S,rushilchatterjee@morar.com,03664034534,Ranbir Chacko,"22
+Sarma",Suite 15,Hyderabad,Telangana,India,671872,4,IndusInd Bank,83813492328183,INDU0676610,Active,2021-04-30,2025-09-22
+17,SUP00017,"Dara, Andra and Balasubramanian",Equipment Vendor,37VFPIO7004P6Z3,WEZLR2595K,lohit01@chana-reddy.com,6774294341,Nathaniel Roy,"45/68
+Pillay Zila",Unit 72,Ahmedabad,Gujarat,India,133757,6,Kotak Mahindra Bank,41823813464983,KOTA0960335,Active,2023-02-17,2025-12-31
+18,SUP00018,Varma-Khurana,Equipment Vendor,06JBXUT8594K1ZM,JOVNU3676A,xmammen@murty.org,7863432882,Qasim Lanka,"98
+Kothari Road",Floor 1,Chennai,Tamil Nadu,India,191491,8,IndusInd Bank,78670264961,INDU0313489,Active,2025-08-23,2025-08-31
+19,SUP00019,Yogi and Sons,Equipment Vendor,03DRXFU8956L2ZM,IQQZU0133W,uppalyashawini@khalsa.biz,09263046634,Vyanjana Mandal,"H.No. 545, Wagle Path",Unit 99,Ludhiana,Punjab,India,804232,7,IndusInd Bank,90203468275369,INDU0729255,Inactive,2020-07-23,2024-01-21
+20,SUP00020,Natt Ltd,Contractor,07WJWDO4876Z4ZW,DKDBD1468Q,onveergera@vyas-chad.com,+917992266470,Madhav Grewal,"72/665
+Jayaraman Zila",Suite 8,New Delhi,Delhi,India,115016,3,Kotak Mahindra Bank,93423280354,KOTA0440139,Active,2024-07-16,2025-05-02
+21,SUP00021,"Nazareth, Rattan and Sood",Service Provider,28PAWUG3341U3ZF,YLJLX9831G,frado60@krishna.net,01517667749,Nisha Kohli,"94/374, Sandhu Road",Suite 13,Mysuru,Karnataka,India,665355,1,State Bank of India,99753559839707,STAT0757908,Blocked,2020-11-17,2025-12-28
+22,SUP00022,Mandal-Sehgal,Service Provider,33NMZLD2981J5ZL,OWMAO8484L,chanaanusha@dalal.info,06563841228,Sai Prabhu,"88/67
+Varty Zila",Suite 11,Coimbatore,Tamil Nadu,India,196736,9,HDFC Bank,1353081692235912,HDFC0666143,Active,2025-04-19,2026-03-26
+23,SUP00023,Kari LLC,Equipment Vendor,27MCNCI0542H1ZE,GAVBM7699M,anirudhganguly@jain.org,09391641940,Vedhika Rajagopal,"H.No. 05
+Magar Chowk",Suite 27,Kolkata,West Bengal,India,082078,3,Punjab National Bank,55502320747,PUNJ0511002,Active,2016-04-22,2025-11-30
+24,SUP00024,"Ram, Murty and Shetty",Service Provider,10OLQGO9199O1ZF,PBLHE9279X,madanchandresh@nadkarni-mohanty.com,0292904826,Aryan Butala,"18
+Rai Path",Unit 39,New Delhi,Delhi,India,741753,4,Yes Bank,908286428895,YES 0946308,Inactive,2024-12-12,2025-11-23
+25,SUP00025,"Nayar, Kalla and Acharya",Equipment Vendor,36MBXDP5834Q8ZH,COKXQ4385F,vansharana@gala.com,04122402937,Samaksh Pau,"H.No. 02
+Pall Street",,Surat,Gujarat,India,644565,7,Punjab National Bank,063458101509,PUNJ0516803,Inactive,2023-02-03,2025-01-07
+26,SUP00026,Goswami LLC,Goods Supplier,12BEQJD8680O2Z9,BKYBD6740R,lokeyatan@kuruvilla.org,05280909072,Pallavi Setty,"66/32, Varughese Circle",,Hyderabad,Telangana,India,571886,8,Axis Bank,148237515989,AXIS0124724,Inactive,2025-05-03,2025-06-04
+27,SUP00027,Lanka-Sandhu,Raw Material Supplier,30OWLTE4741L8Z3,IVDRY6499D,maneandrew@koshy-mody.info,2155757265,Tristan Vala,"39/79, Puri Zila",Floor 9,Jaipur,Rajasthan,India,152794,3,HDFC Bank,68773071837,HDFC0289754,Under Review,2020-11-25,2022-09-14
+28,SUP00028,"Solanki, Rajagopalan and Murty",Equipment Vendor,24BPARD5369N7Z6,TGFOT7981F,horakritika@kapur-verma.com,05485902064,Ishwar Ganguly,"H.No. 336, Ranganathan Zila",Suite 12,Bengaluru,Karnataka,India,931709,8,State Bank of India,323235615039,STAT0951642,Blocked,2023-02-21,2026-05-24
+29,SUP00029,Swaminathan Group,Service Provider,35SPBGU8627G3Z2,TTPQB9841G,deolvasudha@sani.com,+919523498142,Ishanvi Randhawa,"94/887, Mody Marg",Floor 13,Kolkata,West Bengal,India,630247,7,Punjab National Bank,88513925276,PUNJ0256573,Active,2017-06-14,2018-09-09
+30,SUP00030,"Sharaf, Brahmbhatt and Mannan",Equipment Vendor,27SQWNF8714S4ZH,XNILN7796H,leena81@bansal.info,06150258602,Idika Dash,"12
+Bhasin Path",Floor 20,Mysuru,Karnataka,India,222797,5,State Bank of India,40109897450,STAT0267981,Active,2020-12-20,2022-06-16
+31,SUP00031,"Dar, Lad and Sekhon",Equipment Vendor,36EECLV4778Z9Z6,ICAGF3937M,maanasbansal@borde-saraf.com,05413539875,Veda Mander,"H.No. 26, Sani Street",Floor 19,Nagpur,Maharashtra,India,048436,2,Punjab National Bank,5813830936039452,PUNJ0385245,Active,2023-07-18,2025-02-25
+32,SUP00032,"Rajagopalan, Zacharia and Sarma",Equipment Vendor,10FEBSH2697Q3Z7,GYNCN1348H,virajchadha@seshadri-peri.info,+919491433113,Geetika Barman,"H.No. 858
+Trivedi Circle",Unit 16,Lucknow,Uttar Pradesh,India,349705,4,State Bank of India,758953521740,STAT0511902,Active,2022-03-25,2022-07-27
+33,SUP00033,"Shah, Deep and Sarkar",Contractor,27FQHFI1190U1ZZ,RFNLX1055U,kotayutika@sidhu.com,03232245296,Ayushman Das,"91, Chokshi Chowk",Floor 3,Mumbai,Maharashtra,India,257389,10,State Bank of India,30082022505655,STAT0353292,Active,2025-01-11,2025-10-30
+34,SUP00034,"Swaminathan, Gola and Dar",Raw Material Supplier,15RHJHT3868Q1ZS,WXKZS8374Z,balveer90@anand-wagle.com,+912444598238,Eesha Ramakrishnan,"H.No. 09, Sibal Marg",Unit 12,Ahmedabad,Gujarat,India,198415,7,Axis Bank,28745378919214,AXIS0778257,Active,2021-05-11,2022-08-31
+35,SUP00035,Banik-Varma,Raw Material Supplier,25GJWZG5694D9ZG,NGWAL9405U,tsibal@ratti-kant.com,+913002107794,Omaja Ravel,"22/919
+Walia Ganj",,New Delhi,Delhi,India,937533,3,State Bank of India,02419462107888,STAT0338409,Active,2016-12-17,2026-02-10
+36,SUP00036,"Chada, Bandi and Bora",Contractor,35ASKXK8737T8ZR,LENNL9195D,vkapoor@ramanathan-bahl.com,08622817693,Matthew Chauhan,"71, Taneja Zila",Suite 17,New Delhi,Delhi,India,704213,8,ICICI Bank,8515513562852595,ICIC0610237,Active,2016-07-07,2024-03-11
+37,SUP00037,"Divan, Chaudhry and Verma",Contractor,33LBQDW1650D7ZO,KECGV1718Y,chavvi87@khare.com,6479778399,Hamsini Luthra,"H.No. 98
+Barman Chowk",Unit 50,New Delhi,Delhi,India,395815,7,Punjab National Bank,681062241220,PUNJ0955212,Blocked,2024-03-07,2025-04-25
+38,SUP00038,Dugar-Ravel,Service Provider,16RZQIV0809Y8ZP,MRKTN4892I,zinal81@ramachandran.com,07599021260,Quincy Chacko,"H.No. 96
+Sachdeva",Floor 10,Lucknow,Uttar Pradesh,India,701484,7,Punjab National Bank,10832990864993,PUNJ0442363,Blocked,2016-02-17,2017-04-24
+39,SUP00039,Rao and Sons,Service Provider,30YNVXY1416S9ZO,TLXTN5822P,hemal13@goswami.com,+917951144512,Noah Bhatnagar,"25
+Devi Nagar",,Jaipur,Rajasthan,India,070281,9,ICICI Bank,73085669357,ICIC0820246,Inactive,2017-06-29,2021-01-23
+40,SUP00040,Borah-Bhandari,Raw Material Supplier,35JUXOO6034B4ZR,DSOCY6782G,gkara@soman.biz,9358640018,Charles Sarkar,"82
+Dubey Marg",Suite 2,Mumbai,Maharashtra,India,728725,4,HDFC Bank,878178690493,HDFC0461871,Active,2016-09-26,2020-12-08
+41,SUP00041,"Shroff, Murty and Dash",Logistics Provider,03JGXSU9930X0ZY,FYVDL4711C,unnisachdeva@choudhary.com,01952084611,Krish Padmanabhan,"519, Dutta Zila",,Kolkata,West Bengal,India,092015,6,Kotak Mahindra Bank,49977049118,KOTA0786317,Active,2021-08-10,2023-03-27
+42,SUP00042,"Oza, Dara and Samra",Equipment Vendor,23XONPT3620C7ZL,IXHFU4839Q,vvarma@bail-hayre.com,0312256372,Yagnesh Rana,"H.No. 65
+Ravi Street",,Hyderabad,Telangana,India,591557,5,HDFC Bank,58178785960677,HDFC0969467,Active,2019-08-13,2026-05-30
+43,SUP00043,"Sami, Seth and Om",Goods Supplier,01RFAUQ0600R7Z4,WAYEO2206R,timothyyohannan@halder.com,+917733371991,Samar Sengupta,"366, Oza Ganj",Floor 6,Ludhiana,Punjab,India,038156,9,State Bank of India,7853734107656922,STAT0602286,Active,2023-10-25,2026-03-19
+44,SUP00044,Maharaj-Iyer,Logistics Provider,02RFDRV9970Z7Z1,AQFXP9934S,manthan97@choudhury.net,02786108938,Nakul Srivastava,"41/85
+Sani Ganj",Unit 79,Chennai,Tamil Nadu,India,394407,10,Axis Bank,3949835889681403,AXIS0599780,Active,2018-02-03,2025-02-22
+45,SUP00045,Bhasin-Ganesh,Goods Supplier,03NOPGA4242G9ZY,FPREZ5625U,chadasudiksha@bal.com,04058822217,Mohini Tella,"H.No. 120
+Kohli Road",,Surat,Gujarat,India,395745,3,IndusInd Bank,04712328816,INDU0680007,Active,2019-06-04,2023-12-06
+46,SUP00046,Puri Ltd,Goods Supplier,30MGVUA6855F6ZR,SZOPI4342K,devikachahal@varty.com,+915934917540,Dayita Ray,"64/24
+Mani Circle",,Mumbai,Maharashtra,India,128823,3,Punjab National Bank,392384673208,PUNJ0701374,Active,2018-05-13,2025-05-16
+47,SUP00047,Goyal-Badal,Service Provider,07IBQUU8747L5ZF,BRBPT0653Z,sibalbhavika@kanda.net,+918438311852,Netra Roy,"291, Kapoor Chowk",Suite 21,Kolkata,West Bengal,India,696258,7,Punjab National Bank,20027905446004,PUNJ0264584,Active,2021-06-06,2022-11-09
+48,SUP00048,Patel Inc,Service Provider,16BEJXM3245T8ZH,LABSN4262F,parthsastry@bains-mani.biz,5005927963,Shravya Luthra,"552
+Sodhi Street",Floor 19,Lucknow,Uttar Pradesh,India,616163,7,Yes Bank,4322238591998803,YES 0286222,Active,2018-06-25,2025-08-12
+49,SUP00049,"Setty, Chaudhry and Amble",Raw Material Supplier,14NOWUU3780X7ZG,KQVXU9856R,faqid41@pandit-narang.com,0014411743,Yahvi Bawa,"99/33, Mangal Marg",Unit 10,New Delhi,Delhi,India,037532,7,Yes Bank,018607636016,YES 0815136,Active,2025-07-31,2025-09-16
+50,SUP00050,Pau-Manda,Goods Supplier,19DHSMU2594O4ZO,UWQQP0698E,wadhwajanya@mahal-ganesan.net,+914660721547,Gautam Ram,"54/78
+Pradhan Marg",Suite 10,Kolkata,West Bengal,India,081931,7,IndusInd Bank,98100386044165,INDU0193709,Active,2017-06-12,2018-04-26
+51,SUP00051,Subramanian-Basu,Goods Supplier,27AWQFU8016Y4ZO,MIJVO6996B,kaulwarinder@dutt-chada.com,03549048792,Mohini Dalal,"24/71, Sankar Nagar",,Coimbatore,Tamil Nadu,India,060789,9,Punjab National Bank,52314510667,PUNJ0588659,Inactive,2024-07-01,2025-12-07
+52,SUP00052,"Raj, Bobal and Dugar",Equipment Vendor,19IDFCD1507D5ZS,JGBCB2334L,falan14@reddy.org,+914217017434,Utkarsh Bose,"H.No. 798, Babu Nagar",Floor 15,Jaipur,Rajasthan,India,463551,8,Axis Bank,828921762949,AXIS0624313,Active,2022-08-13,2023-05-20
+53,SUP00053,"Madan, Sandhu and Dube",Logistics Provider,28THPJP7387M9Z9,FMRCJ7202N,fvenkataraman@arora-garg.org,8214943778,Ekbal Goyal,"18, Balay Chowk",Floor 10,New Delhi,Delhi,India,188349,5,HDFC Bank,3762713281321665,HDFC0506233,Active,2018-06-18,2023-02-26
+54,SUP00054,"Johal, Sur and Borra",Goods Supplier,19LZUXW7088J3Z4,GAENW4257K,brijeshnagar@saha.net,+918627518985,Ishaan Tandon,"52, Chaudhuri Ganj",,Chennai,Tamil Nadu,India,372715,9,State Bank of India,2082850991608167,STAT0717231,Active,2019-08-12,2021-08-11
+55,SUP00055,Luthra Group,Service Provider,13DJDHW7210J1ZI,OYIIJ3880Q,msachdeva@keer.info,+914372264331,Nidhi Sarraf,"50/339, Buch Path",Unit 52,Jaipur,Rajasthan,India,783752,6,ICICI Bank,49716794247941,ICIC0863507,Active,2016-06-06,2017-08-26
+56,SUP00056,Yogi-Shan,Contractor,04OWBPC2063D8ZQ,OPAXB6259T,bobalucchal@rajagopalan-kurian.com,05568842704,Ishita Kannan,"H.No. 77, Narain Path",Floor 8,New Delhi,Delhi,India,185122,9,ICICI Bank,10937401948483,ICIC0159188,Active,2024-01-18,2026-05-05
+57,SUP00057,"Shanker, Nagarajan and Wali",Equipment Vendor,19VSSWY4484S0ZW,PHPQL8378Q,veda47@sinha.com,+918993659869,Barkha Tara,"01/89, Chawla Circle",Unit 4,New Delhi,Delhi,India,315789,3,Yes Bank,46068656741,YES 0766818,Active,2017-11-15,2020-11-11
+58,SUP00058,"Bhandari, Mittal and Tailor",Goods Supplier,03WCKQJ0427Q2ZH,UXXJP6999B,eiravatibarman@barad-bhatti.com,5318830857,Dayamai Mammen,"385, Nagar Zila",,Pune,Maharashtra,India,130123,1,State Bank of India,123760359488,STAT0893446,Active,2022-06-19,2025-01-04
+59,SUP00059,"Kota, Karan and Gulati",Logistics Provider,32JOTRP9809C0ZW,HEDWW2250V,labanborah@singh.info,+912451456844,Ikshita Oza,"08, Dhar Zila",,Chennai,Tamil Nadu,India,070639,6,IndusInd Bank,9306412193957728,INDU0970611,Active,2018-06-30,2022-01-07
+60,SUP00060,Seth Group,Raw Material Supplier,20LQPUN3232R0ZQ,FHXTW4344R,zgoswami@dhillon-chopra.info,+918715173980,Mohini Garde,"84, Salvi Path",Floor 14,Amritsar,Punjab,India,595188,1,IndusInd Bank,34123908981127,INDU0862987,Active,2020-09-19,2021-04-06
+61,SUP00061,Wagle-Dhar,Logistics Provider,37CWBYU7963N2ZZ,OZFNQ7286X,rudra41@brahmbhatt.com,06243672668,Lekha Bhatia,"59/20
+Som Zila",Floor 16,New Delhi,Delhi,India,882991,1,Kotak Mahindra Bank,93328837952,KOTA0387820,Active,2018-09-01,2024-03-25
+62,SUP00062,Patel-Kakar,Logistics Provider,27GLCHD4657A6ZT,QPSUV4748O,deyanthony@kala.com,+910599001877,Oeshi Ahluwalia,"H.No. 854, Keer Ganj",,Kolkata,West Bengal,India,118527,6,State Bank of India,73685500355,STAT0183937,Under Review,2021-05-26,2025-04-25
+63,SUP00063,"Vora, Mitra and Vora",Goods Supplier,04YAFBU2335P9Z8,DBRLM1299K,ubahl@arora.org,02902985734,Gauri Srinivas,"H.No. 20
+Grover Ganj",Floor 14,Bengaluru,Karnataka,India,372639,3,State Bank of India,27175618249904,STAT0670148,Active,2025-03-03,2025-09-09
+64,SUP00064,Bedi-Chad,Logistics Provider,32MOZNL7021Q1ZB,WVRTA4123J,bsarkar@bajwa.net,4617911969,Lipika Sachdev,"62
+Seth Circle",,Noida,Uttar Pradesh,India,680674,9,Kotak Mahindra Bank,4487306851569394,KOTA0645339,Active,2024-06-25,2024-10-06
+65,SUP00065,Mangal LLC,Equipment Vendor,01EDOHM6220B5ZA,QUZSI7086V,dmody@baria.org,+914097847530,Kritika Hora,"12/690, Tandon Ganj",,Noida,Uttar Pradesh,India,312105,6,Kotak Mahindra Bank,308654436875,KOTA0935231,Blocked,2019-05-21,2022-01-21
+66,SUP00066,Ravel-Ghosh,Service Provider,29DNAUW9217R0ZH,JAEVL7716O,mandergautami@kant.com,8006075317,Samarth Krishnamurthy,"H.No. 087
+Kota Circle",Floor 8,Ahmedabad,Gujarat,India,647879,10,Kotak Mahindra Bank,4030539851578207,KOTA0415927,Active,2016-07-31,2020-06-25
+67,SUP00067,Kapoor-Saran,Logistics Provider,35MHBIC6279D1ZR,UHHUW6800Q,edhithatandon@nagy-krishnamurthy.com,1235843522,Yashodhara Ram,"066
+Sachar",Floor 18,Surat,Gujarat,India,919957,7,State Bank of India,8380399122849814,STAT0300891,Active,2021-12-03,2023-06-20
+68,SUP00068,Chaudhuri LLC,Contractor,27DZDWR7416B9ZR,RSGBZ5782B,bhallahemani@pradhan.biz,05910900893,Balendra Minhas,"H.No. 85
+Handa Chowk",Unit 89,Amritsar,Punjab,India,653030,8,Punjab National Bank,31582278510,PUNJ0685985,Active,2019-02-06,2025-09-26
+69,SUP00069,Malhotra-Shere,Raw Material Supplier,13JYDRU9115Z1ZK,SLWMQ0611H,ethan29@sur-wali.info,0807727473,Timothy Dube,"H.No. 316, Srivastava Ganj",Suite 12,Surat,Gujarat,India,503783,1,Axis Bank,97357103239,AXIS0858791,Active,2021-03-04,2023-08-28
+70,SUP00070,"Varma, Dasgupta and Sastry",Contractor,20CQIHT7079T7ZT,BDZAE6770U,barmanpavani@nagar-sethi.com,+912975696665,Aarna Magar,"756, Menon",Unit 85,Chennai,Tamil Nadu,India,500045,3,Kotak Mahindra Bank,38795564641,KOTA0497160,Blocked,2024-04-27,2024-12-18
+71,SUP00071,"Goel, Tata and Kapur",Contractor,26KVGSO7393X3ZN,NXPMM6328E,rsabharwal@yadav.net,05539919716,Yashvi Yogi,"62, Chacko Nagar",Suite 45,Amritsar,Punjab,India,337099,5,ICICI Bank,0701058652656435,ICIC0606390,Active,2021-10-07,2023-11-30
+72,SUP00072,Gade-Chander,Service Provider,32BZYMT4264V4Z5,QSPXE8365C,loganbala@palla.org,+917214264807,Rudra Mann,"26/47, Kashyap Road",Unit 27,Mumbai,Maharashtra,India,095722,7,IndusInd Bank,39201965960427,INDU0362089,Active,2016-04-16,2024-04-06
+73,SUP00073,"Das, Sundaram and Kohli",Goods Supplier,17CWPLZ0203P3ZW,CXNVG8056Y,pmann@dua.com,05949309767,Wyatt Jha,"H.No. 712, Narayanan Chowk",Floor 13,Bengaluru,Karnataka,India,602437,3,HDFC Bank,33480838800456,HDFC0464271,Active,2020-01-30,2021-04-04
+74,SUP00074,Bhagat-Goswami,Equipment Vendor,32ZIBOX0048W5ZZ,FXLPO9102X,latathomas@shanker-natt.biz,09401057108,Barkha Vig,"H.No. 26
+Trivedi Nagar",,Coimbatore,Tamil Nadu,India,206027,5,Punjab National Bank,71518498227320,PUNJ0987898,Active,2020-04-01,2023-02-02
+75,SUP00075,Vala PLC,Raw Material Supplier,05JEAFW1480R3ZG,UPKFC9336P,teerth98@merchant.com,+914120289015,Jagrati Issac,"H.No. 10
+Bhalla Zila",,Lucknow,Uttar Pradesh,India,356975,6,Axis Bank,458428458291,AXIS0974671,Active,2024-01-18,2026-01-13
+76,SUP00076,"Sidhu, Sha and Parmer",Service Provider,06OKKWX0053E6ZO,TIUDW6575L,jdhar@sarraf-tank.com,+912723347089,Timothy Sathe,"649, Prakash Path",Floor 7,Jaipur,Rajasthan,India,266983,5,Kotak Mahindra Bank,7520507138074741,KOTA0647256,Active,2017-01-21,2020-06-17
+77,SUP00077,"Sur, Choudhry and Pradhan",Raw Material Supplier,20BMEZX4429A0ZG,ZMXAG8285P,warjaskale@arora.com,6048844669,Ridhi Chawla,"352
+Shah Zila",,Nagpur,Maharashtra,India,433599,8,Punjab National Bank,57774946658061,PUNJ0794936,Active,2020-02-22,2025-01-27
+78,SUP00078,"Ram, Sanghvi and Gera",Service Provider,23OIDAW2428H6ZX,XSLCS6500D,ldass@gara.com,06196619843,Aarini Pandya,"381, Khare Chowk",Suite 15,Kolkata,West Bengal,India,940583,7,Punjab National Bank,0709305860735464,PUNJ0383869,Active,2019-09-17,2023-03-17
+79,SUP00079,"Bahri, Tella and Srivastava",Equipment Vendor,01KBEEP1231L1ZD,TMBHP3092E,harishmandal@agate.com,0062097928,Dhruv Barad,"156, Dave Zila",Unit 22,Chennai,Tamil Nadu,India,240171,4,Kotak Mahindra Bank,898807833175,KOTA0570080,Inactive,2024-06-15,2025-03-10
+80,SUP00080,Mukhopadhyay Ltd,Logistics Provider,14ZFWXU2678Z2Z1,XMTAI9078U,deyeta@oza-bhalla.biz,+915081854665,Vedika Narayanan,"H.No. 395
+Purohit Nagar",Unit 93,Chennai,Tamil Nadu,India,386478,2,Punjab National Bank,64183328077330,PUNJ0600158,Inactive,2024-08-23,2025-12-22
+81,SUP00081,Dhillon-Dey,Raw Material Supplier,10ADIRZ9595H1Z7,KXIAC6548X,ria13@oak.com,7909213512,Jason Kunda,"11/94, Randhawa Ganj",,Bengaluru,Karnataka,India,195388,2,Punjab National Bank,83709076964,PUNJ0166959,Inactive,2019-11-25,2026-04-17
+82,SUP00082,Varty-Warrior,Raw Material Supplier,05BGPYB1471N5ZG,HNMJN0382E,raghav11@parikh.biz,7103274868,Hemal Taneja,"H.No. 35, Roy Circle",Unit 96,Nagpur,Maharashtra,India,840445,5,ICICI Bank,30275819913,ICIC0739539,Active,2020-03-24,2024-06-22
+83,SUP00083,Soni-Sarna,Contractor,31VMCUX7774I2ZX,PTWQU3144J,uamble@nath-mahajan.com,3378574851,Radha Gade,"59, Bains Marg",Suite 39,Pune,Maharashtra,India,689587,5,IndusInd Bank,59829303626,INDU0297457,Active,2019-12-06,2026-01-31
+84,SUP00084,"Seth, Bhat and Roy",Raw Material Supplier,07DIUIZ9067G0ZN,UYDXR5860E,isaiahchoudhry@yohannan.com,+919101685073,Advik Verma,"H.No. 157, Mann",Unit 59,Kolkata,West Bengal,India,940080,8,Punjab National Bank,50311489210489,PUNJ0917876,Active,2024-05-02,2024-12-19
+85,SUP00085,Khare and Sons,Equipment Vendor,01IEZQT5904R9ZL,KWHVT7712K,bhavikarai@buch-behl.com,08386137237,Waida Parmar,"93/91
+Chakraborty Ganj",,Jaipur,Rajasthan,India,105432,7,Kotak Mahindra Bank,268352050937,KOTA0741903,Inactive,2017-11-17,2020-02-06
+86,SUP00086,"Dube, Goyal and Bhattacharyya",Equipment Vendor,06RHTOS9490J7ZE,EKRUQ3863O,bhavna18@bahri-bumb.com,+919056260479,Timothy Khanna,"539, Kar Zila",,Kolkata,West Bengal,India,159497,6,Kotak Mahindra Bank,37960353430,KOTA0467378,Active,2024-03-01,2026-03-18
+87,SUP00087,Oommen-Mitter,Logistics Provider,08WAGOT4069O7ZS,IUFZS0041O,nloke@naik.com,05648094364,Ekavir Kade,"77
+Ratti Nagar",,Bengaluru,Karnataka,India,650855,10,Yes Bank,36344922052,YES 0133316,Under Review,2023-05-09,2023-06-10
+88,SUP00088,Sen LLC,Goods Supplier,05FNICU6206V3ZZ,RKCXV7086V,bhavyapau@bora-luthra.com,+913437203914,Gabriel Barman,"616
+Gour Marg",,Surat,Gujarat,India,983870,2,HDFC Bank,26647232025997,HDFC0631635,Active,2016-03-02,2018-07-05
+89,SUP00089,Kothari-Mohanty,Service Provider,33VUBMB2172L6Z2,EMUDI4226H,waida25@chanda.com,05436955194,Qabil Maharaj,"765, Subramaniam Street",,Lucknow,Uttar Pradesh,India,476146,10,Kotak Mahindra Bank,99689418119336,KOTA0509801,Active,2022-04-05,2023-05-11
+90,SUP00090,Madan Group,Equipment Vendor,06VXSFH3401F6Z5,BLKOQ8406Y,azaan64@dixit.info,3776205914,Anamika Sant,"29/81, Oza Zila",Unit 69,Surat,Gujarat,India,090801,6,ICICI Bank,107368016521,ICIC0957761,Inactive,2017-07-28,2021-02-18
+91,SUP00091,"Chander, Keer and Dewan",Contractor,01KPISP1210T4ZG,MPWIH9156M,battafalak@pillay.com,+913761697982,Lipika Deep,"12
+Dora Ganj",Suite 10,Noida,Uttar Pradesh,India,665254,6,Axis Bank,5937333614938771,AXIS0339218,Inactive,2022-04-01,2026-04-13
+92,SUP00092,"Manne, Ghosh and Deep",Service Provider,05KLCIK2027O8ZJ,CUPAN3779V,harshil83@saha-thaker.com,+910768257547,Xiti Gopal,"908
+Iyengar Road",,New Delhi,Delhi,India,070766,2,State Bank of India,05513868668755,STAT0707413,Active,2025-04-09,2025-10-15
+93,SUP00093,Chaudhuri LLC,Equipment Vendor,23DHJCR9431L2Z3,AKIHX7715F,wnadkarni@shroff-sharaf.com,8986676665,Janaki Dua,"47/88
+Chaudhuri Chowk",,Ahmedabad,Gujarat,India,444803,10,State Bank of India,456647001144,STAT0282332,Active,2021-03-15,2023-01-11
+94,SUP00094,Varughese LLC,Logistics Provider,23ISYZO1794K3Z2,LKVCD6785C,onaidu@khare.com,+910501825107,Xiti Sant,"H.No. 35, Bhalla Circle",Suite 44,Coimbatore,Tamil Nadu,India,867358,7,Axis Bank,778927870059,AXIS0571886,Active,2018-05-02,2018-07-10
+95,SUP00095,"Khare, Mall and Joshi",Logistics Provider,08FQUMG0762C7ZC,PQVHY0637Q,charles37@dani.com,+910540338015,Lopa Dugal,"H.No. 30
+Aggarwal Zila",Suite 48,Nagpur,Maharashtra,India,933496,10,Axis Bank,2560213528219588,AXIS0487647,Active,2021-08-23,2021-11-12
+96,SUP00096,Bumb-Buch,Service Provider,22DIMJA4385U9Z8,NBFRY8260K,ekapad88@pingle-bath.net,02589400441,Ijaya Mane,"28/987
+Majumdar Marg",Suite 27,Jaipur,Rajasthan,India,075514,6,ICICI Bank,31441710328,ICIC0527336,Blocked,2021-03-10,2023-04-12
+97,SUP00097,Sen PLC,Raw Material Supplier,08WWSZL7006X4ZE,MAQYX6220W,gdar@majumdar-mand.info,04940514884,Lipika Ram,"60
+Rastogi Street",Unit 7,Kolkata,West Bengal,India,401441,5,IndusInd Bank,03920761989,INDU0612584,Active,2019-06-02,2019-09-24
+98,SUP00098,Arora-Vala,Goods Supplier,21MDNHM9540J2ZH,IMBBF5033I,zpant@divan-sarna.net,+918249685466,Anya Devan,"43
+Comar Marg",Floor 18,Hyderabad,Telangana,India,094443,3,Yes Bank,867803696407,YES 0396046,Active,2018-12-26,2023-07-10
+99,SUP00099,Bhatia LLC,Logistics Provider,35EDFSS3484G2ZD,EOWUW8717M,keerchristopher@mane-shukla.info,+916308353518,Nathan Bains,"94/53
+Muni Chowk",Floor 19,Hyderabad,Telangana,India,552220,7,State Bank of India,079639584082,STAT0894855,Active,2024-09-25,2025-03-13
+100,SUP00100,Kashyap PLC,Raw Material Supplier,26AMZHA7711O9Z2,DUKEK1869G,gadesachi@tata-barad.com,+912326520016,Pratyush Khatri,"40, Lata Marg",Suite 40,Lucknow,Uttar Pradesh,India,397224,1,ICICI Bank,224973558900,ICIC0562289,Active,2024-02-20,2024-10-10
+101,SUP00101,"Randhawa, Mohanty and Chadha",Service Provider,15JUQFL4503A0ZI,HNSDI3867O,bhavani36@bhattacharyya.info,00316708219,Banjeet Sharma,"H.No. 586, Rege Zila",Suite 29,Amritsar,Punjab,India,968463,5,IndusInd Bank,85193110489,INDU0821006,Active,2021-08-10,2026-04-05
+102,SUP00102,Radhakrishnan-Mukhopadhyay,Equipment Vendor,12SQAMW6327H8Z0,AXJEG8625Z,priyaborde@ramakrishnan.org,3586560563,Yochana Bajwa,"99
+Chaudhary Path",,Amritsar,Punjab,India,213488,3,State Bank of India,9902839318397782,STAT0463167,Active,2020-09-04,2022-04-29
+103,SUP00103,"Sheth, Butala and Wable",Raw Material Supplier,19HVUSI8509B3Z4,LYUFW1282Z,ekansh41@chaudhary.org,9540875087,Ayaan Mutti,"H.No. 271
+Soman Road",Floor 3,Chennai,Tamil Nadu,India,762639,2,ICICI Bank,878183514448,ICIC0266270,Active,2020-02-29,2023-04-10
+104,SUP00104,Mandal-Sunder,Goods Supplier,34OBCXB9302Z9ZD,KYYZE3306L,zkhatri@vohra.com,3931436645,Victor Kant,"779, Sahota",Floor 11,Pune,Maharashtra,India,507243,3,Axis Bank,98633009206673,AXIS0167315,Active,2018-08-12,2020-11-20
+105,SUP00105,"Kannan, Krish and Comar",Logistics Provider,34QYUHX2134J8ZN,VDWKI1707Z,dugaransh@bhagat-kumer.com,04975164060,Utkarsh Pal,"85/471, Thakur Path",Suite 34,Jaipur,Rajasthan,India,964429,7,IndusInd Bank,0993106904331857,INDU0423576,Active,2017-03-31,2026-02-27
+106,SUP00106,"Nanda, Pandya and Bahl",Goods Supplier,18ZTGPK9556Y5ZF,GKDKG2841U,fissac@pal.com,04970310668,Idika Cheema,"85, Sura Marg",Unit 44,Amritsar,Punjab,India,008710,10,IndusInd Bank,655607903765,INDU0553660,Inactive,2023-11-06,2024-02-01
+107,SUP00107,Ravi Inc,Raw Material Supplier,11ETKJO5844D9ZL,HGUFE4206A,nandini30@sathe-bhatnagar.org,+919562603800,Damyanti Narang,"H.No. 822, Rout Circle",Suite 38,New Delhi,Delhi,India,415635,3,Kotak Mahindra Bank,76450263914743,KOTA0245720,Active,2016-02-07,2023-01-29
+108,SUP00108,Kulkarni Group,Raw Material Supplier,14MYJWN0076G9Z1,ATYNK9391R,kalaabha@pillay.com,+910393575706,Hardik Sahota,"155
+Dube Road",Suite 33,Pune,Maharashtra,India,012153,5,Yes Bank,395566567861,YES 0463314,Active,2020-12-07,2025-11-21
+109,SUP00109,Venkatesh-Bahl,Goods Supplier,23QVXXW2904U8ZM,YCCXP6619Y,vidhichatterjee@ganguly-subramanian.info,09332256834,Om Chahal,"66, Bajaj Marg",Unit 59,Mumbai,Maharashtra,India,191975,1,Yes Bank,9443104316366289,YES 0563720,Active,2018-10-28,2023-05-02
+110,SUP00110,Doctor Group,Service Provider,32RUCMR2550R6ZY,UYUKM5766R,bahadurjitnatarajan@kalla.org,+919994532995,Vidhi Grover,"04/820
+De Path",Unit 75,Noida,Uttar Pradesh,India,491717,8,Punjab National Bank,93328691434,PUNJ0427795,Active,2024-07-13,2025-08-04
+111,SUP00111,Comar-Vig,Equipment Vendor,11GKVSA3828R3ZG,LVNHI6290P,chavvi09@pingle-master.com,+917257670364,Akshay Chhabra,"30, Lal Ganj",Suite 15,Mysuru,Karnataka,India,087701,2,Axis Bank,73329259540,AXIS0231845,Active,2019-12-16,2023-11-24
+112,SUP00112,Sen LLC,Goods Supplier,06HMGTW2912C7ZR,MYLLT4392M,wvyas@sandhu-ratti.com,9169197608,Ganga Kota,"75/82
+Rana Nagar",Floor 9,Bengaluru,Karnataka,India,743365,4,Punjab National Bank,013406532882,PUNJ0423865,Active,2023-11-29,2025-11-09
+113,SUP00113,Sangha-Kala,Goods Supplier,06QQSEQ6293B2ZN,EAXGZ1475O,waliadvika@walla.com,+911311366000,Garima Buch,"18/08
+Mohan Circle",Unit 1,Hyderabad,Telangana,India,649578,10,Kotak Mahindra Bank,95910678024,KOTA0953279,Active,2021-12-27,2024-12-14
+114,SUP00114,Hans-Venkatesh,Equipment Vendor,25LXBDZ5255B8ZP,CIJCS6526W,praneel14@anand.com,+912229629467,Urvashi Pandit,"H.No. 781, Devan Road",Floor 20,Mysuru,Karnataka,India,084203,1,Kotak Mahindra Bank,30259478337,KOTA0388980,Under Review,2024-05-18,2026-05-08
+115,SUP00115,Savant and Sons,Goods Supplier,04IIWVQ4904X3ZY,EIMJV8758S,yashvilanka@gill.com,06695119714,Ryan Naik,"986, Atwal Road",,Amritsar,Punjab,India,126471,6,IndusInd Bank,022185812548,INDU0664989,Active,2022-10-15,2025-08-17
+116,SUP00116,Ahuja-Nazareth,Raw Material Supplier,11XBNQJ2707B2ZH,CQHWC6749Z,bariakabir@barad.com,5761256546,Gayathri Pillay,"H.No. 17
+Soman Marg",Suite 36,Ludhiana,Punjab,India,055520,9,IndusInd Bank,963190389846,INDU0880037,Active,2020-03-13,2023-11-17
+117,SUP00117,Devi PLC,Contractor,04SRVFW4081S8Z7,AOVAG6300T,chakrika87@kibe.biz,+915091290734,Gabriel Brar,"53, Mand Zila",Floor 14,Nagpur,Maharashtra,India,099074,10,Punjab National Bank,8946892150680301,PUNJ0360186,Active,2023-11-23,2024-02-20
+118,SUP00118,Sodhi-Bhatt,Raw Material Supplier,06MVJEW3100L7Z4,EGIYX7261Z,chaudharykrishna@biswas-bhargava.com,7126826514,Vidhi Tella,"830
+Narayan Circle",,Kolkata,West Bengal,India,240219,4,ICICI Bank,14582482934948,ICIC0324126,Active,2021-03-06,2026-06-21
+119,SUP00119,"Purohit, Mand and Chakrabarti",Goods Supplier,37LYSDS4267X4ZJ,PLVKJ4337Y,finn43@zacharia-hayre.com,02255937860,Vrishti Palla,"77/10
+Kohli Ganj",,Chennai,Tamil Nadu,India,624259,6,HDFC Bank,89431389903937,HDFC0546902,Active,2017-12-04,2024-01-20
+120,SUP00120,"Pingle, Varma and Taneja",Service Provider,07ABDYD4504X8ZX,DEZQI6581V,jhalak27@rattan-mohanty.org,08834909913,Jeevika Thaker,"596, Sawhney Ganj",,Mumbai,Maharashtra,India,186295,10,Axis Bank,28910213991152,AXIS0829310,Inactive,2023-10-24,2025-02-28
+121,SUP00121,"Muni, Chaudhuri and Deshpande",Contractor,32XTRTB9623W3ZW,RKYTI9564X,eshanamurthy@oak-balasubramanian.com,3033119809,Rachita Dass,"57/775
+Raju Circle",Unit 69,Hyderabad,Telangana,India,960227,2,HDFC Bank,31578739589,HDFC0566969,Active,2018-07-07,2019-10-16
+122,SUP00122,Cherian Group,Equipment Vendor,01ZAUZN5199S1Z3,DBGPO0890C,upadhritidash@bahri-handa.info,04738642805,Harinakshi Kant,"03/789, Randhawa Street",Unit 34,Ludhiana,Punjab,India,049006,5,Kotak Mahindra Bank,4390948587526040,KOTA0316722,Active,2023-05-25,2026-02-10
+123,SUP00123,Dani Inc,Logistics Provider,32XMTEI8718H0ZO,WGJEY2019P,alexander50@tella.com,6247640844,Nathaniel Balasubramanian,"56/936, Kumar Nagar",,New Delhi,Delhi,India,146940,6,Kotak Mahindra Bank,8553441236568162,KOTA0953266,Active,2025-06-18,2025-07-09
+124,SUP00124,"Shenoy, Pandey and Minhas",Raw Material Supplier,11EHKNV2231U6Z1,LSQFO6951I,mitalvritti@gulati.biz,+916095996627,Zinal Sengupta,"H.No. 06, Nigam Path",Floor 9,Hyderabad,Telangana,India,851854,6,State Bank of India,228682515413,STAT0394966,Active,2021-06-13,2024-10-02
+125,SUP00125,Savant-Oak,Logistics Provider,11ZIHFW9324H7Z5,TUVDW8376D,battainaya@chada-hari.biz,1705498160,Caleb Sathe,"H.No. 58
+Lata Ganj",Suite 37,Coimbatore,Tamil Nadu,India,016171,6,Kotak Mahindra Bank,303757466221,KOTA0798731,Active,2025-12-12,2026-06-21
+126,SUP00126,Sehgal-Ben,Logistics Provider,31OMXDI6065K6ZJ,KVKPX8966U,nazarethmohini@nayar.biz,05414908309,Charvi Mane,"H.No. 013, Verma",Suite 8,Coimbatore,Tamil Nadu,India,441924,8,Punjab National Bank,622540752254,PUNJ0918226,Active,2023-10-07,2025-06-14
+127,SUP00127,Hora Ltd,Service Provider,32RLXGC3222D4ZP,ZLWYQ6410H,jsahni@gala.com,+912390144395,Indrajit Dass,"23, Anand Ganj",Floor 1,Lucknow,Uttar Pradesh,India,817687,1,Yes Bank,95356173957,YES 0925560,Active,2017-11-26,2021-08-18
+128,SUP00128,Tata and Sons,Goods Supplier,16BHMUU1880O7ZA,ZSQHD1257I,vihaan81@guha.com,4737345672,Champak Chakraborty,"52/67, Soni Road",Suite 47,Jaipur,Rajasthan,India,231609,6,ICICI Bank,249160648195,ICIC0158669,Blocked,2017-10-05,2019-04-09
+129,SUP00129,Barad-Sant,Contractor,34KRACK6612D1ZU,YFWAJ1787G,widishabadal@parsa.biz,08588618345,Logan Chander,"53/444, Manne Path",Floor 3,Mysuru,Karnataka,India,012670,8,Punjab National Bank,0562915573066422,PUNJ0359862,Active,2025-03-04,2025-06-26
+130,SUP00130,Sarraf-Radhakrishnan,Contractor,16CELRJ2386A3ZM,QDORF7921A,draj@bhardwaj-sarna.org,2087522707,Isha Datta,"12/21, Karpe Circle",Suite 38,Lucknow,Uttar Pradesh,India,257873,5,Yes Bank,700555629693,YES 0353283,Active,2020-07-13,2021-02-27
+131,SUP00131,"Talwar, Atwal and Ramachandran",Goods Supplier,26JDTDY4401M8Z3,TOYQR3694J,soommen@setty-grover.com,1611941779,Forum Mandal,"H.No. 866, Sha Street",Suite 29,Lucknow,Uttar Pradesh,India,357996,9,HDFC Bank,45566109962,HDFC0982619,Blocked,2022-05-25,2025-09-06
+132,SUP00132,"Sunder, More and Sabharwal",Service Provider,26AJWBC9169H8ZH,ZLDTG8778E,damini50@devi.org,+915434263342,Falan Ratti,"01
+Narayan Road",Suite 29,Kolkata,West Bengal,India,633116,6,HDFC Bank,4963510954896155,HDFC0517875,Active,2017-11-07,2022-09-14
+133,SUP00133,Goswami-Shanker,Service Provider,04URRUA8761M6ZO,AMUOE5874P,hritikdoshi@balan-wadhwa.com,01798061184,Yauvani Vora,"58/68, Varughese Street",Floor 13,Hyderabad,Telangana,India,549027,10,Kotak Mahindra Bank,3295919015164339,KOTA0192653,Active,2016-08-01,2023-12-04
+134,SUP00134,"Parekh, Dixit and Madan",Contractor,08LZGQI4607D8ZK,JYGFI7719X,kritika01@narang-krishna.biz,01252708615,Edhitha Menon,"278, Dugar Chowk",Unit 69,Noida,Uttar Pradesh,India,190937,8,Punjab National Bank,60495899400943,PUNJ0230896,Active,2025-02-09,2026-03-26
+135,SUP00135,"Kapadia, Mangat and Sathe",Raw Material Supplier,01RJAGV3272C6Z7,SUWZI7952S,aptearjun@gandhi.com,6560225259,Sathvik Pai,"60/931
+Sachar",,Surat,Gujarat,India,377365,8,Kotak Mahindra Bank,20488839674,KOTA0799682,Inactive,2024-12-25,2025-07-20
+136,SUP00136,Chhabra-Wason,Contractor,26XASJD9226A6ZU,ZNPES3057S,valabalvan@bedi.com,6998366135,Tejas Bora,"H.No. 194
+Sengupta Nagar",Floor 1,Mysuru,Karnataka,India,008381,4,IndusInd Bank,32420219307,INDU0994647,Active,2024-09-09,2024-09-19
+137,SUP00137,Srinivas and Sons,Logistics Provider,16GBOBP4362D3ZI,YKUIY0675B,raghav06@krish.info,+919647156248,Abhiram Kale,"H.No. 90
+Lad Chowk",,Hyderabad,Telangana,India,959631,5,Punjab National Bank,61403023277647,PUNJ0684122,Active,2018-08-26,2022-05-06
+138,SUP00138,Khurana and Sons,Equipment Vendor,13DPCBV8960O2ZO,PGDMR8192K,swaminathanchaitaly@pingle-kala.org,+918317299529,Harsh Talwar,"H.No. 10, Seshadri",,Chennai,Tamil Nadu,India,879884,5,HDFC Bank,33015653704,HDFC0834989,Active,2018-11-30,2024-03-29
+139,SUP00139,Sankar and Sons,Raw Material Supplier,07KLEIC6016K6ZW,EKEYH0700A,chakradhar91@nigam.org,+915805727172,Naksh Vig,"47, Reddy Ganj",,Mysuru,Karnataka,India,684744,2,ICICI Bank,45944457899308,ICIC0911924,Under Review,2025-03-11,2025-08-05
+140,SUP00140,Warrior Group,Service Provider,02MIEWM7357M0ZB,TPWYL7183F,dprasad@brahmbhatt.com,+917802289932,Caleb Lalla,"H.No. 641
+Naidu Nagar",,New Delhi,Delhi,India,844073,10,ICICI Bank,883057279602,ICIC0785391,Active,2022-02-06,2022-04-23
+141,SUP00141,"Shanker, Dubey and Mittal",Service Provider,21OWWCY8447W3Z1,SFXNJ4316R,anay79@bala-panchal.net,+916405728472,Isha Bawa,"153
+Bora Chowk",Suite 3,Mumbai,Maharashtra,India,832821,1,ICICI Bank,34897588992313,ICIC0871562,Active,2025-02-15,2026-03-20
+142,SUP00142,Padmanabhan-More,Equipment Vendor,18EWECL6124Y9ZZ,KQZHY8796I,mammenshravya@peri.com,+912905587716,Dhriti Soni,"H.No. 69
+Wason Street",,New Delhi,Delhi,India,822323,8,Yes Bank,73580275640,YES 0481923,Active,2019-11-04,2023-11-09
+143,SUP00143,Palla-Sanghvi,Contractor,20CEELV3427K8ZF,LUSGB6274Y,routucchal@golla.com,+919907192362,Yamini Kumer,"20/75
+Vohra Zila",,Ludhiana,Punjab,India,661644,9,State Bank of India,049367285801,STAT0685157,Active,2022-05-29,2025-05-02
+144,SUP00144,Palla and Sons,Raw Material Supplier,02CEDGS8728O4ZU,XZECA7433J,gcontractor@lalla.info,04609942827,Jai Dutt,"12, Saini",Unit 29,Jaipur,Rajasthan,India,067839,7,HDFC Bank,26878754439393,HDFC0614430,Active,2020-02-28,2026-05-21
+145,SUP00145,Kapur-Dhillon,Contractor,28KCFSS8210R6Z6,USRTT8656U,desaialka@khatri.info,05884105793,Upma Tella,"501, Hans Path",,Chennai,Tamil Nadu,India,668415,7,State Bank of India,61546395288606,STAT0534945,Under Review,2021-01-17,2021-08-09
+146,SUP00146,"Bal, Bajwa and Dave",Equipment Vendor,29MZIKA0273R6Z0,CCCPZ0795G,ridhi80@bhagat.com,02717732419,Gopal Kalla,"15
+Bava Street",,Noida,Uttar Pradesh,India,669726,7,Axis Bank,20927339775,AXIS0670798,Active,2017-03-08,2026-05-11
+147,SUP00147,"Gokhale, Deo and Barad",Service Provider,12LQGVV1430P6ZE,URBLS3893S,vritti55@nair.info,+918960846424,Panini Apte,"71/02
+Bhatti Chowk",Suite 12,Kolkata,West Bengal,India,843257,2,HDFC Bank,52603010002,HDFC0663864,Under Review,2020-04-13,2024-09-03
+148,SUP00148,Doctor LLC,Logistics Provider,03RTESY6482E6Z1,HKNZL6149J,chakrikaroy@narasimhan-din.com,+911554429458,Zilmil Bandi,"03, Sankar Chowk",,Kolkata,West Bengal,India,323830,6,Punjab National Bank,092917546699,PUNJ0854547,Active,2025-06-13,2026-01-14
+149,SUP00149,Pathak LLC,Equipment Vendor,16HJJCG5049O3ZM,HMQZJ8120P,jayaramanishaan@deo.com,9924717464,Arunima Apte,"33/08, Bhagat",,Hyderabad,Telangana,India,121850,9,Punjab National Bank,58567691406892,PUNJ0259970,Active,2021-06-03,2024-03-03
+150,SUP00150,Naik PLC,Service Provider,25VVISA7538V1ZC,WTVPL6545Y,ramachandranvasudha@pandey.com,05059594247,Mahika Mukhopadhyay,"H.No. 03, Sampath Zila",,New Delhi,Delhi,India,811038,3,Yes Bank,31957593285249,YES 0660984,Active,2019-03-13,2025-07-17
+151,SUP00151,"Deep, Som and Choudhry",Service Provider,37JMOPF0494D9ZA,YTCYE1733S,bishakhamajumdar@gour.info,04830206684,Mitesh Roy,"H.No. 681, Iyengar Chowk",Unit 73,Ludhiana,Punjab,India,616512,1,State Bank of India,564872144714,STAT0345803,Under Review,2022-07-26,2024-03-12
+152,SUP00152,Baria-Sathe,Goods Supplier,24IUCPP1354T4ZI,OMPZK5797A,araja@subramaniam-luthra.com,05118841977,Anvi Pradhan,"976
+Jain Path",Floor 2,Lucknow,Uttar Pradesh,India,951496,5,Punjab National Bank,17356948003245,PUNJ0968687,Active,2025-04-30,2025-10-15
+153,SUP00153,Dar-Reddy,Logistics Provider,23JISDO8324J5Z7,FKKJW7022Y,rdesai@shanker-rau.net,+911657929184,Christopher Chhabra,"629, Varty Chowk",,Kolkata,West Bengal,India,135940,5,Yes Bank,15056666570,YES 0692449,Active,2022-06-13,2022-10-07
+154,SUP00154,Ganesh-Ganesh,Logistics Provider,15JRXHW6223Z3ZL,TOGBD7859T,nirja95@tailor.biz,6319243393,Shravya Kale,"H.No. 097, Dewan Path",Floor 17,Kolkata,West Bengal,India,500639,1,Punjab National Bank,17385360945764,PUNJ0628842,Blocked,2024-11-08,2026-04-23
+155,SUP00155,Bains-Kashyap,Logistics Provider,15SOORQ6269J5ZC,BRFIU3594R,wraju@kurian.net,4642389006,Harini Kadakia,"H.No. 28
+Chaudhary Nagar",Suite 13,New Delhi,Delhi,India,396097,4,State Bank of India,96669622575754,STAT0282418,Active,2023-03-06,2024-03-17
+156,SUP00156,Tella-Morar,Raw Material Supplier,22FYOGF7214M3ZL,MOSQH0887W,tben@chopra-dhillon.com,8024925358,Yoshita Palla,"61/055, Sane Nagar",Floor 2,Kolkata,West Bengal,India,415465,9,Axis Bank,8089974450396595,AXIS0696823,Active,2023-07-31,2026-04-27
+157,SUP00157,Ahuja-Bains,Service Provider,29ZZGCQ0447T1ZP,YTTPE4998I,ramachandranridhi@hayre-chaudry.com,+914993924277,Daniel Rana,"H.No. 745
+Dutt Zila",Suite 18,Lucknow,Uttar Pradesh,India,365652,4,Punjab National Bank,55453410617142,PUNJ0804484,Active,2022-07-03,2024-04-08
+158,SUP00158,"Wable, Rana and Pant",Logistics Provider,07MOMMD2217Y6Z6,JNTVB2128D,kjha@dugar-sathe.net,+916755377167,Simon Dave,"05/86, Rai Marg",,Bengaluru,Karnataka,India,279865,8,ICICI Bank,921986965515,ICIC0133877,Active,2020-01-14,2024-02-04
+159,SUP00159,"Modi, Sibal and Sastry",Logistics Provider,33FLUSA9890D3Z9,SQTMU2840S,radhakrishnanisaiah@mandal-talwar.com,2962667586,Madhavi Kala,"23/68
+Agate Marg",Suite 23,Lucknow,Uttar Pradesh,India,513198,7,Axis Bank,5870776257103436,AXIS0878174,Active,2024-07-08,2024-11-01
+160,SUP00160,Chokshi Group,Contractor,02GPRJZ8385U2ZE,CFMAW2336K,thakkardalaja@murthy.biz,+911097331921,Kavya Kadakia,"39/38
+Balay Path",Floor 5,Mysuru,Karnataka,India,702255,4,HDFC Bank,27795973892,HDFC0741104,Active,2018-05-22,2024-10-06
+161,SUP00161,Bhakta LLC,Service Provider,27NYMVK7603V8ZI,SFBDZ7777R,brarchameli@srivastava.com,+915930341747,Raksha Swaminathan,"74/423
+Kuruvilla Marg",Unit 66,Chennai,Tamil Nadu,India,433012,5,Axis Bank,78406628295,AXIS0959249,Active,2020-03-26,2022-03-26
+162,SUP00162,Pant-Sood,Service Provider,10QZOIZ9300C0ZM,YLZVR6060N,ybahl@nagarajan.com,+914245494801,Ojas Tak,"44/567
+Ghose Nagar",Unit 6,Amritsar,Punjab,India,200614,6,Punjab National Bank,828549817420,PUNJ0481892,Active,2019-04-13,2023-06-26
+163,SUP00163,Subramanian-Gour,Raw Material Supplier,22MZCAA9948Q5ZE,PDITA5381P,wravel@barman.info,2079089520,Alexander Lad,"58/15
+Radhakrishnan Road",,Kolkata,West Bengal,India,005128,3,HDFC Bank,5176995369097572,HDFC0229052,Active,2020-02-18,2025-06-13
+164,SUP00164,Kuruvilla Group,Logistics Provider,14OWUAI2900I7ZS,RZCRL6782Y,ibarman@chandra.com,04132936849,Ekaja Baral,"H.No. 80, Rattan Ganj",Floor 16,Jaipur,Rajasthan,India,675751,8,Kotak Mahindra Bank,041734047807,KOTA0820608,Inactive,2019-10-27,2020-05-01
+165,SUP00165,Kumar-Majumdar,Raw Material Supplier,02ZWIYW4650C9ZU,DGHHA5138H,nazarethvedhika@aggarwal.com,09131759007,Lekha Handa,"H.No. 72
+Sheth Path",Floor 9,Chennai,Tamil Nadu,India,983152,1,Yes Bank,8776744840574160,YES 0939095,Active,2019-05-22,2023-06-27
+166,SUP00166,Bora LLC,Logistics Provider,31ULVDL1300O1Z4,ORHZB7808F,indrajitchad@pradhan.net,+915866118589,Tamanna Prasad,"004
+Palan Circle",Suite 34,Ahmedabad,Gujarat,India,460302,1,Kotak Mahindra Bank,61140974245,KOTA0690554,Active,2025-03-20,2025-11-09
+167,SUP00167,Chacko Inc,Contractor,36CKYUJ9961T6Z6,DFURH5556A,atihari@modi.com,09784338395,Indrajit Samra,"H.No. 16, Mishra Marg",Suite 17,Surat,Gujarat,India,095607,5,State Bank of India,44627314562,STAT0578590,Active,2016-08-24,2017-04-04
+168,SUP00168,Khanna Group,Equipment Vendor,07NFZYP9134R0ZG,KSSZB4890H,sainirishi@thakur.com,4008303506,Sachi Bobal,"49/96
+Sharaf Marg",Floor 6,Hyderabad,Telangana,India,442860,2,State Bank of India,76469922163819,STAT0726683,Active,2020-10-22,2024-06-01
+169,SUP00169,"Nair, Chana and Bhatt",Goods Supplier,26YEAEU2788C4ZZ,PYDWZ5695D,gaurora@sodhi.info,01611759178,Om Shan,"23
+Barad Nagar",,New Delhi,Delhi,India,772305,2,Yes Bank,28861196811,YES 0140991,Active,2023-09-23,2025-05-17
+170,SUP00170,"Sood, Sood and Loyal",Logistics Provider,14PRPSD8758L8Z4,QBMBD4788C,zarnadubey@virk-bali.com,02775944975,Wridesh Pandya,"H.No. 70
+Kata Ganj",,Nagpur,Maharashtra,India,102197,8,HDFC Bank,552270859469,HDFC0881800,Active,2023-06-10,2025-12-28
+171,SUP00171,Din Group,Contractor,31XIXGL4525I0Z1,NEWVI8205F,sarnalibni@mandal-more.com,6666257657,Leela Ramaswamy,"H.No. 58, Srivastava",Floor 18,Lucknow,Uttar Pradesh,India,222634,7,Punjab National Bank,3383564312532301,PUNJ0136740,Active,2023-09-17,2024-06-16
+172,SUP00172,Srinivas LLC,Logistics Provider,12GEQDI0996J9ZV,RZXFI7925A,pillaymanbir@nazareth-barad.info,+913910311224,Nirja Kamdar,"H.No. 61, Pillai Circle",Unit 55,Jaipur,Rajasthan,India,217751,5,Yes Bank,40235986792,YES 0584039,Active,2023-10-09,2024-06-06
+173,SUP00173,"Chahal, Deshmukh and Sachar",Logistics Provider,20ENWJN6621M0Z3,SJYTQ4960E,bhanumatiprabhakar@bakshi-kurian.com,1321041259,Yamini Hayre,"96/47, Subramaniam Marg",,Pune,Maharashtra,India,003778,1,Axis Bank,933844405401,AXIS0942108,Active,2021-04-02,2025-01-16
+174,SUP00174,"Modi, Basu and Kumar",Raw Material Supplier,04MELGT2686G2Z9,VPFCL4024Z,krishnamahika@dora-konda.com,2631402955,Kevin Chaudhry,"71/14
+Comar Road",Suite 1,New Delhi,Delhi,India,919540,6,ICICI Bank,932113573062,ICIC0688272,Blocked,2018-03-21,2022-03-01
+175,SUP00175,"Tara, Sehgal and Chaudhari",Goods Supplier,34PAWKS4041P5ZD,DKSAC1969F,chowdhuryzayan@arya.net,+918822029171,David Kapadia,"28/40
+Bali Path",Suite 35,Coimbatore,Tamil Nadu,India,194464,3,Punjab National Bank,0622867633841107,PUNJ0611386,Active,2017-10-15,2021-07-26
+176,SUP00176,Shan-Prasad,Contractor,33DVBSD3223I0ZP,JRXWP0202N,riya15@sodhi-vora.com,6847930703,Vedhika Korpal,"H.No. 77, Gola Chowk",Suite 21,New Delhi,Delhi,India,558323,7,Axis Bank,51659931410,AXIS0572488,Active,2017-07-05,2020-09-26
+177,SUP00177,Kara Ltd,Service Provider,34ODJRS9817I0ZR,MSHIR2435L,hemangini55@bumb.biz,+912724105869,Falak Sanghvi,"22
+Natt Road",Suite 12,Chennai,Tamil Nadu,India,386931,9,State Bank of India,431051151195,STAT0104549,Active,2022-06-30,2024-08-09
+178,SUP00178,Padmanabhan-Khanna,Goods Supplier,34CJKNI8932D0Z9,GWIMT7646D,cdara@rege-dubey.info,02246834502,Rachita Seshadri,"23/089
+Mohan Marg",Suite 4,Surat,Gujarat,India,541455,6,HDFC Bank,42267524798,HDFC0209125,Active,2017-09-01,2025-07-23
+179,SUP00179,"Issac, Khosla and Kant",Logistics Provider,36ACVYS0105H2ZH,CDHDA4244S,amaira54@iyengar.biz,02444924425,Umang More,"737
+Vohra Chowk",Suite 19,Ahmedabad,Gujarat,India,266719,4,IndusInd Bank,3537550483889897,INDU0916718,Active,2017-02-20,2018-01-11
+180,SUP00180,"Khosla, Pillay and Jha",Logistics Provider,21HCZWD1323F7ZF,KXYFE4808D,vbanik@parmer-saran.org,6734513892,Jasmit Sule,"H.No. 525
+Bhatia Path",Suite 17,Hyderabad,Telangana,India,856926,2,ICICI Bank,16703225097971,ICIC0814687,Active,2023-02-26,2023-11-24
+181,SUP00181,Raju PLC,Service Provider,31JSPPJ2796F8ZH,ZCENC7297I,urvashibansal@pal.com,08273903437,Tamanna Pathak,"18/74, Sibal Ganj",Unit 50,Hyderabad,Telangana,India,097162,10,Kotak Mahindra Bank,45508907602110,KOTA0787906,Active,2021-12-12,2024-03-05
+182,SUP00182,Sunder Ltd,Contractor,16BFWOU0282V6ZS,PMEFS2143A,shankaromaja@konda.com,+915833414327,Manan Tara,"113
+Peri Nagar",,Bengaluru,Karnataka,India,085692,5,ICICI Bank,4947975994382528,ICIC0847358,Active,2025-12-18,2026-04-18
+183,SUP00183,"Sama, Modi and Khare",Goods Supplier,31MWQDL7663J9ZI,THVHH1755A,ekajanatarajan@sami.com,+910347014037,Aarav Desai,"H.No. 22
+Kala Zila",Unit 52,Hyderabad,Telangana,India,498835,5,Yes Bank,1160481404309030,YES 0589939,Active,2016-08-22,2024-07-22
+184,SUP00184,Kala Group,Goods Supplier,06EEORH1619V6ZR,MELKH3887R,adas@baria.info,09256902214,Upma Varty,"01
+Rout Ganj",Unit 87,Noida,Uttar Pradesh,India,992140,6,Punjab National Bank,91274124660,PUNJ0228698,Active,2022-02-17,2024-09-27
+185,SUP00185,Chand Ltd,Raw Material Supplier,16WLLBE3357D9Z5,AEQTA7829N,forum38@ganguly.info,+913432114760,Tripti Khanna,"18/949, Tripathi Chowk",Suite 26,Mumbai,Maharashtra,India,090774,8,Kotak Mahindra Bank,53384404188,KOTA0612050,Active,2021-04-18,2025-02-07
+186,SUP00186,Mandal and Sons,Raw Material Supplier,27NMBDU3481F7ZD,ZBVAE4667X,udantsethi@bhavsar.biz,03122735544,Mugdha Chahal,"322, Kara",Floor 10,Jaipur,Rajasthan,India,321835,6,Punjab National Bank,404926163171,PUNJ0309810,Active,2019-08-02,2021-04-26
+187,SUP00187,Dora Inc,Contractor,21PIKGV6972X9ZG,ZUXJB8872N,guneetjayaraman@garg-borah.com,09882808396,Chasmum Rai,"H.No. 00, Kaur Chowk",Suite 4,Hyderabad,Telangana,India,906514,6,Yes Bank,56263777884,YES 0997747,Active,2017-06-16,2018-03-21
+188,SUP00188,Jha and Sons,Raw Material Supplier,23GUUCE1883C8ZD,WTONI3988S,lsagar@dixit.biz,7810152971,Chaman Seth,"38/078
+Sampath Circle",,Kolkata,West Bengal,India,939048,4,HDFC Bank,37262487459,HDFC0393192,Active,2017-05-19,2022-01-14
+189,SUP00189,Chowdhury-Mannan,Equipment Vendor,20KMIPD2912L3ZN,FQQEP1811L,samidayita@gandhi.biz,+915540110381,Prisha Lal,"633, Mohanty Circle",Suite 27,Chennai,Tamil Nadu,India,271525,4,State Bank of India,5870686146318265,STAT0132605,Active,2019-02-26,2022-03-22
+190,SUP00190,Shetty-Morar,Raw Material Supplier,03FLDPV1798L8ZF,RDYCN9210Z,mohini29@choudhry-setty.com,8706358976,Rachita Munshi,"H.No. 02
+Tak Nagar",Unit 82,Jaipur,Rajasthan,India,026166,10,Kotak Mahindra Bank,569980139806,KOTA0162340,Active,2018-08-01,2024-10-20
+191,SUP00191,Agarwal Group,Equipment Vendor,28VBICQ2576N5ZL,IZGBB2048V,leela93@rajan.info,+916195975530,Guneet Bhakta,"92, Sha Chowk",Suite 49,Mumbai,Maharashtra,India,515758,8,HDFC Bank,21480305683115,HDFC0648948,Active,2021-12-28,2024-04-27
+192,SUP00192,Samra-Comar,Raw Material Supplier,18IECDV2248T4ZE,ILFJJ6813N,okrishnamurthy@magar-sarma.biz,6034182543,Shaurya Lal,"H.No. 37
+Dugar Ganj",Unit 82,Amritsar,Punjab,India,756071,10,Axis Bank,0104468120481896,AXIS0500583,Active,2025-12-30,2026-06-29
+193,SUP00193,"Dubey, Pall and Chadha",Raw Material Supplier,09QIRTL8255X8ZI,VYIMD6656N,chanda@agrawal.info,05814469984,Aadi Panchal,"H.No. 545, Merchant Path",,Hyderabad,Telangana,India,316868,10,Axis Bank,9403615114685224,AXIS0722597,Active,2024-05-23,2024-10-11
+194,SUP00194,Baral LLC,Service Provider,21DSJSB3839M8Z1,VMQEF0066N,lvaidya@rattan-garg.com,+910713202797,Nilima Sharaf,"H.No. 776, Ramaswamy",Floor 20,Amritsar,Punjab,India,215828,1,Yes Bank,1270170276334865,YES 0701633,Active,2019-11-13,2020-04-15
+195,SUP00195,Balakrishnan-Kade,Logistics Provider,27YHDFJ6691K6Z9,KZTVT9689Q,advayrout@naidu.org,+912690849054,Ekbal Rama,"H.No. 774
+Kibe Nagar",,Mumbai,Maharashtra,India,254801,8,Axis Bank,90784536134,AXIS0147709,Active,2021-11-07,2024-06-03
+196,SUP00196,Bansal Inc,Contractor,35KOULK0310S1ZP,ARWCY1005X,yuvraj95@koshy.com,+913960994653,Imaran Keer,"94, Agrawal Path",Suite 18,Bengaluru,Karnataka,India,285068,2,Yes Bank,1802529526124962,YES 0608803,Inactive,2016-12-05,2017-05-13
+197,SUP00197,Lad LLC,Equipment Vendor,13JEUFC4971R5ZE,DBIQT4966O,jairajtak@bhatti-sandal.com,00033542946,Balendra Parikh,"304
+Iyengar Circle",Suite 41,Chennai,Tamil Nadu,India,981401,8,IndusInd Bank,49283990978871,INDU0407763,Active,2016-10-19,2025-12-06
+198,SUP00198,Kaul-Ahluwalia,Contractor,29EKUZB2679U8Z0,GWHVV0733D,odass@kashyap.com,+917492364852,Jack Balasubramanian,"H.No. 444
+Bir Circle",Unit 64,Noida,Uttar Pradesh,India,228038,6,Kotak Mahindra Bank,328883909096,KOTA0719786,Active,2024-01-09,2024-04-27
+199,SUP00199,Pai Group,Equipment Vendor,01DLSLH9615N4ZJ,ZBJIH9775S,jaggivritti@kanda.info,8141667235,Devika Borah,"H.No. 094, Sampath Path",,Bengaluru,Karnataka,India,236029,1,State Bank of India,9664515155729617,STAT0270592,Active,2025-10-21,2025-12-10
+200,SUP00200,Mani-Bhatia,Equipment Vendor,32ZTNFO8749R5ZK,MOGWZ2490P,bedialka@yadav.com,01018571875,Pavani Dugar,"70/508, Khanna Road",,Lucknow,Uttar Pradesh,India,183075,3,Axis Bank,757099566270,AXIS0241380,Active,2017-08-23,2021-08-09
+201,SUP00201,Goel-Kara,Logistics Provider,18GZQPA9163W2ZK,QJJXB5033E,mnatarajan@kothari.com,+915959764296,Patrick Swaminathan,"H.No. 19, Grover",Suite 30,Kolkata,West Bengal,India,509737,2,State Bank of India,110080713490,STAT0675360,Active,2025-09-23,2026-04-26
+202,SUP00202,"Uppal, Agate and Hegde",Service Provider,13OGILF0987B4ZK,PFYEV8191A,maxbabu@bath.com,+919580108646,Rachana Sehgal,"78, Pillai Zila",Unit 19,Lucknow,Uttar Pradesh,India,759258,7,Axis Bank,95746075263,AXIS0302993,Active,2020-01-02,2025-04-10
+203,SUP00203,Pradhan LLC,Contractor,09TXLSF3190T8ZK,FEZOY5695Y,azaanpall@swaminathan-raval.com,+919373966366,Theodore Garde,"H.No. 94
+Sachdev Street",Suite 32,Mysuru,Karnataka,India,160237,4,ICICI Bank,4531578109518459,ICIC0978360,Active,2021-03-31,2025-01-05
+204,SUP00204,Raman-Ravel,Equipment Vendor,01PSHFI8643X8ZA,DUNXB8264B,schand@sarin.com,0704548703,Urishilla Char,"H.No. 05, Ben Path",,Noida,Uttar Pradesh,India,974102,10,Kotak Mahindra Bank,700298402548,KOTA0647719,Inactive,2018-02-24,2022-11-16
+205,SUP00205,"Gupta, Doshi and Sawhney",Raw Material Supplier,25JQZVF4867T4Z5,YNPPD4682D,ethan78@verma-parekh.com,8167441437,Pavani Guha,"20/57, Patla Nagar",Unit 28,Mumbai,Maharashtra,India,369260,1,IndusInd Bank,90581542403,INDU0674528,Active,2021-11-25,2025-12-10
+206,SUP00206,"Din, Peri and Chaudhari",Raw Material Supplier,36PSCMA0423U2ZK,ZZYWD1619L,xbajaj@bakshi-chopra.com,+913113496645,Aahana Nagy,"100
+Savant Circle",Floor 13,New Delhi,Delhi,India,651435,4,IndusInd Bank,956360426971,INDU0810243,Active,2022-03-28,2026-02-18
+207,SUP00207,Sahota Group,Contractor,19WBQOA9634E3ZE,AOUKP7512W,wriddhish48@gade.com,01525970820,Shivani Ram,"17
+Gill Ganj",Unit 57,Noida,Uttar Pradesh,India,910486,6,Axis Bank,129449784218,AXIS0294139,Active,2021-07-02,2026-03-17
+208,SUP00208,"Vaidya, Ravel and Gupta",Equipment Vendor,05UDPKY6666K4ZU,EJNTA5457M,patelrobert@bassi.biz,00181712686,Oscar Ahluwalia,"46/217, Korpal Marg",Suite 17,Surat,Gujarat,India,977956,10,IndusInd Bank,32125095460682,INDU0136144,Active,2020-10-11,2026-05-19
+209,SUP00209,Badami-Brar,Contractor,34CUFRU6649Z0ZF,RCQQS5587W,kashish16@rana.org,+911499204458,Robert Deo,"H.No. 99
+Ranganathan Nagar",,Hyderabad,Telangana,India,419476,2,ICICI Bank,66421823302462,ICIC0469925,Active,2023-07-26,2024-03-25
+210,SUP00210,Padmanabhan Ltd,Logistics Provider,24ALKON2269A8ZH,JAOSS7048R,lekhaloyal@baria.com,02145137956,Vinaya Raj,"147, Bhatti Chowk",Unit 73,Jaipur,Rajasthan,India,749929,4,State Bank of India,8374499978003122,STAT0691706,Active,2018-07-25,2019-02-09
+211,SUP00211,Khanna Inc,Goods Supplier,05DFRBY3236E4ZN,NBLBN4742G,mastergabriel@narayanan.com,01701038266,Indira Baral,"76/72, Naik Road",,Amritsar,Punjab,India,696460,10,Yes Bank,1818801872977201,YES 0420843,Active,2016-10-28,2023-10-12
+212,SUP00212,"Kaul, Sengupta and Deo",Equipment Vendor,02KPKOM2121I8ZS,FNMRA0706C,hemang74@nazareth-sridhar.biz,+915206406148,Nikita Solanki,"26/583, Sule Path",Floor 6,Nagpur,Maharashtra,India,485591,7,State Bank of India,537579433281,STAT0918563,Blocked,2017-11-27,2024-04-19
+213,SUP00213,"Kulkarni, Sachar and Joshi",Service Provider,21FXFPV4257T7ZT,SKIYG9340S,sawhneyomisha@seshadri.com,07585229331,Vrinda Goyal,"84/895, Dalal",,Mumbai,Maharashtra,India,709343,6,Punjab National Bank,477878090589,PUNJ0481749,Active,2023-05-12,2024-11-19
+214,SUP00214,"Dua, Naik and Pall",Contractor,07LMQKW3983V5ZL,ZKNEX2362V,lkamdar@ranganathan.biz,4520584811,Champak Sankar,"91, Sami Street",Unit 10,Amritsar,Punjab,India,245333,10,Yes Bank,90009844660,YES 0293624,Active,2018-08-30,2018-09-06
+215,SUP00215,"Vig, Minhas and Ramachandran",Service Provider,35XPRQN9885K9ZQ,RUTWV3956E,brindaparsa@goyal.net,9912929507,Ati Kala,"H.No. 740
+Chandran Chowk",Floor 18,Jaipur,Rajasthan,India,481221,9,State Bank of India,7968736488514907,STAT0738090,Active,2022-03-12,2023-02-25
+216,SUP00216,Om-Pradhan,Contractor,04IUOXN9990C5ZG,IWONJ4540E,matthew98@tailor.org,09372302267,Elijah Gola,"H.No. 347
+Murthy Zila",Suite 18,Jaipur,Rajasthan,India,556129,9,Punjab National Bank,43130579466037,PUNJ0928479,Inactive,2022-07-21,2022-11-12
+217,SUP00217,Majumdar and Sons,Goods Supplier,29QLMYM2601Z5ZH,QCRSS2817L,gunbir79@master.info,+919969829060,Dayita Prasad,"56/793, Ravel Ganj",,Bengaluru,Karnataka,India,015524,9,IndusInd Bank,6381934060927851,INDU0236287,Active,2020-12-10,2024-06-23
+218,SUP00218,"Sidhu, Shenoy and Zachariah",Raw Material Supplier,05VTFLD5626Q4ZQ,ZQVME0957N,yamininarayan@kuruvilla-rout.org,9555562284,Leela Mallick,"45
+Kar Circle",Unit 8,Jaipur,Rajasthan,India,676772,1,State Bank of India,801758698961,STAT0285328,Active,2019-11-28,2025-03-01
+219,SUP00219,Lall Inc,Goods Supplier,22OUHJF8809M5ZB,AFBYF5659W,vasudha71@lanka.net,0849595909,Yasti Arya,"36/06
+Sule Circle",,Surat,Gujarat,India,353441,6,ICICI Bank,83181522699,ICIC0750737,Inactive,2019-08-14,2025-03-24
+220,SUP00220,"Sundaram, Menon and Kamdar",Service Provider,01FIOGO4318G8ZN,EYMRS6458C,utkarsh23@krishnan.com,6839834051,Akshay Murty,"H.No. 677, Jayaraman",Suite 43,Coimbatore,Tamil Nadu,India,088832,7,HDFC Bank,221657533514,HDFC0978011,Active,2022-10-19,2025-04-03
+221,SUP00221,Kara Ltd,Logistics Provider,07FZFQX8205T4ZF,KKCXE2378Z,ichana@babu.com,+914500355150,Ranveer Viswanathan,"398
+Morar Road",Floor 9,Pune,Maharashtra,India,449804,3,Kotak Mahindra Bank,08691432181891,KOTA0845771,Active,2019-05-09,2019-07-04
+222,SUP00222,"Viswanathan, Sachar and Ghosh",Goods Supplier,19NEWRJ9669R6ZM,JMEEO5042L,qushinagarajan@jhaveri.com,+918933342276,Praneel Srivastava,"04/44, Sachdev Nagar",,Kolkata,West Bengal,India,100184,6,HDFC Bank,859688087930,HDFC0542398,Active,2022-08-25,2024-08-13
+223,SUP00223,"Rout, Dyal and Apte",Logistics Provider,31LCAXG6046Z3ZU,ICEMQ9025F,iryamutti@sahni-sen.org,+910510088389,Ria Bail,"37/63
+Kuruvilla Zila",Floor 19,Bengaluru,Karnataka,India,087672,9,HDFC Bank,4976853376770871,HDFC0818786,Active,2020-03-24,2025-11-28
+224,SUP00224,Choudhary PLC,Goods Supplier,04VBAYV0145X6Z3,WFAZM9888W,urvisama@gera.com,04433334886,Dipta Dora,"H.No. 63
+Bakshi Street",,New Delhi,Delhi,India,236447,5,Punjab National Bank,961461649137,PUNJ0521777,Inactive,2018-02-24,2018-04-08
+225,SUP00225,Dalal-Dutta,Service Provider,09VUFNS1553E2ZE,RMKWQ2950I,parsaharish@bir-kant.info,+917026341768,Saumya Toor,"327, Das Ganj",Floor 8,Nagpur,Maharashtra,India,770732,1,HDFC Bank,23166384685961,HDFC0389113,Active,2017-02-04,2018-07-30
+226,SUP00226,Sunder-Dada,Equipment Vendor,27RRQTQ0629F3ZM,OPPDM8653L,prabhuchasmum@nori.com,0557383837,Amruta Merchant,"H.No. 138, Bahri Chowk",Floor 6,Jaipur,Rajasthan,India,498720,8,HDFC Bank,479247510181,HDFC0787039,Active,2025-07-23,2026-05-26
+227,SUP00227,Palan-Narang,Equipment Vendor,28OBRJI9381A0ZR,NOCNR6957D,lzacharia@singh-wali.com,0383910846,Onveer Nori,"H.No. 11
+Ahluwalia Chowk",Floor 11,Noida,Uttar Pradesh,India,703196,7,Punjab National Bank,38617009884,PUNJ0405366,Active,2020-07-31,2024-01-26
+228,SUP00228,"Parsa, Patla and Halder",Raw Material Supplier,16IFLXM9688I0ZC,KXOMG6290T,wsavant@varkey-pant.com,1183571073,Gayathri Roy,"26/843
+Bhardwaj Circle",Unit 44,Hyderabad,Telangana,India,846825,5,State Bank of India,75010186039474,STAT0784916,Active,2024-08-01,2024-09-21
+229,SUP00229,Dubey-Sarna,Goods Supplier,12MFKBW3963L7ZC,CWBAR1112R,abha90@gala.com,+916268767638,Damyanti Sama,"03/915, Vala Zila",,Ahmedabad,Gujarat,India,833186,7,Kotak Mahindra Bank,806159882085,KOTA0198642,Active,2024-12-19,2025-11-21
+230,SUP00230,Varma-Sur,Raw Material Supplier,01CRQBA8525U6ZX,LGPND8622K,hemang40@bahl-badal.org,+914049929294,Brinda Goel,"48/56, Bail Ganj",Unit 36,Jaipur,Rajasthan,India,110376,9,HDFC Bank,964362053317,HDFC0703671,Active,2022-08-12,2025-11-01
+231,SUP00231,Choudhary-Parekh,Contractor,03VEWHU4367D1ZM,WVVMH4877N,chaudhariayush@sangha.net,+916583391864,Bhavika Tak,"H.No. 08, Halder Path",,Hyderabad,Telangana,India,640545,10,Kotak Mahindra Bank,1229639553863286,KOTA0120122,Inactive,2017-05-27,2020-09-27
+232,SUP00232,Butala-Bandi,Goods Supplier,12YEYQR4406O6Z9,LMLAO7666Z,agatenidra@wable-prabhakar.com,4254304855,Turvi Tak,"H.No. 027, Guha Circle",,Lucknow,Uttar Pradesh,India,108591,9,ICICI Bank,8593266564163622,ICIC0800031,Active,2019-05-08,2025-01-10
+233,SUP00233,Vyas and Sons,Logistics Provider,09XZRTY3519G6ZE,XPBWK3139A,abdul19@som-vala.com,05391208564,Zinal Ahuja,"H.No. 74, Gara",Unit 80,Amritsar,Punjab,India,670458,9,State Bank of India,637736050158,STAT0887263,Active,2025-12-02,2026-03-25
+234,SUP00234,Pai-Maharaj,Goods Supplier,16UFVJR3075L9ZS,SGLQG6352K,akorpal@sachdev-dave.com,2526047681,Mohammed Bath,"644, Chahal Nagar",Floor 16,Nagpur,Maharashtra,India,541365,6,Axis Bank,165209004670,AXIS0116893,Active,2023-11-19,2025-04-12
+235,SUP00235,"Baria, Brahmbhatt and Nagi",Contractor,07WUNTM9418E9Z7,HJRBU1119X,khuranamax@mammen-amble.net,2068639458,Azad Sarna,"76/860, Lala Chowk",,Kolkata,West Bengal,India,872070,2,HDFC Bank,01012118119,HDFC0428570,Active,2023-03-27,2023-05-19
+236,SUP00236,Gaba-Vora,Raw Material Supplier,14ZTIHM8646A8ZK,ZABHF6886N,chameli09@srivastava-hegde.info,1673261171,Ria Mahal,"H.No. 400, Dugar Road",,Ahmedabad,Gujarat,India,420118,2,Punjab National Bank,0168957744984606,PUNJ0473763,Active,2017-07-23,2024-01-17
+237,SUP00237,Dave Group,Equipment Vendor,16QSKEX1518M7ZN,TLXHG7009V,regejasmit@walla.info,9774620681,Meghana Varughese,"H.No. 902
+Rama",Floor 3,Lucknow,Uttar Pradesh,India,359488,3,Punjab National Bank,839267443265,PUNJ0595473,Inactive,2019-06-12,2019-11-01
+238,SUP00238,"Aggarwal, Sama and Agarwal",Goods Supplier,30ULWLT3254L6ZT,RJGRZ8817J,victor24@sant.biz,09546855327,Wriddhish Shan,"H.No. 595
+Sanghvi Street",,New Delhi,Delhi,India,873739,6,IndusInd Bank,34830591329442,INDU0474156,Active,2016-12-16,2018-02-21
+239,SUP00239,Pall PLC,Contractor,31ZPEEG1604W1ZZ,ETDUB1907R,jkari@chaudhuri.info,0177031931,Bishakha Munshi,"H.No. 97, Om",Floor 19,Amritsar,Punjab,India,943342,7,Kotak Mahindra Bank,8332213754416489,KOTA0394297,Active,2024-02-01,2025-11-26
+240,SUP00240,"Rastogi, Dani and Dhaliwal",Contractor,23LKQFT5539M0ZN,HKJQJ8543G,mmitra@magar-nagy.com,+918616320524,Umang Deshmukh,"H.No. 469, Mahal Street",,Ludhiana,Punjab,India,548818,5,Axis Bank,40353338000231,AXIS0624942,Active,2019-11-06,2021-08-22
+241,SUP00241,Chakrabarti-Virk,Equipment Vendor,11VKIYN2726O2ZW,ONXAK3126I,dashfrado@kar-bumb.com,+911392832090,Siddharth Keer,"42/48, Varghese Path",,Coimbatore,Tamil Nadu,India,414702,2,Punjab National Bank,3378115675807596,PUNJ0511440,Active,2016-07-10,2020-07-13
+242,SUP00242,Gill Group,Contractor,26JQLHO3127V6ZS,GLZHO0788H,danijagvi@jha.info,1728884400,Triveni Shah,"27/773
+Shah Path",Floor 2,Jaipur,Rajasthan,India,749632,1,HDFC Bank,11682834062,HDFC0593755,Active,2021-11-30,2023-10-20
+243,SUP00243,Dhar-Sharaf,Service Provider,21RNSKW9794Q3Z9,MOWIV0094C,vihaan58@magar.com,08838258137,Vincent Thakur,"85/566, Patel Marg",Unit 57,Chennai,Tamil Nadu,India,559752,9,State Bank of India,43964755338614,STAT0287150,Active,2024-08-21,2025-12-17
+244,SUP00244,Mallick and Sons,Logistics Provider,23KINJR0692W7ZA,PYSYM8368N,murtyabdul@mutti.com,3081484624,Lakshit Morar,"H.No. 694, Narasimhan",Floor 3,New Delhi,Delhi,India,305174,8,Kotak Mahindra Bank,0933695830854997,KOTA0313276,Active,2019-07-06,2026-03-14
+245,SUP00245,Balasubramanian Group,Contractor,16JKQYI0070S2ZL,HLAYJ1759M,tsubramanian@sood.com,+914459897154,Riya Shenoy,"H.No. 337, Dugal Road",Unit 29,Surat,Gujarat,India,583924,8,ICICI Bank,4964034490294492,ICIC0181043,Active,2020-08-12,2022-08-27
+246,SUP00246,Misra Group,Equipment Vendor,17KYGDZ9765Z7ZR,EZKFA8737W,sidhuishanvi@srinivas.com,04002356861,Ekalinga Sha,"H.No. 936, Chandra Circle",Suite 36,Lucknow,Uttar Pradesh,India,713819,7,HDFC Bank,00492983290115,HDFC0289340,Active,2018-08-23,2023-11-04
+247,SUP00247,"Contractor, Hora and Pillay",Contractor,30GOQKZ3551V4ZA,XVDJY9145Y,talwarbina@dubey.com,+916338532839,Vihaan Bumb,"37, Vig Nagar",Unit 65,New Delhi,Delhi,India,470763,3,Axis Bank,73577774113,AXIS0317439,Active,2025-05-12,2025-06-24
+248,SUP00248,Jaggi-Ram,Logistics Provider,19JVOZN5302I0Z8,URVWH3053E,jkala@patla.com,4950145448,Indira Ganesan,"52/189
+Acharya Nagar",,Jaipur,Rajasthan,India,786216,9,Kotak Mahindra Bank,078118537096,KOTA0871755,Active,2018-07-13,2026-04-17
+249,SUP00249,Choudhary-Tara,Raw Material Supplier,16UGXVB9507O0Z0,XGSZP4647V,darsh20@nagi-toor.com,+919375928032,Aarush Edwin,"455, Parmar Marg",,New Delhi,Delhi,India,646231,8,Axis Bank,24956606354,AXIS0371602,Active,2022-07-28,2022-12-09
+250,SUP00250,Sura Ltd,Equipment Vendor,29MDWBN4497T6ZH,WKGAS7184I,thomas43@sibal.com,00021563136,Alka Baria,"H.No. 69, Kibe Nagar",Floor 1,Coimbatore,Tamil Nadu,India,406503,5,HDFC Bank,07780074208,HDFC0768494,Active,2018-06-08,2019-02-18
+251,SUP00251,Chacko-Naik,Raw Material Supplier,36HOZQA3508J6Z8,IGJOQ0057O,ucchalkalla@hora-kakar.biz,02070842329,Logan Sur,"13
+Sama Street",Unit 35,Coimbatore,Tamil Nadu,India,047142,9,Punjab National Bank,1659318382525625,PUNJ0153269,Active,2017-03-25,2021-12-01
+252,SUP00252,Garde-Bassi,Equipment Vendor,02QBEUI3831Z7Z4,EMYYH2876P,sanya25@yadav.com,+912992826525,Krishna Luthra,"129, Hans Road",Suite 26,Hyderabad,Telangana,India,249057,4,ICICI Bank,59535097520,ICIC0632658,Active,2018-08-22,2023-11-13
+253,SUP00253,Mand-Rastogi,Contractor,06RCZEI4702C4ZQ,HBECO7094N,dixitfitan@comar.com,03805645931,Zaid Baral,"H.No. 72
+Boase Circle",,Chennai,Tamil Nadu,India,103135,7,IndusInd Bank,8219233788397735,INDU0478733,Blocked,2019-06-30,2022-06-10
+254,SUP00254,Seshadri LLC,Raw Material Supplier,14XHTWI5571U9Z9,ZMPYW8458U,omisha98@magar.info,6411642718,Gavin Char,"H.No. 40
+Datta Circle",Suite 25,Lucknow,Uttar Pradesh,India,059321,7,State Bank of India,8577511421471646,STAT0690701,Active,2019-03-09,2025-08-16
+255,SUP00255,Devi LLC,Service Provider,29DXRSJ1335W3ZC,DOBOP6533E,teerth24@sheth.com,7759491236,Irya Balay,"H.No. 671, Grewal Path",Suite 13,New Delhi,Delhi,India,681521,6,Punjab National Bank,331277113141,PUNJ0242058,Active,2019-03-05,2023-08-18
+256,SUP00256,"Nagi, Mody and Chandra",Logistics Provider,06ZVPYI5597R9ZK,JIASG1571Y,kannankai@iyengar.com,03151271643,Veda Tara,"H.No. 14, Dua Street",Floor 20,Amritsar,Punjab,India,512805,3,Kotak Mahindra Bank,85315213812162,KOTA0756176,Active,2020-08-13,2022-08-08
+257,SUP00257,Mall Inc,Logistics Provider,37GJDWM2149I0ZJ,EWALE3124G,mbalakrishnan@grover-rege.com,6825184827,Chanchal Hari,"H.No. 03, Sangha",,Jaipur,Rajasthan,India,281519,6,State Bank of India,22463184763,STAT0334441,Active,2025-06-26,2026-01-07
+258,SUP00258,Muni PLC,Logistics Provider,35DJGFB6836P2ZN,UHTMH3178V,vbutala@kade.org,+914556699473,Ridhi Prabhu,"H.No. 798
+Tiwari Zila",,Amritsar,Punjab,India,927311,3,HDFC Bank,46697770990,HDFC0162114,Active,2024-12-10,2025-02-18
+259,SUP00259,"Gokhale, Issac and Rao",Logistics Provider,27YKYPM1043Q3ZM,HKSZF1349Z,bosedevansh@kibe-borde.biz,+918920840466,Warda Sinha,"031, Tailor Ganj",,Hyderabad,Telangana,India,084146,5,IndusInd Bank,4442125329054868,INDU0364897,Active,2016-11-09,2017-03-07
+260,SUP00260,Shanker-Oak,Goods Supplier,01RPTZH9428E8ZW,PCLAD1228A,nagarishani@sandhu.info,+914538358475,Oeshi Bhandari,"72, Dara Road",Suite 15,Jaipur,Rajasthan,India,409353,3,Punjab National Bank,002897233169,PUNJ0230376,Blocked,2021-07-12,2022-05-03
+261,SUP00261,Dass-Bhardwaj,Service Provider,24KSUSW9287Q2ZQ,GIWMR1301H,daksha74@mammen.com,9020674986,Naveen Gokhale,"785, Seth Street",,Coimbatore,Tamil Nadu,India,166551,6,Kotak Mahindra Bank,05801564245,KOTA0264121,Active,2021-09-20,2026-05-13
+262,SUP00262,"Rege, Biswas and Peri",Raw Material Supplier,05EKDDH3900E3ZV,NFNZH9336O,frederick07@sarraf-thakur.info,8581122259,Nitara Mani,"H.No. 339, Loke Marg",Suite 48,Jaipur,Rajasthan,India,276444,3,Axis Bank,8658399524602029,AXIS0627928,Active,2017-04-05,2019-09-21
+263,SUP00263,Samra-Tella,Contractor,25LOHJG9136R2ZW,TZWOS7279J,damyantisama@bumb-devan.com,+919772479607,Jatin Sen,"H.No. 799
+Sodhi Road",,New Delhi,Delhi,India,316860,1,HDFC Bank,54246118477,HDFC0578450,Active,2020-02-22,2024-07-17
+264,SUP00264,Dugar Group,Contractor,22NCGPN8368R6Z3,HUKFT5972F,oscar58@kibe.com,02979003466,Umang Sekhon,"74/85, Suri Road",Floor 19,Amritsar,Punjab,India,711370,6,State Bank of India,96313179853064,STAT0312681,Active,2022-11-02,2024-02-29
+265,SUP00265,Gara Group,Service Provider,35DTIEQ4078B5Z2,UDEZK6386V,bvyas@parsa.biz,0791144477,Parth Tailor,"H.No. 06, Garg Nagar",Suite 29,Noida,Uttar Pradesh,India,789445,3,State Bank of India,7496598627549823,STAT0176203,Active,2017-08-06,2021-11-05
+266,SUP00266,Kannan-Rege,Contractor,07LKBPQ4866G3Z9,XVTZT8634V,azaan77@salvi.com,2716235422,Elijah Suresh,"H.No. 66, Shanker Street",Unit 60,New Delhi,Delhi,India,965630,9,ICICI Bank,6051175105930369,ICIC0995830,Inactive,2019-10-12,2021-12-16
+267,SUP00267,"Nagarajan, Sha and Khalsa",Raw Material Supplier,17BTQWA5160W5Z0,MVUVZ5942E,pillaifaras@pradhan.com,6014825085,Theodore Mander,"90
+Banerjee Path",,Coimbatore,Tamil Nadu,India,881628,8,Yes Bank,49888924779752,YES 0785934,Active,2019-12-31,2022-08-22
+268,SUP00268,Dasgupta LLC,Raw Material Supplier,30OXFJP5863O6ZM,CJWLT3791L,aarna29@gara.com,8621801088,Garima Nadig,"69/030, Jha Path",,Bengaluru,Karnataka,India,324457,10,HDFC Bank,25357222245562,HDFC0218222,Blocked,2017-12-22,2021-07-01
+269,SUP00269,"Sachdeva, Sathe and Yohannan",Raw Material Supplier,01VECJE5138N6ZG,IQNIG1970F,ati58@de-kibe.com,09467659153,Jagat Barad,"H.No. 533
+Goel Ganj",Suite 28,Hyderabad,Telangana,India,295212,2,Axis Bank,40324897504,AXIS0534384,Active,2016-02-10,2021-03-15
+270,SUP00270,Khare LLC,Contractor,14HKNZS4025F2ZO,UZOCB1077Q,mmitter@gaba.org,+915186942679,Omkaar Chaudry,"90/80
+Nayak Circle",Suite 40,Pune,Maharashtra,India,809943,4,Axis Bank,20451252371,AXIS0417816,Active,2018-11-06,2024-08-02
+271,SUP00271,Barad-Iyengar,Raw Material Supplier,07PPGNM6483W5ZJ,ZBAZQ6866F,prisha52@mitter.com,9581288138,Warjas Dar,"H.No. 897
+Kapadia",Unit 40,Chennai,Tamil Nadu,India,037469,4,ICICI Bank,0649741845224007,ICIC0797376,Active,2023-07-31,2026-01-29
+272,SUP00272,Bora Group,Raw Material Supplier,36OWRBU5752Y3Z1,UARHS8703L,danielprabhu@bassi.com,9610541254,Priya Pandya,"H.No. 30, Parikh Road",Suite 29,Pune,Maharashtra,India,310421,1,HDFC Bank,85720157353539,HDFC0272280,Inactive,2021-05-25,2021-09-19
+273,SUP00273,"Talwar, Bali and Gera",Logistics Provider,31KJXNU9596B3ZJ,FJTVW6249F,nmahajan@dora.net,1850971571,Raksha Thaman,"69
+Mangat",Unit 13,Surat,Gujarat,India,445928,4,IndusInd Bank,59191746427,INDU0951613,Active,2023-03-11,2025-11-19
+274,SUP00274,Dave and Sons,Equipment Vendor,28FQBKQ8505D5ZP,OAQMZ7162B,srinivasanarya@magar.info,9415666355,Anirudh Prakash,"H.No. 563, Sankar Chowk",Unit 83,Coimbatore,Tamil Nadu,India,052177,4,Yes Bank,8997750927109803,YES 0356342,Active,2021-07-08,2025-08-02
+275,SUP00275,Chakrabarti Inc,Equipment Vendor,33FPOAQ0035Q6ZU,WWHOV9854B,ikshita06@vyas-chad.com,+911065483427,Matthew Buch,"H.No. 489
+Wagle",,Noida,Uttar Pradesh,India,185713,7,IndusInd Bank,841160435439,INDU0906224,Active,2025-06-12,2025-11-04
+276,SUP00276,"Sem, Walla and Zachariah",Contractor,04UEMYI0802Z2ZS,ETWGN7241Q,gsaran@deol.org,6370015942,Krishna Dugar,"95, Prakash Marg",Unit 13,Kolkata,West Bengal,India,535799,5,IndusInd Bank,05254931602794,INDU0941713,Active,2024-03-16,2025-04-26
+277,SUP00277,Luthra Group,Service Provider,21FUITQ9399V0ZF,EGFXM4748O,yash52@sathe-palan.com,2115959068,Maanav Sinha,"52/535
+Kala Nagar",Floor 6,Kolkata,West Bengal,India,406994,7,Kotak Mahindra Bank,871200375431,KOTA0505932,Blocked,2017-03-06,2025-12-02
+278,SUP00278,"Basu, Subramanian and Dugar",Goods Supplier,19HLCJA4998U4ZG,KXBRW3818U,zashilchanda@halder.com,2915569957,David Sura,"63/41, Iyer Road",Unit 88,Kolkata,West Bengal,India,105686,9,Punjab National Bank,1782316834232627,PUNJ0299182,Active,2020-01-11,2021-03-18
+279,SUP00279,"Kala, Goda and Jhaveri",Goods Supplier,12PWARJ6741Y3ZI,QLRZC5206B,zansi45@baria.com,+910078057151,Faqid Bath,"13, Butala Marg",Floor 20,Kolkata,West Bengal,India,864857,9,IndusInd Bank,8043342134440162,INDU0909818,Active,2023-10-15,2023-11-20
+280,SUP00280,Banik-Varughese,Logistics Provider,29VNONE6461S1ZH,QWCIK2718E,mnadig@banik.org,+910177271169,Pratyush Kaur,"H.No. 986, Pillay Zila",Suite 40,New Delhi,Delhi,India,930893,9,Punjab National Bank,476326248065,PUNJ0126704,Active,2021-09-19,2023-08-20
+281,SUP00281,"Trivedi, Pai and Kuruvilla",Contractor,12ZTTNO9261K1Z2,ATPTV3710Z,sathvikshah@lad.com,+919719355283,Frado Keer,"H.No. 738
+Bhatti Path",Floor 7,Ahmedabad,Gujarat,India,155306,1,HDFC Bank,51159700150,HDFC0837185,Active,2016-08-03,2024-09-28
+282,SUP00282,Sen-Buch,Raw Material Supplier,30RLIXB6006F9Z3,IWDBO2438T,dharsuhani@mannan.org,+917666981098,Reyansh Sabharwal,"H.No. 77
+Som Circle",Floor 8,Coimbatore,Tamil Nadu,India,672768,1,ICICI Bank,992478567017,ICIC0618313,Active,2020-06-09,2021-07-02
+283,SUP00283,Bora-Kothari,Goods Supplier,12CWQMQ4029D5ZR,WRYLD0584V,ymadan@kade-tiwari.biz,+914031015054,Sanaya Taneja,"H.No. 24
+Guha Road",,Ahmedabad,Gujarat,India,943910,2,State Bank of India,188256628970,STAT0682847,Blocked,2019-08-21,2023-02-15
+284,SUP00284,Sharaf and Sons,Equipment Vendor,33DFGET4496T8ZQ,FDUKB2090E,yoshita11@ganesh.com,+919796754129,Jackson Varma,"42, Bassi",Floor 11,Mumbai,Maharashtra,India,554183,1,Axis Bank,5319801783313022,AXIS0132207,Under Review,2020-09-24,2026-05-21
+285,SUP00285,"Varkey, More and Kala",Raw Material Supplier,05YKMPK9777P0ZQ,AOFJJ6425Z,apteupadhriti@radhakrishnan-dua.info,4268328993,Qabil Pathak,"H.No. 227, Hegde Street",Floor 10,Lucknow,Uttar Pradesh,India,890983,6,Punjab National Bank,806145626993,PUNJ0355774,Blocked,2021-02-25,2022-05-01
+286,SUP00286,Swaminathan Ltd,Goods Supplier,29NTSMY6188P1ZC,GNSLQ6772U,ronitharora@lata.biz,5274849357,Banjeet Bassi,"15
+Gera Zila",,Surat,Gujarat,India,596189,1,Kotak Mahindra Bank,05369894476,KOTA0577894,Active,2017-01-15,2022-11-14
+287,SUP00287,Jhaveri-Balasubramanian,Raw Material Supplier,06XWKIP3650H1ZI,FUCVY1979E,amblekrishna@vaidya.biz,02441969802,Hemangini Virk,"550, Sankar Ganj",Floor 12,Ludhiana,Punjab,India,459527,3,Punjab National Bank,22326388530,PUNJ0784228,Active,2016-01-09,2020-03-20
+288,SUP00288,Radhakrishnan-Johal,Contractor,20YXQHV0895N8ZC,SHOUF2582R,duttahenry@garde-sood.com,00315124660,Lakshmi Sama,"353
+Kothari Ganj",Suite 2,Lucknow,Uttar Pradesh,India,078350,6,HDFC Bank,7109369712942467,HDFC0976179,Active,2025-01-25,2026-02-14
+289,SUP00289,Bhat LLC,Logistics Provider,33KHMPZ9304K2Z2,ZSKVJ8413K,shauryanadkarni@dugal-mody.com,+912623093266,Daksh Tara,"19
+Mohanty Circle",Suite 40,Amritsar,Punjab,India,753267,1,Punjab National Bank,26072276104468,PUNJ0106662,Inactive,2017-05-02,2024-10-21
+290,SUP00290,"Cheema, Rastogi and Dani",Service Provider,19CLAUU5361C5ZT,GVQTE3932Y,isawhney@sarkar.com,02139098236,Devika Lata,"93/91, Loke Chowk",Floor 12,Surat,Gujarat,India,237786,8,Yes Bank,36590517381355,YES 0133818,Active,2016-07-30,2020-07-10
+291,SUP00291,Gandhi-Sarna,Goods Supplier,10RDRFD0098W5Z3,ODZVF0402O,laban14@balan.com,+916787615768,Rehaan Ahuja,"45/355, Yogi Zila",Floor 5,Jaipur,Rajasthan,India,368028,3,State Bank of India,332276305028,STAT0463979,Active,2022-02-09,2025-06-03
+292,SUP00292,"Wason, Dua and Bose",Service Provider,09KWWUG2815L1Z4,PVPRH3018G,chanchalsami@bath-bava.info,+913919300471,Akshay Lata,"06/68, Sama Chowk",Unit 6,Jaipur,Rajasthan,India,678465,8,State Bank of India,8025359021131812,STAT0197490,Active,2021-08-26,2023-02-26
+293,SUP00293,Chandra-Kale,Contractor,16VCDRP8870X6Z4,WHHFO0343I,zsoni@bhasin-gade.org,07985969270,Aashi Chaudhuri,"37/01
+Gera Nagar",Floor 15,Chennai,Tamil Nadu,India,897496,3,Punjab National Bank,97683819166025,PUNJ0744016,Active,2025-09-22,2026-04-23
+294,SUP00294,"Baria, Patel and Vora",Logistics Provider,26JANWM0372M6ZN,RMQLB7187Y,veerbhalla@pathak-chandra.info,+910117465922,Gopal Deshpande,"10/05, Dhar Marg",Suite 3,Mumbai,Maharashtra,India,325950,1,Punjab National Bank,36075130653767,PUNJ0949236,Active,2025-03-30,2025-06-16
+295,SUP00295,Basu-Aurora,Logistics Provider,09JSLBZ9266D5ZG,VTHBW4638M,nidhi47@viswanathan.org,1875377430,Azad Chaudry,"76/702, Bhatti Ganj",Unit 18,New Delhi,Delhi,India,958695,3,ICICI Bank,818011172562,ICIC0576039,Active,2017-06-01,2022-01-18
+296,SUP00296,"Malhotra, Mohanty and Gade",Logistics Provider,11YCOZX0877T3ZD,ZDWEK5843E,nikita07@pant-gola.com,07679634774,Ladli Cheema,"H.No. 477, Bhattacharyya Marg",Unit 8,Kolkata,West Bengal,India,279652,1,IndusInd Bank,276041395798,INDU0782159,Active,2025-03-14,2026-04-11
+297,SUP00297,"Som, Hayre and Oommen",Logistics Provider,36COAZK1309J1ZE,PMGEH4899B,ekaja20@goswami-viswanathan.com,+910946986458,Chanchal Randhawa,"H.No. 637, Saran Circle",Floor 4,Jaipur,Rajasthan,India,086735,2,Punjab National Bank,6983914201951001,PUNJ0229876,Blocked,2016-04-06,2018-01-18
+298,SUP00298,Koshy and Sons,Logistics Provider,17UVMOW2960Y2ZZ,RPTBX9528G,yogixalak@sachdev-zacharia.com,6814639723,Fariq Chowdhury,"55/288, Warrior",Unit 75,Noida,Uttar Pradesh,India,411426,7,ICICI Bank,3201970983460367,ICIC0504783,Active,2020-04-05,2021-03-28
+299,SUP00299,Kannan Inc,Service Provider,07LCCNW9501X4Z4,YTWWQ3186H,mahikamangat@naik.com,+913642514186,Veer Pradhan,"64/69, Madan Circle",Suite 12,Coimbatore,Tamil Nadu,India,845908,4,ICICI Bank,47322578641642,ICIC0373440,Active,2021-05-07,2021-12-11
+300,SUP00300,Pingle Inc,Raw Material Supplier,18PXLYE4767P2ZG,PYNTJ0531R,sainirushil@lalla.info,+917437744547,Upkaar Chadha,"20/423
+Pau",Suite 17,New Delhi,Delhi,India,098661,3,Yes Bank,727840986522,YES 0219907,Active,2018-07-20,2019-11-15
+301,SUP00301,Bhatt and Sons,Raw Material Supplier,33AXITP0484U5ZW,VSKGX2532K,tejas92@goel.com,03556524381,Yamini Bedi,"73
+Grewal Ganj",Floor 5,Amritsar,Punjab,India,996211,9,Yes Bank,277092630991,YES 0575400,Inactive,2023-08-07,2024-10-22
+302,SUP00302,Roy Group,Service Provider,21AMQHW2208K3Z8,BRCUH3473V,kibekiaan@sengupta-krishnamurthy.info,5043192429,Nitesh Garde,"93, Sura Marg",Suite 30,Lucknow,Uttar Pradesh,India,392842,7,IndusInd Bank,43781626533,INDU0571684,Active,2019-10-06,2021-10-19
+303,SUP00303,Mammen-Mander,Goods Supplier,35JHOHN3311G1ZL,LRJHQ4971O,zarnasidhu@bal.org,+916102946395,Bhavika Badami,"66/55
+Palla Road",Floor 19,Jaipur,Rajasthan,India,239075,3,Yes Bank,81392262520801,YES 0473568,Active,2018-02-19,2022-02-07
+304,SUP00304,"Kota, Nadkarni and Kala",Logistics Provider,33NEILD4529F2Z2,FZUUD3830C,kapurneel@sagar.com,9697465549,Vinaya Rao,"79/05, Sankar Ganj",,Lucknow,Uttar Pradesh,India,307405,10,HDFC Bank,873252066954,HDFC0198998,Active,2020-04-18,2022-04-13
+305,SUP00305,Uppal LLC,Logistics Provider,11SJNTV7629O4ZI,JLZME3309M,nmagar@vala-raju.com,09172719645,Idika Narayan,"68, Ganesh Marg",Floor 18,Bengaluru,Karnataka,India,249569,5,Axis Bank,96932170075,AXIS0488877,Active,2016-09-14,2025-03-13
+306,SUP00306,Malhotra Inc,Contractor,18WJDGE2509Z8ZB,JDRBE4271G,singhalcharles@chaudhary.com,+917272125808,Jonathan Halder,"98/83
+Krishnan Path",Unit 11,Lucknow,Uttar Pradesh,India,417679,8,Yes Bank,83437699014755,YES 0992170,Active,2019-05-01,2024-10-03
+307,SUP00307,"Uppal, Dube and Kanda",Equipment Vendor,11POSUM4307C3ZY,UHJKC5025N,yashoda58@sachdev-palan.biz,8784147301,Onveer Walia,"59/705, Dhaliwal Ganj",Floor 7,Jaipur,Rajasthan,India,907151,9,HDFC Bank,54692191428173,HDFC0306244,Active,2018-07-11,2019-03-04
+308,SUP00308,Patla-Varma,Raw Material Supplier,22EARIU7575O2Z4,WQQIB6725X,rajagopalrachita@suri.com,2285756252,Aarnav Sachdev,"H.No. 865
+Bhalla Marg",Unit 99,Kolkata,West Bengal,India,077176,6,Kotak Mahindra Bank,76219223146,KOTA0140048,Active,2022-12-28,2023-07-28
+309,SUP00309,Swamy-Soman,Equipment Vendor,23AOPTU1009T0Z1,CSPOX8814Y,ekapad01@narang-dar.com,05343215867,Sachi Dhar,"21/24
+Dasgupta Marg",,New Delhi,Delhi,India,870803,8,Yes Bank,942706492181,YES 0995685,Active,2025-12-15,2026-03-18
+310,SUP00310,"Grover, De and Singhal",Logistics Provider,33RKEQA5119G0ZR,BRTUU7805G,kiaan55@borah.info,+917942449844,Dhriti Ghosh,"H.No. 709, Hora Marg",Unit 16,Jaipur,Rajasthan,India,060301,10,Punjab National Bank,891297697394,PUNJ0200123,Inactive,2019-08-15,2021-05-12
+311,SUP00311,Soni PLC,Logistics Provider,34XVCSL8071K1ZQ,MMGVW8781N,urmi34@rao.com,7449150592,Krisha Borah,"00/65, Aggarwal Nagar",Unit 9,Jaipur,Rajasthan,India,310153,4,Kotak Mahindra Bank,25972944154,KOTA0332829,Active,2023-12-26,2024-05-24
+312,SUP00312,"Taneja, Walla and Kohli",Service Provider,33HEOMK8577O4ZV,QFVUM2640B,zilmilbora@baria-dara.biz,+918281430984,Charita Baria,"03/55, Lad",Floor 4,Bengaluru,Karnataka,India,836462,4,State Bank of India,01720936963324,STAT0235677,Blocked,2020-04-28,2026-03-24
+313,SUP00313,Memon Inc,Contractor,15NEHEL1204G2ZZ,CKIZL6836F,sathvikgade@tata.com,3479681712,Sathvik Malhotra,"985
+Narula Marg",Suite 32,Ahmedabad,Gujarat,India,797178,10,Kotak Mahindra Bank,23540129456,KOTA0902557,Active,2019-03-30,2025-01-19
+314,SUP00314,Sarma Ltd,Equipment Vendor,18QHAJD2968V6ZX,PXCAU9175C,chokshidayita@chhabra-kapadia.com,3576408849,Faris Sami,"H.No. 11
+Mane Street",Unit 27,Kolkata,West Bengal,India,250434,10,HDFC Bank,83244465793924,HDFC0527080,Active,2018-06-24,2019-02-01
+315,SUP00315,Patil Inc,Service Provider,01HFPGK3857F7Z8,MOAAQ9589O,nikita27@patla.info,+912823246060,Ekaraj Manda,"H.No. 616, Parsa Circle",Suite 13,Jaipur,Rajasthan,India,386935,6,Kotak Mahindra Bank,378141887862,KOTA0406924,Active,2018-11-10,2025-04-20
+316,SUP00316,Solanki Inc,Equipment Vendor,08ZGRPQ6654S1ZX,OZIWQ8510B,mohiniganesh@rattan.org,01351699053,Yasti Koshy,"H.No. 035, Sami Nagar",Floor 16,New Delhi,Delhi,India,151206,4,Kotak Mahindra Bank,9467657352166172,KOTA0448410,Active,2023-02-13,2025-04-21
+317,SUP00317,"Solanki, Shan and Kurian",Goods Supplier,16HRXRS6290Z0Z9,IWZBS5953V,bajajyadavi@ahluwalia-subramanian.org,+913551027107,Ati Kunda,"H.No. 91, Prasad Circle",Suite 23,Surat,Gujarat,India,718584,2,HDFC Bank,461861324288,HDFC0250984,Active,2023-10-26,2024-10-05
+318,SUP00318,Palan-Bhardwaj,Service Provider,23CQQTL9231Z9Z2,WGYXL9598M,onkar67@jayaraman.net,03105009590,Maanas Yadav,"86
+Patel Chowk",Suite 2,Nagpur,Maharashtra,India,207709,10,Axis Bank,2743378423849579,AXIS0578568,Active,2017-03-10,2017-08-27
+319,SUP00319,Kata-Nair,Contractor,32JGEUZ2550L2ZL,HVWMA7885H,mohannachiket@hans-sethi.org,+912861446009,Guneet Goel,"38/812, Verma Street",Floor 11,Hyderabad,Telangana,India,815221,1,Yes Bank,66709717667521,YES 0708353,Inactive,2021-02-06,2021-09-04
+320,SUP00320,"Swamy, Sheth and Dave",Logistics Provider,32CIKSE3879V2Z8,ATDRL5675Q,nkumar@rattan.net,+912950889531,Kabir Hari,"46/267
+Chandran Chowk",,Kolkata,West Bengal,India,962487,3,IndusInd Bank,83035964698812,INDU0227813,Inactive,2021-01-03,2025-03-04
+321,SUP00321,Vohra Group,Raw Material Supplier,11ZRQPO3158R7ZN,QEHFF2542A,vermanikita@andra.com,+912339599927,Inaya Koshy,"H.No. 85, Garg Path",,Pune,Maharashtra,India,957899,2,State Bank of India,29979993773301,STAT0480405,Active,2019-06-01,2025-01-24
+322,SUP00322,"Dhillon, Sule and Lal",Raw Material Supplier,07MOYEY8699N7ZD,UPJSY6081L,vedikamittal@loyal.com,+911146097456,Caleb Dhillon,"H.No. 524
+Khosla Path",Floor 16,Hyderabad,Telangana,India,800488,10,Axis Bank,86160528109884,AXIS0150458,Active,2023-06-22,2024-09-25
+323,SUP00323,"Chacko, Keer and Varma",Goods Supplier,07RYFFC7088L0Z5,PCZAW5361L,bhavini39@chauhan.com,06156260117,Isha Manne,"450, Oak Street",Unit 33,Hyderabad,Telangana,India,523872,10,Yes Bank,29284137518445,YES 0107313,Active,2018-10-06,2023-08-15
+324,SUP00324,Buch-Ravi,Contractor,08QJJVU6662M8ZQ,WRCTJ7834H,tanvilanka@baria.net,8275379300,Geetika Subramaniam,"58/02
+Chana Street",Suite 34,New Delhi,Delhi,India,080675,6,ICICI Bank,1674365080961247,ICIC0932166,Active,2016-01-15,2022-01-04
+325,SUP00325,Sheth-Gade,Service Provider,30FBXVW0128J7ZS,DQJDD7494I,chandresh43@bhatt-gola.info,+911641046106,Sai Bansal,"H.No. 61, Bajwa Path",Floor 10,Jaipur,Rajasthan,India,321920,2,Yes Bank,464295056532,YES 0422658,Blocked,2025-05-04,2025-10-19
+326,SUP00326,Pathak PLC,Equipment Vendor,28VQUER3707U0ZZ,WFIQQ7186V,giriksastry@chanda.com,2866303971,Zaitra Dora,"50/15, Cherian Circle",Floor 4,Mumbai,Maharashtra,India,099498,6,HDFC Bank,574823699806,HDFC0815638,Active,2023-08-02,2024-02-19
+327,SUP00327,Samra-Prasad,Goods Supplier,20TCDEQ6361S5Z6,TYDDQ5141H,pbakshi@thaman.info,+913832475954,Yatan Butala,"54/42
+Rau Nagar",Unit 43,Ahmedabad,Gujarat,India,451271,5,Punjab National Bank,59347805686,PUNJ0751255,Active,2020-01-25,2026-05-04
+328,SUP00328,"Jain, Sha and Pillai",Raw Material Supplier,08WSCOO1268K6ZQ,HZWOZ0015B,chaman27@halder.com,+917169611938,Caleb Manda,"89
+Zacharia Marg",Floor 8,New Delhi,Delhi,India,972443,8,ICICI Bank,3547468271938862,ICIC0232465,Active,2024-05-21,2026-02-03
+329,SUP00329,Choudhry Ltd,Goods Supplier,22VSXOU7130M1ZU,YOLKB4529A,jagviradhakrishnan@karpe.com,4074731402,Janya Kumer,"63, Patel Nagar",Suite 5,Mumbai,Maharashtra,India,687676,7,Yes Bank,16534286917,YES 0154355,Active,2019-08-17,2022-05-10
+330,SUP00330,"Bajaj, Kala and Dhillon",Service Provider,18NSBPW0760R8ZN,NXATE0210L,dhaliwaloeshi@thaman.org,5535099137,Jason Oak,"24/538, Peri Circle",Floor 19,Surat,Gujarat,India,236262,6,Punjab National Bank,23890206402575,PUNJ0894169,Active,2019-01-14,2025-08-25
+331,SUP00331,"Dash, Parsa and Hari",Equipment Vendor,02GNWSJ5270C9Z2,LPBBH7223P,pboase@ben.biz,+916328673056,Yamini Gola,"H.No. 04
+Maharaj Road",Unit 36,Lucknow,Uttar Pradesh,India,198102,1,Punjab National Bank,86316943640005,PUNJ0248635,Active,2016-07-08,2020-08-30
+332,SUP00332,Trivedi and Sons,Equipment Vendor,02FPZMQ2451I7ZE,ACJHY1418K,riya03@bhatti.com,00593440285,Manan Loyal,"33
+Ramakrishnan",Floor 5,Amritsar,Punjab,India,843547,9,HDFC Bank,604015215296,HDFC0569422,Inactive,2023-05-08,2025-12-15
+333,SUP00333,Uppal LLC,Equipment Vendor,32ATKBF9031F0Z9,AKTJO7133B,samar29@shanker.info,+911157140507,Lila Rege,"71/784, Solanki",Suite 36,Noida,Uttar Pradesh,India,372229,5,Punjab National Bank,37870823152,PUNJ0628937,Inactive,2021-02-19,2024-03-30
+334,SUP00334,"Mann, Natarajan and Raghavan",Goods Supplier,18ZEBPR5881N7Z7,ZTJET6146H,gokhaleoliver@gill-sanghvi.com,9840100110,Ansh Kale,"27/18, Manda Street",Floor 19,Hyderabad,Telangana,India,530415,4,State Bank of India,39538012939,STAT0216668,Active,2019-03-28,2023-04-15
+335,SUP00335,Lad and Sons,Goods Supplier,24CEYZP7591P8ZH,AJLMG6448N,hemangini34@prasad-sibal.info,0822080413,Osha Kumar,"H.No. 609, Vasa Zila",Suite 10,Ludhiana,Punjab,India,377657,2,Punjab National Bank,434018347696,PUNJ0227896,Active,2017-10-06,2025-07-02
+336,SUP00336,Bumb Group,Contractor,34SQFJH0202C5Z0,RVHDB5712G,tripti97@banik.org,+919686825239,Qabil Saraf,"31
+Bhavsar Chowk",Suite 11,Noida,Uttar Pradesh,India,471301,10,Punjab National Bank,60484489928,PUNJ0191922,Active,2023-09-26,2023-11-24
+337,SUP00337,Parekh PLC,Equipment Vendor,37UVGJX9183E9Z8,QJDDI9090Z,ojas39@parmar-bumb.com,2656454619,Bakhshi Kannan,"71/074
+Nanda Marg",Floor 5,Jaipur,Rajasthan,India,096338,8,State Bank of India,63273927952,STAT0547899,Active,2020-06-21,2021-01-12
+338,SUP00338,Pau-Ramakrishnan,Goods Supplier,22CJVQW7475Z4ZO,BVAJG9092J,vritti55@sharma-saxena.com,+914380555373,Devika Bobal,"25/137, Seshadri Marg",Floor 11,Surat,Gujarat,India,519647,10,Axis Bank,00901765548088,AXIS0378261,Active,2023-09-29,2025-10-01
+339,SUP00339,"Singhal, Murthy and Borra",Service Provider,16DVGHS8715F2ZR,EUBSS0423Y,rayaankeer@chaudhuri.com,07199629233,Manthan Garde,"H.No. 938, Johal",Suite 6,Amritsar,Punjab,India,666159,8,Axis Bank,856281386092,AXIS0215009,Inactive,2020-02-04,2022-08-10
+340,SUP00340,Dua-Kar,Contractor,28OCRKH5548B9ZK,XXIMV3285A,gadedhriti@sachdeva.org,+912917460923,Varsha Pal,"63
+Thakur Ganj",Floor 13,New Delhi,Delhi,India,586603,10,State Bank of India,42458778582847,STAT0252445,Active,2021-01-25,2026-05-26
+341,SUP00341,Sule-Ravi,Goods Supplier,35FPJCF7560H8ZW,BUAYJ0449U,xsrivastava@pathak-swamy.com,05345404478,Hema Lata,"54/500
+Madan Nagar",Floor 18,Hyderabad,Telangana,India,835358,8,Yes Bank,35991573305,YES 0601213,Active,2020-08-05,2022-12-01
+342,SUP00342,"Dutta, Gole and Shetty",Service Provider,30JKDVK2030K6Z8,FLNRQ3672Z,chakradhar92@seth-nadkarni.info,+918304298725,Yasti Karan,"53, Palan Ganj",Unit 37,Amritsar,Punjab,India,149880,6,Axis Bank,35589150357856,AXIS0348490,Active,2022-05-11,2024-07-12
+343,SUP00343,Shah LLC,Equipment Vendor,36SINIW6740Y0ZU,ASNSU7388O,mahika71@dalia.com,1096558308,Nandini Raj,"77/248, Rajan Road",Floor 3,Hyderabad,Telangana,India,041464,3,Axis Bank,25578702041763,AXIS0373784,Active,2016-05-28,2020-06-28
+344,SUP00344,Raman Group,Service Provider,31AVXUF0502H5ZS,PYIII8471N,cmajumdar@chahal.com,+915001295445,Faqid Sahota,"972, De Path",Suite 10,Kolkata,West Bengal,India,922585,6,Punjab National Bank,60326276600849,PUNJ0495506,Active,2025-01-27,2025-04-10
+345,SUP00345,"Ratti, Parekh and Mitter",Contractor,20HDORG8539G8ZV,FHBRS3171N,ojas72@kale.net,01177111768,Vaishnavi Pandey,"97/55
+Pradhan",Suite 4,Jaipur,Rajasthan,India,576162,7,ICICI Bank,6670949354985088,ICIC0715121,Active,2023-07-13,2023-11-02
+346,SUP00346,Sodhi Ltd,Equipment Vendor,13VSJJF0535J2Z6,CYBLP3798Y,vivaanlad@padmanabhan-raju.com,+918169064379,Anika Bhatt,"15, Chhabra Path",Suite 31,Mysuru,Karnataka,India,512577,10,Axis Bank,638088032811,AXIS0930413,Blocked,2022-02-03,2025-10-26
+347,SUP00347,Parsa and Sons,Logistics Provider,27DJKZX7922E6ZI,TMOND9718K,jagrati66@gera.biz,+911898773398,Dhriti Choudhary,"35
+Balan Marg",Unit 2,Mysuru,Karnataka,India,090314,2,HDFC Bank,344259419481,HDFC0717255,Active,2025-03-10,2025-05-10
+348,SUP00348,"Goswami, Gokhale and Merchant",Goods Supplier,31KPHYS0756T4ZV,AMRMB2474O,qushi00@parsa.biz,6123977674,Chandran Borah,"86
+Chatterjee Zila",Suite 16,Bengaluru,Karnataka,India,467714,4,Yes Bank,35805410147,YES 0344082,Inactive,2022-08-25,2023-01-05
+349,SUP00349,"Brahmbhatt, Kumar and Gara",Logistics Provider,31NGDWG1081J9ZI,YUQTT5233L,unnibal@keer.com,03253293743,Yatin Rao,"H.No. 042, Balan Path",Floor 17,Hyderabad,Telangana,India,650407,3,HDFC Bank,884557978202,HDFC0599354,Active,2019-09-11,2023-12-23
+350,SUP00350,Memon-Grover,Contractor,16ZISZV2454M0Z5,IIXFA4692R,tanay85@chowdhury.com,+919277394377,Laksh Pal,"60, Vig",,Amritsar,Punjab,India,140316,6,Kotak Mahindra Bank,16643549611,KOTA0850897,Inactive,2019-08-22,2023-02-03
+351,SUP00351,Nagarajan-Desai,Contractor,06QPXKZ6969I5ZE,MGMHG8490L,lchauhan@sankaran-bava.net,02059158373,Nathaniel Dasgupta,"33, Sankar Road",Unit 41,Kolkata,West Bengal,India,880943,2,Axis Bank,0575043403587488,AXIS0165216,Under Review,2018-06-24,2024-10-28
+352,SUP00352,"Manne, Parekh and Srivastava",Equipment Vendor,35COOGW8701O4ZH,IDCHO5398U,prisha88@nagy-sampath.com,+914408565405,Elijah Barad,"751
+Varghese Zila",Suite 21,Coimbatore,Tamil Nadu,India,015133,6,Kotak Mahindra Bank,067692450937,KOTA0898715,Active,2024-12-24,2025-10-14
+353,SUP00353,Vig-Raj,Contractor,37DLZMD6261J0ZP,HFHXS6651I,avni05@gupta-biswas.net,+919538450950,Warinder Shukla,"63, Sawhney Circle",Floor 12,Amritsar,Punjab,India,740507,3,State Bank of India,139418360929,STAT0966647,Active,2018-03-05,2019-04-11
+354,SUP00354,Kibe PLC,Service Provider,37LUWTL5319U4ZT,ISXFY4259V,ldeep@babu.net,+916549124038,Varsha Setty,"07/82, Kade Marg",Unit 14,Kolkata,West Bengal,India,419616,1,State Bank of India,039944133768,STAT0275675,Active,2017-03-01,2023-06-08
+355,SUP00355,Krishnamurthy-Badal,Equipment Vendor,25ECSGT7013M6Z1,SNVBY6893V,rayaan76@lanka-sampath.com,8854910700,Aryan Bakshi,"H.No. 40
+Kanda Ganj",Floor 18,Noida,Uttar Pradesh,India,265148,9,State Bank of India,9183332076271561,STAT0123830,Active,2020-05-13,2024-07-02
+356,SUP00356,Bal-Badal,Service Provider,17IXNMG8287B3Z3,KWNQL7713K,sachi08@mandal-rajan.net,09445680808,Sneha Manda,"89
+Grover Chowk",Unit 20,Nagpur,Maharashtra,India,885270,8,Punjab National Bank,341496378864,PUNJ0203454,Inactive,2019-07-25,2024-12-12
+357,SUP00357,Hari-Keer,Contractor,12WUKWM1183K5ZH,ZTHPU1683A,samarmandal@thakur.com,09910765698,Warinder Vaidya,"12/563, Pathak Ganj",Floor 1,Lucknow,Uttar Pradesh,India,357972,5,ICICI Bank,71381247426,ICIC0446451,Inactive,2016-05-27,2023-08-29
+358,SUP00358,Som-Lanka,Raw Material Supplier,09BWHVH2390N4Z1,PQGCN5891Q,chakrika38@saxena.biz,06703318394,Zilmil Vasa,"49/445, Gokhale Nagar",Floor 18,Lucknow,Uttar Pradesh,India,723746,5,Kotak Mahindra Bank,0135829951562974,KOTA0560499,Inactive,2019-08-24,2024-12-03
+359,SUP00359,Batta Inc,Goods Supplier,13LGQBG3276Q8ZZ,VEMAX4659C,qasim65@mitra-chakraborty.com,+913144410421,Vasatika Bahl,"72, Tata Marg",Floor 19,Lucknow,Uttar Pradesh,India,116639,4,Axis Bank,597723687745,AXIS0965653,Active,2021-02-15,2025-10-28
+360,SUP00360,Lal LLC,Service Provider,11PAVRB2886H0ZR,SNGAP9554F,hpal@puri-swaminathan.org,00885472245,Pahal Mahal,"86/588
+Vyas Road",Suite 10,Nagpur,Maharashtra,India,098759,6,Punjab National Bank,44044556356,PUNJ0584277,Inactive,2018-06-02,2023-06-11
+361,SUP00361,"Sawhney, Shroff and Sahni",Raw Material Supplier,26UTUMW3879W7ZH,ECUMM5841X,zpuri@sani.com,6618783932,Vinaya Vala,"367, Gandhi Chowk",,New Delhi,Delhi,India,937982,2,IndusInd Bank,1573639095216008,INDU0917082,Active,2016-02-22,2021-06-23
+362,SUP00362,"Kalla, Kota and Nadig",Goods Supplier,34FAVGN0247F3ZE,IBDWN1983G,siddharth97@bora.info,04156783021,Balveer Kala,"88/656
+Desai Nagar",Suite 14,Coimbatore,Tamil Nadu,India,652536,6,IndusInd Bank,51476798596428,INDU0459513,Active,2016-02-11,2023-07-25
+363,SUP00363,Nath-Batra,Service Provider,10BHWEU9794M1ZO,ICUOO7493M,vyanjanamandal@dugar.com,02217027296,Bina Sabharwal,"991, Wali Path",Suite 17,Amritsar,Punjab,India,889252,10,Punjab National Bank,5971871563891455,PUNJ0591082,Inactive,2018-03-16,2019-09-15
+364,SUP00364,Mangal-Ahuja,Logistics Provider,28NTXPR5680S1Z0,BNRXQ4384B,ikurian@mandal-chaudry.net,9042438857,Lekha Toor,"269
+Anand Ganj",Suite 32,Chennai,Tamil Nadu,India,625842,10,State Bank of India,3999917979931561,STAT0744265,Active,2023-10-05,2024-01-29
+365,SUP00365,Goel-Tripathi,Goods Supplier,33XTMAB0095P5ZN,HNPER0014M,owen99@peri-kar.com,+913763130740,Rachit Varughese,"63/25, Mangal Street",Floor 11,Kolkata,West Bengal,India,235221,4,Punjab National Bank,91567882523,PUNJ0643820,Active,2021-03-02,2024-02-09
+366,SUP00366,Bassi-Misra,Logistics Provider,07XAYXW2810B4ZV,CSBRS3122Q,manderbalveer@bava-sant.com,+912662665634,Bishakha Arya,"55/443, Bose Ganj",Floor 19,Kolkata,West Bengal,India,676723,9,State Bank of India,5967033598688957,STAT0255381,Active,2018-06-03,2021-10-17
+367,SUP00367,Mane-Wali,Equipment Vendor,07RSXUW0312T0Z6,WURTJ4092K,rsundaram@oza-aurora.com,04547121799,Pranav Sur,"H.No. 100, Biswas Marg",Suite 36,Nagpur,Maharashtra,India,171676,2,ICICI Bank,308489127442,ICIC0897925,Active,2024-07-04,2024-11-04
+368,SUP00368,Varughese Group,Logistics Provider,35SVJGO3746T5ZU,AMQZM6981D,reyansh12@nadig-bhagat.net,+913460603019,Warhi Suresh,"H.No. 89
+Lata Zila",Unit 11,Amritsar,Punjab,India,678794,10,Kotak Mahindra Bank,5493937479052267,KOTA0516129,Inactive,2017-12-30,2023-12-06
+369,SUP00369,Dada-Jani,Contractor,04OERBU4629S3ZG,OBTMH9773F,dayamai46@bassi.biz,06042108457,Aadi Padmanabhan,"845
+Sundaram Circle",Floor 19,Jaipur,Rajasthan,India,452859,1,Kotak Mahindra Bank,85938579904,KOTA0549521,Active,2022-03-31,2023-03-11
+370,SUP00370,Sastry Inc,Goods Supplier,23OSXYR7289R6ZP,GAABG3383A,orinderjohal@dhaliwal-khurana.com,+913223130373,Patrick Prabhakar,"42, Behl Nagar",Floor 13,Lucknow,Uttar Pradesh,India,722648,4,State Bank of India,3172936891994445,STAT0767717,Active,2017-04-19,2023-11-24
+371,SUP00371,Pillai Group,Equipment Vendor,18XEGAY3186W9ZH,ERYCX7722P,kannanjalsa@vora.com,05578286902,Udarsh Karnik,"15/01
+Bhakta Nagar",,Ludhiana,Punjab,India,095714,8,IndusInd Bank,620260329284,INDU0347141,Active,2020-03-27,2021-01-29
+372,SUP00372,Banik-Virk,Raw Material Supplier,19ZIJYX4110M7Z8,HITGC2927F,dugarviraj@wali.com,3141266221,Chavvi Sandhu,"H.No. 000
+Jayaraman Street",Unit 14,Kolkata,West Bengal,India,838854,1,State Bank of India,211894043232,STAT0539548,Active,2021-03-03,2022-06-19
+373,SUP00373,"Trivedi, Nagy and Raman",Raw Material Supplier,12AHRDU1920X6Z9,EDCNO6125X,nsarna@dutt.org,9584078204,Arjun Mall,"18/33, Kulkarni",,New Delhi,Delhi,India,566748,3,State Bank of India,49349358322,STAT0107663,Active,2020-01-12,2025-01-02
+374,SUP00374,Mani-Patel,Raw Material Supplier,14YTIVB5278T7Z0,YSOWR9249N,vivaan25@kapadia-walia.com,5327860470,Bina Ganesan,"00/909
+Kumar Chowk",Suite 33,Kolkata,West Bengal,India,872516,1,Kotak Mahindra Bank,6130277310102196,KOTA0300969,Blocked,2025-01-15,2026-03-21
+375,SUP00375,Gera Ltd,Logistics Provider,05ZABQP7514U0ZK,OKUEY7682E,tanmayi26@lal.com,1739587364,Unnati Mammen,"03, Vaidya Chowk",,Mumbai,Maharashtra,India,732994,10,Punjab National Bank,9315923094937237,PUNJ0436799,Active,2022-02-26,2023-04-04
+376,SUP00376,Madan-Mani,Goods Supplier,16RGYYW7364U6Z7,LYOYY7219S,zaid25@gokhale.com,8150690733,Sachi Pandit,"282, Banik",Unit 93,Noida,Uttar Pradesh,India,831709,5,ICICI Bank,815205975619,ICIC0377889,Active,2023-01-13,2025-05-18
+377,SUP00377,"Bhalla, Murty and Sarma",Contractor,26EEMAH9829Y1ZH,EVEYO7748F,ekajaganguly@sahota-subramanian.biz,+915970227977,Rudra Talwar,"H.No. 860
+Manda Marg",Floor 11,Kolkata,West Bengal,India,917638,4,HDFC Bank,5695175752541563,HDFC0603807,Active,2018-03-11,2023-02-22
+378,SUP00378,Cheema-Nazareth,Goods Supplier,04BCIDA4264M3ZM,MMMLS8093K,dchaudhary@rege.com,8709163388,Chaaya Gara,"35/072
+Sibal Nagar",,Nagpur,Maharashtra,India,864183,5,Kotak Mahindra Bank,46965122269,KOTA0358688,Active,2021-10-01,2021-12-05
+379,SUP00379,Ganguly Ltd,Equipment Vendor,37PLZNO0493W4Z7,BYQYV0551T,ranveerdhar@aggarwal-lal.net,2611740032,Radhika Parikh,"H.No. 01
+Rastogi Path",,New Delhi,Delhi,India,078214,3,HDFC Bank,23689189048483,HDFC0426508,Active,2022-07-18,2022-10-21
+380,SUP00380,Palan Ltd,Equipment Vendor,37UQDJX4178H2ZP,MAQMR0252V,asoman@walla.org,02224078576,Vedant Sur,"48/083, Lanka Street",Suite 28,Jaipur,Rajasthan,India,120257,10,ICICI Bank,2794963714273371,ICIC0424414,Active,2022-04-04,2026-03-08
+381,SUP00381,"Venkataraman, Cherian and Kapur",Equipment Vendor,28OLOWN0166X2ZK,WZMOA7732W,isha99@ganesh.biz,+911857365598,Hitesh Parmer,"H.No. 70
+Patel",,Ahmedabad,Gujarat,India,995289,7,Yes Bank,28517010127,YES 0581338,Inactive,2017-02-08,2019-04-27
+382,SUP00382,"Raja, Maharaj and Mall",Logistics Provider,11BFMMU4815T4ZA,METKL6684H,fkeer@mutti.com,9393015543,Eshana Amble,"106
+Bajaj Street",Unit 18,Lucknow,Uttar Pradesh,India,626615,1,ICICI Bank,66508023514247,ICIC0896831,Active,2018-12-09,2026-05-30
+383,SUP00383,Atwal PLC,Contractor,20FWSNL9654C9Z0,CKAUT5745I,eiravatishukla@date.com,0426892106,Harita Morar,"63/46
+Vohra",Floor 3,Surat,Gujarat,India,666970,4,Punjab National Bank,06140748293,PUNJ0300992,Active,2020-12-24,2025-03-03
+384,SUP00384,Jhaveri LLC,Raw Material Supplier,04KHLPJ3373E5ZS,KXJTZ3694I,rkakar@mohan-trivedi.com,7740539222,Logan Brahmbhatt,"H.No. 204
+Ramanathan Path",Unit 14,Coimbatore,Tamil Nadu,India,723904,10,State Bank of India,0875124875063097,STAT0363623,Inactive,2020-06-15,2021-04-15
+385,SUP00385,Sridhar PLC,Service Provider,11BLXEW4646V7ZI,WIELM2376Y,rachitmahal@subramaniam-warrior.biz,+919572941082,Jeet Lad,"89/41, Singh Circle",,Jaipur,Rajasthan,India,708559,8,HDFC Bank,28957149234,HDFC0277757,Active,2025-01-13,2026-04-18
+386,SUP00386,Bhagat Group,Equipment Vendor,20WLKDX4302Q4Z5,YXXVU8728H,dadachandani@gara-buch.com,06371364611,Lopa Tandon,"83/43
+Biswas Chowk",Unit 63,Hyderabad,Telangana,India,813870,6,ICICI Bank,19008458090556,ICIC0796948,Active,2021-08-28,2023-08-08
+387,SUP00387,Apte Group,Goods Supplier,02PHTNK9850N5ZI,ZIDOG5263H,raksha90@tailor-mallick.net,+913608488004,Kala Sastry,"098, Varma Path",Unit 81,Jaipur,Rajasthan,India,115389,9,State Bank of India,9064153127315176,STAT0133034,Under Review,2024-09-24,2026-04-07
+388,SUP00388,Rao-Narula,Equipment Vendor,18ZNSPL3460U8ZX,VSFQF6580E,ksridhar@bhandari-lall.org,07765382483,Udarsh Bava,"385, Sundaram Path",Floor 20,Mysuru,Karnataka,India,160216,7,HDFC Bank,34367137650,HDFC0190199,Under Review,2016-09-14,2023-06-28
+389,SUP00389,Purohit and Sons,Service Provider,25HXKWP3431Y4ZC,QGLYX7057P,tellatanmayi@deshmukh.com,06147739617,Rajeshri Raghavan,"63/15
+Salvi Nagar",Suite 50,Noida,Uttar Pradesh,India,709519,3,ICICI Bank,223616748688,ICIC0879925,Active,2022-06-19,2026-05-23
+390,SUP00390,Choudhury LLC,Raw Material Supplier,13OTGDD4412W8Z5,GCIKF0887D,hemanginibadal@singh-de.com,6179307963,Siddharth Tata,"71/47
+Dhar Road",,Chennai,Tamil Nadu,India,405398,8,Kotak Mahindra Bank,24381055005,KOTA0195192,Active,2017-03-16,2019-01-09
+391,SUP00391,"Sen, Sem and Solanki",Equipment Vendor,37MBXOK0792J6ZH,HMMDD1701A,pranitagrawal@virk-buch.com,+915886504820,Yadavi Saxena,"021, Kata Marg",Unit 50,New Delhi,Delhi,India,773320,7,Kotak Mahindra Bank,5290194024348813,KOTA0285950,Active,2020-06-01,2025-11-29
+392,SUP00392,Ram-Sodhi,Contractor,05TUPLO8378G6ZQ,OTHRR6459G,rnayar@barad.com,06027795102,Ojasvi Garg,"208
+Bora Ganj",Floor 9,Amritsar,Punjab,India,467020,2,Yes Bank,01193527923023,YES 0678355,Active,2018-09-24,2022-05-01
+393,SUP00393,"Balay, Mitter and Chandran",Logistics Provider,32ZQTMY3103W4Z6,BEVFI2299T,rkumar@viswanathan.com,08757390830,Samaksh Ranganathan,"H.No. 41
+Naik Street",Floor 15,Noida,Uttar Pradesh,India,659455,5,Punjab National Bank,4523190449903553,PUNJ0866072,Active,2022-09-06,2023-07-22
+394,SUP00394,Bail Inc,Equipment Vendor,29UXUSL4701L8Z4,UMWTZ9432N,vincentganguly@sibal.info,06705724562,Pranit Loke,"14, Sathe Road",,Coimbatore,Tamil Nadu,India,745306,2,Punjab National Bank,79457107184,PUNJ0845571,Inactive,2021-08-16,2022-08-01
+395,SUP00395,Rout-Mallick,Logistics Provider,24LDLVD6244N7ZI,TPNYK2574Y,jagrati14@sarna-madan.com,+916209697416,Daniel Narang,"61/22
+Sura Circle",,Ludhiana,Punjab,India,868617,5,IndusInd Bank,786755826823,INDU0926314,Blocked,2022-02-08,2024-07-10
+396,SUP00396,"Korpal, Raman and Bhasin",Contractor,37ZLUNK7798V9ZN,ZAJLR7667Z,borahbakhshi@shere-sanghvi.com,+916349432348,Odika Murthy,"02/907
+Pandya Nagar",Floor 7,Hyderabad,Telangana,India,327921,2,HDFC Bank,8675417137513133,HDFC0630936,Inactive,2022-08-09,2024-11-05
+397,SUP00397,"Kakar, Devan and Sarin",Service Provider,21TDWWQ9815N9Z1,JLHVU2778I,hbakshi@mallick.com,5094587806,Hiral Mody,"H.No. 77
+Chauhan Road",,Amritsar,Punjab,India,570737,5,State Bank of India,657149505721,STAT0538731,Active,2025-07-31,2026-02-24
+398,SUP00398,Bandi PLC,Logistics Provider,01RGLVX0488B3ZL,QULQB3375K,anvimadan@korpal.com,9798918723,Tanvi Kar,"91/12, Bhatia Zila",,New Delhi,Delhi,India,767382,1,State Bank of India,470757868305,STAT0814616,Active,2025-08-14,2026-01-01
+399,SUP00399,Venkataraman and Sons,Logistics Provider,28ZESLG4012E4ZE,ZAKSQ2802P,baralnathaniel@halder.com,04846704950,Vincent Oommen,"H.No. 900
+Ghose Marg",,Ahmedabad,Gujarat,India,879239,2,Punjab National Bank,6170413424246522,PUNJ0143804,Under Review,2018-06-20,2025-01-17
+400,SUP00400,"Nanda, Gill and Narula",Contractor,16ZFBZR1542Y5ZD,SCGMM7422W,sastryayushman@dua-varkey.com,02261234400,Onkar Mall,"18/29, Bali Circle",,Jaipur,Rajasthan,India,228949,9,State Bank of India,436613375051,STAT0260703,Active,2025-08-31,2025-12-24
+401,SUP00401,Randhawa LLC,Contractor,17ELTPE3536C2ZK,DVVDL7915V,zshah@borah-banik.org,01096297510,Devansh Hegde,"H.No. 77, Pandey Path",Unit 61,Pune,Maharashtra,India,450920,1,Punjab National Bank,1111041779770341,PUNJ0395136,Active,2019-05-22,2020-08-04
+402,SUP00402,Dayal-Sarkar,Contractor,20QHFIB5961S6ZY,FNMQD9790A,wriddhishsarma@koshy.com,09143250211,Waida Ben,"04
+Chad Ganj",Suite 39,Kolkata,West Bengal,India,540370,5,ICICI Bank,88485225053,ICIC0640305,Active,2016-02-21,2021-01-16
+403,SUP00403,Agrawal Inc,Equipment Vendor,17YEOJH3408A8ZP,JBHKM0212E,divyashanker@nadkarni.com,+913274830620,Darpan Patel,"88, Bose Street",,Hyderabad,Telangana,India,452107,8,Axis Bank,42526681932728,AXIS0351674,Active,2017-11-07,2020-04-30
+404,SUP00404,"Shah, Dhar and Yohannan",Goods Supplier,21KDNKG1568C7Z8,CUXHH7663H,sarthak52@lall-rau.com,+913450870205,Aarnav Singh,"23/10
+Vohra Ganj",Suite 5,New Delhi,Delhi,India,756516,1,Axis Bank,43424875189,AXIS0609714,Active,2023-12-05,2024-02-10
+405,SUP00405,Pall and Sons,Logistics Provider,37EQLWY9896K3Z3,WBMLL3596Y,harinakshibalasubramanian@thaman.net,5751687696,Mekhala Dhar,"04, Dhillon Nagar",Suite 44,New Delhi,Delhi,India,366517,7,State Bank of India,1542811833032400,STAT0549032,Active,2023-03-12,2025-07-04
+406,SUP00406,Kumer-Mangal,Logistics Provider,01BBFGA2335S4ZJ,VJQRP2881I,charvi44@halder-bhasin.com,09383999645,Shivansh Memon,"41/17
+Tandon Circle",Unit 16,Amritsar,Punjab,India,952377,1,State Bank of India,180647740651,STAT0862467,Active,2021-02-04,2022-08-25
+407,SUP00407,Baral and Sons,Logistics Provider,33JTBTZ9884B8ZV,ZGVQQ1150Q,otoor@shan.com,4311080189,Pushti Barad,"16/370, Thakkar Chowk",Unit 64,Hyderabad,Telangana,India,890504,1,Punjab National Bank,386779815593,PUNJ0846773,Active,2021-09-24,2025-04-26
+408,SUP00408,Patla Group,Equipment Vendor,10IZAVI8716W8ZK,NEMJO6351P,azaan96@vala.com,+911232611317,Kevin Patla,"813
+Madan Street",Suite 16,Ludhiana,Punjab,India,553595,9,Kotak Mahindra Bank,06245729310,KOTA0117703,Active,2025-11-17,2026-03-06
+409,SUP00409,Kumer-Prabhakar,Service Provider,31PHFCB3707Y3ZB,GHZSB6914M,abhattacharyya@kapoor-biswas.com,08290745146,Chandran Bhatia,"93/680, Madan Marg",Suite 25,Hyderabad,Telangana,India,632398,10,Kotak Mahindra Bank,58920004034,KOTA0912426,Active,2017-12-30,2019-02-23
+410,SUP00410,Kant and Sons,Goods Supplier,10MZQZE2974J3Z5,OPUIY9256W,chandervedika@kara.info,+910251989333,Urishilla Khanna,"77/124
+Wagle Circle",Floor 20,Ludhiana,Punjab,India,955186,9,HDFC Bank,4997479213790858,HDFC0789995,Active,2022-02-22,2025-04-04
+411,SUP00411,Shukla-Natt,Raw Material Supplier,28KDOCG0977C0ZR,SPGPI7794N,nazarethojasvi@suri.com,+917416875546,Hritik Badal,"H.No. 90
+Tella",Floor 2,Chennai,Tamil Nadu,India,053904,7,State Bank of India,03167920519285,STAT0600382,Active,2022-12-05,2025-06-17
+412,SUP00412,Majumdar-Chaudhuri,Service Provider,10UMQTU3702I9ZG,SPWJP8439W,andrew39@dugar.biz,02905449603,Hemang Mangal,"H.No. 881
+Kapadia Marg",Unit 27,Bengaluru,Karnataka,India,154482,1,State Bank of India,275288097264,STAT0132110,Active,2024-03-09,2025-03-14
+413,SUP00413,Chakrabarti-Pandya,Equipment Vendor,19XOLHK5712I5ZB,ZTTHG5924U,menonhemal@majumdar-mani.info,05189078935,Kashvi Dyal,"H.No. 60, Ram Circle",Unit 82,Kolkata,West Bengal,India,458228,10,Punjab National Bank,6209141531716917,PUNJ0511186,Active,2021-01-25,2023-06-23
+414,SUP00414,Dhaliwal Ltd,Equipment Vendor,12MRDLA6096O7ZQ,ABWWP7812M,udivan@parikh.org,+911159793293,Daniel Shah,"H.No. 141, Devi Chowk",,Mysuru,Karnataka,India,529355,1,IndusInd Bank,84752925682,INDU0775036,Blocked,2025-06-14,2025-10-04
+415,SUP00415,Mand-Mahal,Logistics Provider,18LNPSH0422V9Z1,IUVCB6099B,bhatnagaradya@badami-balan.net,0043589809,Yamini Dua,"67, Badami Ganj",Unit 76,Coimbatore,Tamil Nadu,India,211851,3,State Bank of India,35299734580809,STAT0645550,Active,2017-03-19,2022-03-25
+416,SUP00416,Bhatti-Ghosh,Raw Material Supplier,06HDWUH3237S6ZX,UJLYS4980U,misrayadavi@bhandari-hayer.com,+919067711395,Daksh Pai,"H.No. 24
+Pathak Street",Unit 6,Noida,Uttar Pradesh,India,223613,2,IndusInd Bank,19630370987224,INDU0508754,Active,2022-03-05,2023-05-28
+417,SUP00417,Loyal-Goel,Raw Material Supplier,29VPVKW0969O3ZO,DVHYE8378Q,murthyladli@choudhary.com,+919929146784,Tristan Sani,"H.No. 65, Deol Road",Unit 88,Noida,Uttar Pradesh,India,052484,10,Yes Bank,66879776299,YES 0116138,Active,2023-03-09,2023-10-21
+418,SUP00418,"Mangat, Vala and Nadkarni",Service Provider,01SVEZD1908A8ZS,WRJLL9686M,patricksandal@hayer.org,+912033897560,Jagrati Ravi,"08/88
+Bail Chowk",Floor 2,Lucknow,Uttar Pradesh,India,314663,9,Punjab National Bank,400033162201,PUNJ0217364,Active,2016-04-05,2019-03-03
+419,SUP00419,"Krish, Subramanian and Sharaf",Contractor,26LXFWH1044H2ZH,TJMDJ4050D,wbora@dugar.com,+915330557019,Pranit Guha,"11/90
+Tiwari",Suite 43,Bengaluru,Karnataka,India,092062,9,HDFC Bank,33108152826371,HDFC0529557,Active,2016-12-21,2020-07-23
+420,SUP00420,Rout Inc,Contractor,37BIIWF0150Y7ZR,UWSWQ3393Z,kalpitpall@narang.com,1844798151,Chandani Subramaniam,"H.No. 063, Raj Nagar",,Noida,Uttar Pradesh,India,652622,9,Yes Bank,2147787947608842,YES 0495450,Active,2020-07-25,2025-08-19
+421,SUP00421,Doshi and Sons,Service Provider,33AEQLP6640M1ZV,RDHTN5923D,gollarachit@kapadia.org,+914984476678,Nathan Parikh,"87/818, Ramesh Marg",Unit 83,Chennai,Tamil Nadu,India,032029,9,ICICI Bank,1499107444840722,ICIC0989283,Active,2017-06-28,2021-04-16
+422,SUP00422,Mani-Kapur,Logistics Provider,13MREDP7754A7ZO,PGPYV8805K,saanvichar@din-sastry.com,+916034017075,Finn Raj,"22/98, Raval Circle",Suite 15,New Delhi,Delhi,India,081808,7,ICICI Bank,9458599487419107,ICIC0375706,Active,2019-08-18,2024-02-24
+423,SUP00423,Babu-Handa,Contractor,30GTGIA7839X3Z3,PLSUS9278V,harinisunder@kumar.com,+911973452457,Chakradhar Saran,"95, Sawhney Zila",Unit 67,Bengaluru,Karnataka,India,525643,10,State Bank of India,195543782449,STAT0855507,Active,2021-01-17,2024-07-18
+424,SUP00424,Borah-Chaudhry,Raw Material Supplier,26UQGSG1908V9ZH,GZIYA8086X,shaikbal@agate-bava.com,+915152751647,Charita Choudhury,"H.No. 790, Ramesh Street",Unit 29,Bengaluru,Karnataka,India,951984,6,HDFC Bank,3049391622670542,HDFC0122766,Active,2018-07-22,2021-02-24
+425,SUP00425,Nazareth-Kalita,Contractor,06PCZOF7789E6ZL,CNWMF2361T,zsunder@narain-luthra.com,+910923413543,Darsh Jayaraman,"94
+Raju Nagar",,Bengaluru,Karnataka,India,127172,2,Kotak Mahindra Bank,355365092777,KOTA0458754,Active,2018-06-10,2022-05-29
+426,SUP00426,Sen Inc,Contractor,03BZSLA4066Z2Z5,BIOMW5227A,gavin38@johal-bhasin.com,04796751943,Chaman Kothari,"47/64, Mammen Ganj",Floor 5,Jaipur,Rajasthan,India,847162,9,Yes Bank,44753873375925,YES 0225298,Active,2022-11-29,2024-09-27
+427,SUP00427,Handa Ltd,Raw Material Supplier,25GOJUJ5738Z6ZD,HSZGM8026J,sachi34@chhabra.biz,+915494462297,Anvi Tata,"H.No. 988, Hayre Road",Suite 49,Surat,Gujarat,India,417885,5,Yes Bank,906525176118,YES 0420313,Inactive,2020-10-13,2022-10-30
+428,SUP00428,Dave-Deol,Logistics Provider,04SZCQV3525S4ZN,CLYXL3042B,hemang13@goswami.com,2174149194,Pallavi Contractor,"H.No. 995, Parikh Marg",Suite 28,Kolkata,West Bengal,India,652912,7,Punjab National Bank,424891988753,PUNJ0856931,Under Review,2020-12-24,2021-06-23
+429,SUP00429,Butala-Sankar,Raw Material Supplier,23KZVHZ7475A3ZB,ADHXP7980J,indali86@yadav.com,2540502148,Aarini Pillai,"H.No. 074
+Parmar Road",Unit 3,Coimbatore,Tamil Nadu,India,519276,7,Axis Bank,81054611432812,AXIS0315659,Inactive,2023-03-10,2023-12-02
+430,SUP00430,"Kalita, Tailor and Kalla",Raw Material Supplier,29SPZSU6977I5Z4,OFZMB9743F,lnayak@balakrishnan-virk.info,4403310453,Januja Chowdhury,"H.No. 045, Rege Path",Floor 17,Coimbatore,Tamil Nadu,India,647862,4,Axis Bank,74014188814720,AXIS0858646,Active,2018-03-10,2021-10-12
+431,SUP00431,Buch-Sankaran,Logistics Provider,22MFSKZ3090D6Z2,GHBZB9247K,rehaan22@kamdar.net,5673286863,Janaki Dey,"47/86
+Kuruvilla Path",Suite 5,Amritsar,Punjab,India,821231,10,Yes Bank,8533359816334859,YES 0132290,Active,2018-07-25,2019-06-22
+432,SUP00432,Savant Ltd,Service Provider,02SIEUX5876N2ZI,DMGCR9799D,jhalakmand@sani.com,9117952512,Anika Kuruvilla,"585
+Bail Road",Floor 7,Ahmedabad,Gujarat,India,026575,8,Kotak Mahindra Bank,78596574332650,KOTA0353495,Active,2024-03-06,2025-03-30
+433,SUP00433,Chadha-Bajaj,Goods Supplier,34FYAHI4272J8Z7,NIMDA8044L,ivarkey@gopal.com,06187923229,Umang Srinivasan,"26/543, Master Path",,New Delhi,Delhi,India,180491,5,State Bank of India,77518295329855,STAT0306671,Active,2016-07-28,2025-07-21
+434,SUP00434,"Dhawan, Ramesh and Bhagat",Service Provider,15LJCNF9423D8ZQ,SJXYR9028W,saksham91@sibal-varty.info,01021833126,Wriddhish Korpal,"H.No. 574, Parmer Street",Floor 1,Jaipur,Rajasthan,India,707021,7,State Bank of India,6510918573973576,STAT0857296,Active,2023-08-31,2024-07-27
+435,SUP00435,Mukhopadhyay-Agarwal,Logistics Provider,15CDHAT7410N8ZZ,PUCSO9464V,itandon@mukherjee.biz,4694025401,Nakul Prabhakar,"726, Saini Road",Floor 11,Nagpur,Maharashtra,India,624325,2,Axis Bank,7079262781525965,AXIS0957281,Active,2016-02-17,2016-07-02
+436,SUP00436,Varty-Borra,Equipment Vendor,16ETQYS8354N4ZX,FBZON6590F,palluke@behl-nayak.com,06538293511,Raksha Lanka,"H.No. 37
+Randhawa Marg",Floor 13,Mysuru,Karnataka,India,122779,9,Punjab National Bank,475309557546,PUNJ0885485,Active,2025-10-11,2026-04-17
+437,SUP00437,"Raj, Sule and Yohannan",Equipment Vendor,34NXMPF1991I3ZA,FBECG5553Y,andraumang@gandhi.info,7750191365,Nihal Palla,"H.No. 16
+D’Alia Circle",Suite 41,New Delhi,Delhi,India,430836,1,Axis Bank,368450072362,AXIS0736865,Active,2024-07-07,2025-07-21
+438,SUP00438,Hari LLC,Goods Supplier,13GDDSA4417I5Z2,QNXAX9204T,anita86@parsa.com,2482667492,Agastya Kothari,"39/06
+Mallick Chowk",,Coimbatore,Tamil Nadu,India,952408,1,IndusInd Bank,59150720131,INDU0530438,Active,2016-06-14,2019-08-10
+439,SUP00439,"Mukhopadhyay, Rao and Vyas",Logistics Provider,08OUIHH6273G0ZB,SZLZK1107F,ganeshmadhavi@doctor-soni.com,5078848557,Arjun Sachdev,"H.No. 107, Bal Road",Suite 34,Lucknow,Uttar Pradesh,India,662370,7,HDFC Bank,1274285936555115,HDFC0976971,Active,2016-08-25,2025-03-22
+440,SUP00440,"Chawla, Konda and Pant",Raw Material Supplier,04ZTLUC3782T3ZC,XLUCP9316V,bparekh@majumdar.com,+910906189588,Reva Rajagopalan,"07/27
+Kapoor Chowk",Floor 9,Coimbatore,Tamil Nadu,India,107732,4,IndusInd Bank,058793173237,INDU0661245,Active,2017-09-27,2023-12-02
+441,SUP00441,Deshmukh Ltd,Raw Material Supplier,10WSURO0961K6ZY,RFSKJ4312V,subramanianjasmit@din.net,6270092311,Tanish Aggarwal,"H.No. 573
+Taneja Road",Suite 5,Chennai,Tamil Nadu,India,823421,7,State Bank of India,98851524253231,STAT0355300,Active,2025-03-29,2025-12-18
+442,SUP00442,"Srinivasan, Dua and Magar",Contractor,16QAUAP9966C7Z5,HIQJL6992G,iyeroviya@arora.com,9731288794,Pooja Dewan,"13/514, Subramanian Chowk",,Chennai,Tamil Nadu,India,371726,4,Kotak Mahindra Bank,806312058854,KOTA0535497,Active,2021-03-06,2021-12-03
+443,SUP00443,Gara-Bir,Equipment Vendor,25UKTVI0549Y4Z8,HUBNM1435F,bjaggi@chahal.com,+917570299639,Gaurav Buch,"28, Gara Road",Suite 32,Pune,Maharashtra,India,768197,1,Axis Bank,73057762322027,AXIS0846484,Inactive,2025-06-11,2026-05-06
+444,SUP00444,"Kunda, Natt and Bhakta",Goods Supplier,34TENVI8290O2ZN,DYXLV6203D,tanaynarayanan@subramaniam.com,+917511031553,Chakradev Barad,"H.No. 940, Virk Road",Floor 1,Ahmedabad,Gujarat,India,084546,5,ICICI Bank,1978992456741442,ICIC0208541,Active,2020-03-27,2024-04-18
+445,SUP00445,Dayal-Ganesh,Contractor,19RISFG4371A4ZB,HIXXE5593S,william44@kant-vyas.biz,+913482071343,Ekavir Tandon,"612, Basak Marg",,Ludhiana,Punjab,India,796956,8,Axis Bank,4852168920996031,AXIS0482826,Active,2024-10-13,2025-09-12
+446,SUP00446,"Goswami, Tandon and Wali",Contractor,27XDZWD0587Y3ZE,KDUAH2558B,niteshchoudhary@gill-parekh.com,3601447890,Zarna Sarkar,"H.No. 389
+Dara Road",,Jaipur,Rajasthan,India,002529,2,Punjab National Bank,79359866067,PUNJ0394850,Active,2024-09-30,2024-12-02
+447,SUP00447,Bhattacharyya Group,Logistics Provider,08BITVR4892O1ZC,YJHVG1886U,omisha59@chaudhuri-kala.com,1188113379,Praneel Pau,"607, Bal Marg",Unit 25,Kolkata,West Bengal,India,880504,8,IndusInd Bank,5337558155883736,INDU0359505,Active,2025-08-02,2026-02-13
+448,SUP00448,Sandal PLC,Logistics Provider,34VFGDQ9227I1Z9,VADFT7058S,tsant@varma.net,04420430994,Lila Ahluwalia,"192
+Yadav Chowk",Floor 19,Ludhiana,Punjab,India,680305,4,Punjab National Bank,33542696346,PUNJ0590024,Active,2021-12-04,2023-03-27
+449,SUP00449,"Buch, Shroff and Hora",Logistics Provider,24ZEPBA3483F0ZU,GXLHV8847A,utkarshkapoor@parmer.com,2860183337,Ranbir Chad,"89/164
+Edwin",Floor 6,New Delhi,Delhi,India,846891,5,HDFC Bank,191667965938,HDFC0869591,Active,2024-07-20,2025-04-19
+450,SUP00450,Oak-Sabharwal,Contractor,10ELCRN0857Q9ZO,DGKXV2656C,qadimbhandari@sule.com,+917719458631,Neha Dave,"35/264, Bhandari Chowk",Floor 15,Jaipur,Rajasthan,India,340896,8,HDFC Bank,913279805856,HDFC0963256,Active,2023-08-22,2025-06-23
+451,SUP00451,Lata-Misra,Logistics Provider,09KGSRB1627E1ZT,HNGCN4771L,rattibenjamin@naidu.biz,3968259569,Jatin Kakar,"02/75
+Master Street",,Pune,Maharashtra,India,548735,3,Yes Bank,93274496966,YES 0700005,Under Review,2023-08-16,2023-08-26
+452,SUP00452,"Dhawan, Chatterjee and Chanda",Contractor,26HSUDR7001R1Z1,ILBCY0351B,chandresh93@edwin.com,07246039784,Pushti Dhillon,"06/04
+Tandon Ganj",,New Delhi,Delhi,India,117767,3,ICICI Bank,488348406140,ICIC0917273,Active,2017-09-28,2024-10-24
+453,SUP00453,Kannan-Seshadri,Contractor,33UAVHW7632M5ZO,NBWQC9703N,amairapingle@rout-mutti.com,8467980576,Nikita Swaminathan,"284
+Prakash Road",,Hyderabad,Telangana,India,152246,5,Kotak Mahindra Bank,844560829399,KOTA0519291,Active,2023-07-21,2024-03-21
+454,SUP00454,Brahmbhatt-Singhal,Service Provider,23SUPKW8149X7Z0,DPGND2335R,bailturvi@hora-vora.com,05940591950,Noah Gola,"93/932
+Chauhan",Floor 3,Jaipur,Rajasthan,India,077715,6,Punjab National Bank,168038376080,PUNJ0685133,Active,2016-05-12,2018-08-26
+455,SUP00455,Grewal-Pal,Contractor,25TNJAX1596B4Z8,ISZFB0807O,idhaliwal@kumer.com,01873868101,Amara Swaminathan,"H.No. 252
+Thaker Circle",Suite 13,Chennai,Tamil Nadu,India,789620,6,Kotak Mahindra Bank,44661012929,KOTA0711789,Active,2023-07-31,2025-02-04
+456,SUP00456,Bedi LLC,Service Provider,32CZRMF3042Q0Z8,XVXFL4321Q,natarajandalbir@ghose.com,+915895815248,Yug Zachariah,"39/72
+Mane",Unit 82,Jaipur,Rajasthan,India,434386,4,Punjab National Bank,09420185342,PUNJ0597321,Inactive,2019-12-19,2020-03-22
+457,SUP00457,Kaul-Bail,Service Provider,02KPXCA2236O3ZR,OBVIS1892H,watika80@patla.com,04196358580,Janani Thaman,"93
+Chaudhry Road",Suite 13,Coimbatore,Tamil Nadu,India,852210,10,HDFC Bank,476221471073,HDFC0517682,Active,2022-02-02,2023-05-24
+458,SUP00458,Choudhary Group,Contractor,36RLOXA0334K7ZY,QZSDD5673Y,zbehl@kakar.com,7091135776,Amruta Hora,"80/97, Edwin Road",Unit 32,New Delhi,Delhi,India,026790,4,IndusInd Bank,876698141724,INDU0788388,Under Review,2022-08-29,2024-08-13
+459,SUP00459,"Agate, Kar and Nanda",Raw Material Supplier,34TDCWP5527X5ZP,ZBLWU5981D,prajan@chatterjee.biz,+913117215305,Vrinda Chakraborty,"05/86, Chopra Marg",,Surat,Gujarat,India,357469,2,IndusInd Bank,92994697039265,INDU0241985,Inactive,2022-10-06,2024-07-23
+460,SUP00460,"Mander, Mann and Chaudhry",Service Provider,25PLUDG9014S0ZC,JPXHS9401U,hamsinimuni@kanda-dara.com,00686285797,Nikita Amble,"63/861
+Ravi Nagar",Suite 50,Mumbai,Maharashtra,India,916351,4,Kotak Mahindra Bank,27564998918852,KOTA0537385,Active,2018-03-25,2025-10-09
+461,SUP00461,Patla Ltd,Goods Supplier,36VJXHH4122R8ZI,YDRCI8920X,atirau@kumer.com,+916638735620,Hema Ghose,"11/812, Sanghvi Ganj",Suite 43,Jaipur,Rajasthan,India,811188,5,Kotak Mahindra Bank,12615796547,KOTA0577332,Active,2016-04-15,2017-08-10
+462,SUP00462,Saran and Sons,Contractor,08UHZDU2873W9Z6,FBCQI0879X,vkapur@sant.org,+917384741935,Harshil Devan,"87/364
+Mody Nagar",Floor 6,Noida,Uttar Pradesh,India,137964,2,State Bank of India,0644533569932712,STAT0646070,Active,2023-10-16,2025-04-16
+463,SUP00463,Vora-Varty,Goods Supplier,17CBZIU6878G3ZM,SBSXD7214M,venkateshbina@srinivas.com,04450490865,Mahika Kala,"H.No. 506, Johal Marg",Floor 17,Pune,Maharashtra,India,589912,10,Punjab National Bank,83700698497,PUNJ0467376,Active,2021-10-07,2026-06-29
+464,SUP00464,Barad Ltd,Contractor,01IPAFI2108J6ZL,QHXPS1545V,chandrabrinda@dixit-sachdev.info,8349930791,Wriddhish Parmar,"H.No. 461
+Dayal Road",Unit 85,Chennai,Tamil Nadu,India,159521,5,Punjab National Bank,210164208015,PUNJ0587894,Active,2019-07-04,2024-05-14
+465,SUP00465,"Nair, Tiwari and Lal",Logistics Provider,16UKTIC8161D8ZK,YKBUQ1769Z,luckybiswas@verma.com,01238574182,Megha Sankar,"H.No. 986, Kari Road",Floor 13,Pune,Maharashtra,India,414166,7,HDFC Bank,70084646080210,HDFC0327024,Active,2023-11-23,2026-06-13
+466,SUP00466,Taneja and Sons,Equipment Vendor,17QWTUB7481S4ZE,MNHON5034Q,theodorebhagat@reddy-kumar.com,06830062794,Yatan Sarkar,"65
+Grewal Marg",,Hyderabad,Telangana,India,857091,7,Yes Bank,39848228417,YES 0465480,Active,2016-02-26,2021-07-26
+467,SUP00467,"Kant, Dhar and Murty",Logistics Provider,18SAZTV7095V6ZF,FFGXE3619C,bhandaripallavi@om.com,0496505295,Gautami Chander,"H.No. 61, Nagi",Unit 65,Hyderabad,Telangana,India,769027,2,Kotak Mahindra Bank,104752058817,KOTA0632136,Under Review,2017-06-06,2024-12-09
+468,SUP00468,Khalsa-Sarraf,Service Provider,06SLKFB1095L0ZT,MRWMH8715V,ebajwa@memon.org,2602658473,Nitesh Sehgal,"34, Pant Road",Floor 12,New Delhi,Delhi,India,348840,5,ICICI Bank,881799298523,ICIC0415322,Active,2018-01-14,2023-09-20
+469,SUP00469,"Bal, Bedi and Guha",Service Provider,24LSNBH4763I6Z9,RBQAP4767D,duayashoda@varty.com,9315310555,Abha Pandit,"552
+Bahl Ganj",Unit 43,Bengaluru,Karnataka,India,177014,3,Axis Bank,34199608144997,AXIS0159275,Active,2016-01-22,2023-11-03
+470,SUP00470,"Madan, Garg and Thakkar",Goods Supplier,15BDSGY7017T3Z2,GFMBM8523J,amara79@bhatnagar-naik.com,0358445389,Devansh Walia,"H.No. 19, Sawhney Chowk",Unit 78,Pune,Maharashtra,India,007404,7,Yes Bank,091738053214,YES 0979189,Active,2023-10-12,2024-01-05
+471,SUP00471,"Madan, Mahal and Murthy",Goods Supplier,35HWOER9376A5ZQ,PZPRH4021I,vyanjana10@soni-bhatia.org,02351252746,Nihal Srivastava,"H.No. 151, Kothari",Suite 14,Ahmedabad,Gujarat,India,659580,7,Axis Bank,19461945762011,AXIS0134227,Active,2025-01-01,2025-11-04
+472,SUP00472,"Bajwa, Kade and Sachdeva",Logistics Provider,07MVXGV9933Q3ZH,VKFUR0566E,ysule@kakar.com,07108185413,Waida Gulati,"52/099, Toor Path",Unit 24,Kolkata,West Bengal,India,137109,8,State Bank of India,75224111375951,STAT0322773,Inactive,2023-06-04,2025-07-11
+473,SUP00473,Dhar PLC,Raw Material Supplier,03OXNGW3510H9ZL,LBXKC0450L,rayaan89@majumdar-sem.com,7748579701,Reyansh Bhandari,"01/34, Gupta Nagar",,New Delhi,Delhi,India,208086,4,ICICI Bank,567361510080,ICIC0453076,Active,2025-08-25,2026-03-31
+474,SUP00474,Mall-Pillay,Service Provider,02CSSAI0291P0ZX,HPMHL7860S,jackmanda@dora-morar.net,+918063404952,Meghana Memon,"16/94
+Thaman Chowk",Floor 11,Noida,Uttar Pradesh,India,851241,5,HDFC Bank,273047846388,HDFC0920453,Active,2025-05-22,2026-01-23
+475,SUP00475,Gaba-Bora,Contractor,15BTJEH4464B2ZD,VOZEI8051Z,atharv62@varty.info,8795021272,Chaitaly Memon,"H.No. 589, Nori",Unit 36,Amritsar,Punjab,India,503476,2,HDFC Bank,759327695436,HDFC0953936,Active,2018-07-21,2018-08-24
+476,SUP00476,Bala LLC,Service Provider,27LOIWT0118X9ZU,RGIHE6581B,gauridugar@patil.com,+910799927810,Januja Doshi,"73/99
+Raval Marg",Suite 35,Kolkata,West Bengal,India,230213,8,ICICI Bank,69201508545,ICIC0666811,Active,2025-12-04,2026-01-13
+477,SUP00477,Panchal-Thakkar,Equipment Vendor,01CABUA1102H3ZF,TIMFN0023P,bkurian@grover.com,+917317217675,Saumya Wali,"43/851, Butala Road",Suite 10,New Delhi,Delhi,India,391411,8,Punjab National Bank,04923309799,PUNJ0551346,Active,2023-11-25,2025-07-09
+478,SUP00478,"Mutti, Saha and Mallick",Equipment Vendor,25GVVVD3793L8Z6,BIVTY5316O,manan70@vasa-bhakta.com,+915432143919,Onkar Sodhi,"74, Kannan Circle",Floor 11,Kolkata,West Bengal,India,180887,7,Axis Bank,366681235201,AXIS0613207,Active,2025-12-06,2026-05-19
+479,SUP00479,Rastogi PLC,Raw Material Supplier,08KDUST7998X2Z1,NALWF6181M,samaaadhya@patel-mukhopadhyay.com,04522986522,Ekiya Dani,"H.No. 024, Sheth Road",Floor 6,Nagpur,Maharashtra,India,554577,8,IndusInd Bank,661823240701,INDU0838612,Blocked,2023-05-15,2024-09-26
+480,SUP00480,Sharaf-Buch,Service Provider,14CEXMU2625D4ZL,DSGFW5336S,chandreshsane@bedi.org,+910516394672,Vincent Barman,"H.No. 543
+Kota Path",,Surat,Gujarat,India,673845,6,Punjab National Bank,2281146563472899,PUNJ0337528,Inactive,2018-06-16,2019-04-08
+481,SUP00481,Bahl-Thaker,Contractor,25HJTIL8253L2Z0,CPKGB1843J,ganga09@shan.com,3579494872,Manbir Uppal,"49/887
+Patla Ganj",,Surat,Gujarat,India,313334,6,Kotak Mahindra Bank,52823625168,KOTA0798263,Under Review,2019-06-21,2020-01-15
+482,SUP00482,"Wadhwa, Thakur and Goel",Logistics Provider,29YZBLM0877S2ZS,NNZHG2843V,golanachiket@goel-chada.com,+911774851143,Yug Yogi,"94/323
+Patel Marg",Suite 48,Ahmedabad,Gujarat,India,041335,7,HDFC Bank,305204176730,HDFC0982915,Active,2018-01-14,2021-07-24
+483,SUP00483,Seth Group,Contractor,03XFCPT8336U5ZD,LCATS7124K,fchoudhry@sama.org,08709253723,Bhavani Bali,"H.No. 464
+Mann",Floor 6,New Delhi,Delhi,India,469056,9,IndusInd Bank,36824051232,INDU0276040,Active,2023-03-28,2024-07-29
+484,SUP00484,Yogi-Shankar,Goods Supplier,37TQLID9756E1ZA,ZRFZX9284N,onveersandhu@dhillon.org,5466083951,Aishani Mody,"H.No. 385, Kumar Zila",Unit 87,New Delhi,Delhi,India,055007,3,Punjab National Bank,430423091008,PUNJ0333576,Active,2016-02-25,2019-12-17
+485,SUP00485,Som Inc,Service Provider,14RHCKD1816B4ZG,JBLSB2938A,lipika47@ramaswamy.net,0195561687,Sarthak Wali,"937
+Ramanathan Marg",,Jaipur,Rajasthan,India,276663,1,ICICI Bank,29313202340600,ICIC0345341,Active,2018-11-28,2022-12-21
+486,SUP00486,"Bora, Thakkar and Mutti",Equipment Vendor,07TODSO5913A4ZL,ATELD2520X,abdulkaur@rege-wali.com,04814925342,Vrinda Manda,"H.No. 95
+Bhalla Marg",,New Delhi,Delhi,India,284055,3,Punjab National Bank,34182197029437,PUNJ0738964,Active,2022-05-27,2024-10-06
+487,SUP00487,"Mukhopadhyay, Talwar and Tella",Equipment Vendor,35IVUYX3216E1Z5,SGQTZ4034U,khalsaosha@pandya-shankar.com,+919895885296,Balhaar Aurora,"H.No. 968
+Uppal Road",Floor 19,Noida,Uttar Pradesh,India,375165,8,ICICI Bank,8277546842871289,ICIC0279050,Active,2016-11-20,2025-03-09
+488,SUP00488,Lata LLC,Logistics Provider,23FBLYU5102C9ZC,UORUO5558X,tanmayipandey@das.com,0723544568,Hemani Hora,"H.No. 139
+Savant Nagar",Floor 12,New Delhi,Delhi,India,847354,8,Axis Bank,57728130934,AXIS0425454,Active,2024-04-23,2026-03-24
+489,SUP00489,"Mani, Nagarajan and Krishna",Equipment Vendor,26MSSMI1691Z4ZX,HJOLZ9984H,ryan52@tandon.info,+916271255941,Bhavika Prashad,"01/17
+Purohit Ganj",Suite 16,Lucknow,Uttar Pradesh,India,851644,6,Axis Bank,28638614772972,AXIS0789082,Active,2025-09-18,2025-10-08
+490,SUP00490,Dhar-Babu,Goods Supplier,27VSAMC0430F3Z8,VKFFU6861O,xkumer@thaman-bal.biz,+912385354405,Geetika Dhawan,"06, Dave Road",Suite 7,Noida,Uttar Pradesh,India,699850,3,Axis Bank,71974069574511,AXIS0553476,Inactive,2019-06-07,2020-12-25
+491,SUP00491,"Mand, Sinha and Sen",Raw Material Supplier,20OKARE0886J4ZO,KJYBK8324F,frado97@acharya.com,0798001943,Vincent Parsa,"39/009
+Deo Path",Unit 59,Mumbai,Maharashtra,India,281470,9,ICICI Bank,0134961553605926,ICIC0768826,Active,2021-03-24,2023-12-12
+492,SUP00492,Radhakrishnan-Balan,Equipment Vendor,19LZCEM7064I0ZQ,GKTYV4632A,imaran16@sridhar-peri.org,2993950501,Utkarsh Narain,"521, Mitra Chowk",Unit 23,Pune,Maharashtra,India,506215,6,Kotak Mahindra Bank,2440490132270752,KOTA0180112,Active,2021-07-11,2024-08-13
+493,SUP00493,Reddy-Sankaran,Equipment Vendor,18JUCQD5494Q7ZC,KUCGB8687P,zashildeo@ravel.info,5812823354,Agastya Ravi,"546, Bhattacharyya Chowk",Suite 45,New Delhi,Delhi,India,884652,9,Kotak Mahindra Bank,212382072734,KOTA0336865,Active,2023-01-13,2023-11-19
+494,SUP00494,"Sachdev, Malhotra and Vohra",Logistics Provider,36OPFZC6844I8Z3,CKUSK2941Z,mitrapavani@dara.com,6907669346,Abhiram Pandey,"94/507, Merchant Nagar",,Chennai,Tamil Nadu,India,148686,6,Kotak Mahindra Bank,43103261296,KOTA0241988,Active,2018-02-21,2022-04-10
+495,SUP00495,Bora-Shetty,Goods Supplier,27FKHWP1418M4ZF,FDJPE2766T,nehakade@khosla.org,6313817125,Yagnesh Chawla,"39/15
+Amble Ganj",,Kolkata,West Bengal,India,789331,1,HDFC Bank,91988684614,HDFC0293372,Active,2016-06-07,2017-06-21
+496,SUP00496,Bedi and Sons,Equipment Vendor,31ZJDKT9421N5Z7,CAWRD3572U,dadarudra@koshy.com,09920627939,Ira Naidu,"H.No. 98, Lall Zila",Unit 66,Amritsar,Punjab,India,346994,6,Kotak Mahindra Bank,56544294700,KOTA0960279,Active,2024-11-19,2025-02-26
+497,SUP00497,"Narayan, Soman and Jaggi",Raw Material Supplier,08EOVVC1066K6Z8,XWFMP2046Q,lalatanmayi@raja-ratti.com,06355537846,Bachittar Sandal,"H.No. 756
+Guha Path",Unit 42,Bengaluru,Karnataka,India,320793,5,Axis Bank,2433503753884270,AXIS0847954,Active,2020-09-21,2025-06-29
+498,SUP00498,Misra LLC,Raw Material Supplier,02PAVFB6882J2Z5,QYRKF5281D,pillaichatresh@keer.org,6958723233,Ojasvi Varughese,"33/717, Kanda",Suite 32,Mysuru,Karnataka,India,483145,6,Kotak Mahindra Bank,77603807624,KOTA0454351,Active,2016-08-22,2021-06-06
+499,SUP00499,Sheth PLC,Equipment Vendor,06HLWQL9211T8ZH,ZAKTX4002H,vasanamall@kothari.info,+911165695716,Chaitaly Johal,"H.No. 765
+Sama Road",Unit 60,Hyderabad,Telangana,India,650843,8,Kotak Mahindra Bank,00730000774,KOTA0257541,Active,2025-11-16,2026-02-17
+500,SUP00500,Saxena Inc,Raw Material Supplier,11TJDZS9324W9ZO,ABQYA2995E,dmadan@goda.com,8169844041,Logan Shukla,"15/921
+Mani Nagar",,Amritsar,Punjab,India,754135,5,Kotak Mahindra Bank,487788141002,KOTA0533170,Active,2023-06-04,2023-10-03
+501,SUP00501,Bhatti and Sons,Raw Material Supplier,01LFUAG1641F6ZQ,VFEOG8352F,chandudarsh@sharaf.com,04844494942,Priya Din,"17
+Nath Street",,Nagpur,Maharashtra,India,434034,3,Punjab National Bank,68172919947948,PUNJ0803034,Active,2025-07-20,2025-08-10
+502,SUP00502,"Kannan, Maharaj and Oza",Logistics Provider,33CDHKY1218P6Z5,NSJYZ6398L,basuati@pandya.com,+913295087322,Libni Ahluwalia,"391
+Sami Zila",,Ludhiana,Punjab,India,213997,10,Axis Bank,94923204763332,AXIS0894482,Active,2022-10-01,2025-03-17
+503,SUP00503,Shan-Palla,Logistics Provider,09RIRXI2119R5ZL,AINLT6156P,rayaan64@more-panchal.info,+917148905417,Xiti Khosla,"62/66, Hayre Chowk",Unit 85,Chennai,Tamil Nadu,India,067812,7,ICICI Bank,427782848540,ICIC0536373,Active,2019-12-11,2023-06-04
+504,SUP00504,Sarna PLC,Goods Supplier,21OZOQI4228L8ZZ,SWYVQ9730C,ygoyal@puri.com,2311266668,Balveer Pal,"43/85, Venkatesh Circle",Unit 65,Kolkata,West Bengal,India,254546,4,State Bank of India,19001265098,STAT0384728,Active,2017-10-31,2025-10-07
+505,SUP00505,Khosla Inc,Contractor,20XCQZE8821V2Z9,WGCQK0655C,theodore41@dhar.info,00855394578,Warda Savant,"H.No. 84
+Bansal Circle",Unit 17,Nagpur,Maharashtra,India,976985,8,Axis Bank,76683662731439,AXIS0554319,Active,2021-07-29,2024-06-01
+506,SUP00506,"Shanker, Dua and Mandal",Raw Material Supplier,02RNAJN8313L3ZI,OOOHK7219H,amrita59@dubey.biz,02606122776,Shaurya Grewal,"H.No. 177
+Chandran Ganj",,Ludhiana,Punjab,India,729627,2,Axis Bank,85148957136522,AXIS0640714,Active,2017-07-05,2023-03-15
+507,SUP00507,Chokshi PLC,Equipment Vendor,11LOFSW3915Z8Z6,OOEAK2981B,edhitha51@basu-madan.com,6213505048,Chaaya Bains,"55/231, Shroff Chowk",Suite 31,Hyderabad,Telangana,India,191577,4,IndusInd Bank,73046859313965,INDU0397932,Active,2025-04-13,2025-09-12
+508,SUP00508,"Bandi, Loyal and Nair",Equipment Vendor,28DURUE9886O0ZZ,OUDUM5651U,kai11@mody.com,4651096469,Zehaan Peri,"29/02, Vora Chowk",Suite 50,Coimbatore,Tamil Nadu,India,548702,10,Axis Bank,192457561753,AXIS0765418,Active,2022-09-12,2023-12-23
+509,SUP00509,Mandal-Venkataraman,Equipment Vendor,30AJZCI0403I9Z8,KZBLG0662D,mitali98@dass.net,0466568777,Robert Shankar,"37/34, Dora Circle",Suite 43,Chennai,Tamil Nadu,India,732563,2,IndusInd Bank,9518014057175257,INDU0465065,Active,2020-02-15,2025-07-25
+510,SUP00510,Tailor-Yadav,Contractor,20PSMYB0811S6ZJ,UCLKT0997A,lghose@swaminathan-babu.info,08814949533,Sathvik Nair,"68/971
+Peri Nagar",,Coimbatore,Tamil Nadu,India,329201,9,Kotak Mahindra Bank,7922609315134879,KOTA0565136,Active,2017-06-30,2022-10-10
+511,SUP00511,"Nadkarni, Borde and Luthra",Contractor,06GLZFW3931I5Z8,OJVGC2516E,chaitaly23@mahajan.net,04309292875,Luke Nagarajan,"83/507, Ravi Nagar",Unit 14,Coimbatore,Tamil Nadu,India,717285,9,HDFC Bank,522800035518,HDFC0422823,Active,2021-10-08,2022-11-21
+512,SUP00512,"Thaman, Konda and Narasimhan",Equipment Vendor,21QUXYQ0871D2ZS,TDQEW7805B,mkala@sule-sem.com,+917056146765,Hitesh Sibal,"911, Sura Chowk",Suite 2,Ludhiana,Punjab,India,857712,8,Kotak Mahindra Bank,931791273290,KOTA0158474,Active,2019-07-19,2023-11-04
+513,SUP00513,"Master, Batra and Chad",Equipment Vendor,06MBVIQ2446T8Z9,BLZLC5452K,igola@kumar.com,6481080493,Gaurang Borah,"H.No. 024
+Deol Chowk",Suite 35,Ahmedabad,Gujarat,India,701830,5,Kotak Mahindra Bank,00242281254665,KOTA0590797,Active,2017-02-16,2017-05-21
+514,SUP00514,Konda-Sen,Contractor,15DQPMQ9009C3ZV,UISTH5894G,ebhalla@bassi-sami.com,6231591182,Yashasvi Palla,"452, Mallick Path",Unit 52,Jaipur,Rajasthan,India,172605,5,Kotak Mahindra Bank,28486320553,KOTA0621090,Active,2022-12-12,2023-04-12
+515,SUP00515,"Rout, Srinivas and Yadav",Contractor,29FPOMX3033P9ZL,MMKHY7509K,adwetaoza@sharma.com,+912074128474,Reva Rajagopal,"581, Sankaran Circle",,Ahmedabad,Gujarat,India,684556,8,State Bank of India,020369379320,STAT0353334,Active,2016-05-15,2018-06-01
+516,SUP00516,Raj-Bhatt,Logistics Provider,15XRENR2623L6ZG,RBKRX3241T,vinayawali@de.net,01825807268,Meera Sidhu,"232, Yogi Marg",Unit 39,Lucknow,Uttar Pradesh,India,759896,3,Axis Bank,679815187717,AXIS0444210,Under Review,2019-02-16,2023-11-15
+517,SUP00517,"Bhavsar, Bora and Rege",Goods Supplier,21FGDFU4497Y4ZM,QNFKM3110Y,chowdhuryyashasvi@soni-naidu.com,02790733397,Aarav Hayer,"62
+Korpal Ganj",Floor 4,Jaipur,Rajasthan,India,043480,5,Kotak Mahindra Bank,23105490899,KOTA0515590,Active,2021-06-30,2026-03-08
+518,SUP00518,"Nagy, Chokshi and Badami",Goods Supplier,17AOWYV4431J4Z1,BYGHM5445J,ishaan62@murthy.net,+917709000017,Kala Joshi,"81/92
+Gupta Nagar",Unit 94,Lucknow,Uttar Pradesh,India,326865,2,Yes Bank,4317011307173001,YES 0950073,Inactive,2020-04-18,2023-06-02
+519,SUP00519,Chacko-Loke,Service Provider,05QMUXK6427G1ZP,FHZVO4194C,jackgoyal@aggarwal.net,+919478786692,Gopal Arya,"420, Bhandari Nagar",Suite 31,Lucknow,Uttar Pradesh,India,518319,4,ICICI Bank,83863419203570,ICIC0243470,Active,2022-04-29,2026-02-12
+520,SUP00520,"Natarajan, Oommen and Nanda",Raw Material Supplier,04DKEJG9572M7ZP,RSYRW3487Q,deshpandewarjas@jayaraman.net,+919558687054,Damyanti Solanki,"92/440
+Brar Circle",Floor 18,Hyderabad,Telangana,India,844615,8,ICICI Bank,3925328660144722,ICIC0395333,Active,2021-08-15,2022-03-24
+521,SUP00521,"Dhaliwal, Karpe and Aurora",Logistics Provider,32SJCRP2202W3ZQ,TSLIU0766G,tripathitanmayi@brahmbhatt-ravel.com,01458082183,Anvi Bath,"46, Issac Street",Unit 32,Bengaluru,Karnataka,India,707163,2,Axis Bank,868021376226,AXIS0643581,Active,2025-05-06,2025-10-03
+522,SUP00522,Srinivas LLC,Equipment Vendor,07HMVXA7332B0ZM,KATHK7986Q,jai96@gokhale-mannan.com,4094699550,Mitesh Sane,"982
+Chanda Zila",,Pune,Maharashtra,India,697976,2,Kotak Mahindra Bank,9664855482355174,KOTA0386740,Active,2019-10-27,2025-06-16
+523,SUP00523,Pau-Varughese,Contractor,16QMULJ0603W2Z0,FKPTU6046V,anatarajan@kamdar-kant.com,07268868486,Irya Dugar,"74, Nagi",Floor 13,Hyderabad,Telangana,India,993192,8,ICICI Bank,63621999992985,ICIC0893058,Active,2019-09-01,2022-03-26
+524,SUP00524,Ben Group,Service Provider,13LUATN3023H8ZS,PZOTB8304Y,anita74@sheth.com,+919985009135,Advay Bala,"746, Sethi Street",Suite 33,Kolkata,West Bengal,India,719210,7,Yes Bank,19665767570,YES 0592615,Active,2024-10-16,2026-03-25
+525,SUP00525,Gill-Dixit,Raw Material Supplier,24KCYRB8296G0ZH,DOIGR8278J,chatresh38@khanna-kata.net,+916080133664,Shaurya Ahluwalia,"H.No. 537
+Dhillon Marg",Floor 3,Mysuru,Karnataka,India,495503,2,Yes Bank,63054944164,YES 0307521,Active,2020-09-14,2021-06-11
+526,SUP00526,Sharaf Inc,Goods Supplier,17RCSTY6194D4Z9,BPWFS6457D,psane@buch.biz,4333109539,Pranav Parmer,"11/924, Manda Nagar",,Amritsar,Punjab,India,006173,2,Axis Bank,533308890009,AXIS0692723,Active,2017-08-06,2022-07-09
+527,SUP00527,"Mani, Bora and Mander",Service Provider,34BTWQB4787R4Z3,OYUCM1475V,chaitanyagopal@cherian.net,+914377327160,Triya Mander,"H.No. 53
+Salvi Chowk",,Jaipur,Rajasthan,India,410166,2,HDFC Bank,9459468015890465,HDFC0466896,Active,2023-07-25,2024-12-04
+528,SUP00528,Yohannan-Mane,Raw Material Supplier,21LFTDY2531X6ZX,IETDH1022F,fnagarajan@nanda-chaudhuri.com,+911341298170,Bina Natt,"H.No. 27, Subramanian Ganj",,Kolkata,West Bengal,India,016368,4,Axis Bank,25950102810,AXIS0343283,Active,2023-03-08,2024-11-02
+529,SUP00529,Patla Ltd,Equipment Vendor,31NISPI4649Y7ZP,QEQCB3044U,manbir63@hans.com,05204112237,Bhavini Sachar,"216, Chhabra Circle",Floor 14,Coimbatore,Tamil Nadu,India,423299,9,ICICI Bank,555367138248,ICIC0899003,Active,2019-07-06,2025-03-22
+530,SUP00530,"Vasa, Chadha and Bedi",Raw Material Supplier,10QOUNA0319V5ZX,TFLVT3516E,fradosachdev@nigam.biz,04983623350,Nandini Patla,"H.No. 30
+Ranganathan Path",Floor 14,Mysuru,Karnataka,India,048941,7,State Bank of India,32179132721724,STAT0845530,Active,2023-05-30,2025-06-16
+531,SUP00531,Kalita PLC,Contractor,08RHTOR5706Q6ZO,XCKWP4750K,dsaha@wali.net,02768679306,Jeevika Puri,"H.No. 641, Nigam",Suite 46,Hyderabad,Telangana,India,270211,3,Yes Bank,75819167688,YES 0743762,Under Review,2024-07-14,2025-03-26
+532,SUP00532,Kurian-Gupta,Goods Supplier,03ZGOFH5342T9ZB,MBONK4318X,rehaansalvi@sani.net,1012979838,Siya Suri,"806, Setty Marg",,Chennai,Tamil Nadu,India,942326,6,HDFC Bank,30970484951,HDFC0495577,Blocked,2024-05-18,2025-01-09
+533,SUP00533,"Tiwari, Mahal and Badami",Raw Material Supplier,03XIQSQ2235Y1ZV,ORBCR6162H,vvig@dey.net,07617656746,Keya Zachariah,"H.No. 377
+Ahuja Zila",Suite 6,Kolkata,West Bengal,India,446394,4,State Bank of India,88949459618,STAT0875521,Active,2017-08-05,2019-06-09
+534,SUP00534,Sandal-Sachdev,Service Provider,24BWONM5578N2ZE,ESXLP0811G,tcomar@khurana.info,09516422349,Abha Kanda,"05/98, Guha Zila",,Mysuru,Karnataka,India,465665,8,Axis Bank,3487732883166690,AXIS0120730,Active,2021-05-06,2024-09-30
+535,SUP00535,Hayre Group,Service Provider,07COQGT1488U9ZP,LHCTA6402U,kganesan@tara.com,+914624711242,Ubika Shankar,"57/43, Sawhney Marg",,Surat,Gujarat,India,681299,7,Yes Bank,14177634587378,YES 0633971,Active,2023-08-19,2026-06-11
+536,SUP00536,Mannan-Krish,Raw Material Supplier,21YPMYB6265R2ZV,HCYWI3807M,wakeeta42@mody.info,02708481001,Kevin Vohra,"13, Sundaram Circle",Suite 18,Jaipur,Rajasthan,India,633717,3,Yes Bank,874537649705,YES 0374089,Active,2022-02-28,2022-03-26
+537,SUP00537,"Srinivas, Sekhon and Rastogi",Logistics Provider,08SLYXD0504J5ZB,KQLIG1333X,isaiahchada@raval-mutti.com,01704167283,Amaira Jain,"H.No. 53
+Balay Path",Unit 55,Kolkata,West Bengal,India,109999,3,State Bank of India,107515652461,STAT0915747,Active,2016-07-06,2025-05-05
+538,SUP00538,"Sen, Bala and Chatterjee",Logistics Provider,16PKKHE9078X5ZM,CSBJE2631I,gopalbatra@bhat-mittal.com,8099470389,Jagat Murthy,"12/435
+Tella Road",Unit 20,Bengaluru,Karnataka,India,423806,3,Yes Bank,71799238618186,YES 0341478,Active,2016-03-27,2020-09-28
+539,SUP00539,Tak Inc,Raw Material Supplier,34JNTKU4948P9Z9,RUPXC0933U,deepa30@agarwal.com,5667024132,Vidhi Agrawal,"80
+Kibe Road",Suite 8,Mysuru,Karnataka,India,853867,6,Kotak Mahindra Bank,93742942820087,KOTA0359232,Blocked,2016-12-28,2020-03-02
+540,SUP00540,"Handa, Savant and Kothari",Contractor,03HEWVL3232B9ZI,HGPXL0016A,oshakadakia@gour-rastogi.net,+916440444581,Dayamai Kurian,"43/619
+Sankar Marg",,Chennai,Tamil Nadu,India,840149,7,Punjab National Bank,74731740343158,PUNJ0377086,Inactive,2024-10-17,2026-06-02
+541,SUP00541,"Saxena, Goel and Dutt",Logistics Provider,19NRQDJ3330H8ZU,ZEHMC9344A,sbajwa@chakrabarti.com,03480161490,Yauvani Aurora,"911, Mangal Street",Unit 68,Nagpur,Maharashtra,India,773731,10,ICICI Bank,81300554875859,ICIC0622175,Active,2022-09-04,2022-11-04
+542,SUP00542,Ganesan-Batra,Goods Supplier,30VJKGE4421A8Z9,YDGIB6073J,tristan77@ravel-dhar.com,8194077296,Daksha Parekh,"13, Shetty Zila",Unit 69,Noida,Uttar Pradesh,India,705278,7,Axis Bank,046840009658,AXIS0674944,Active,2021-04-12,2022-06-30
+543,SUP00543,Sastry Ltd,Goods Supplier,28KGBZN6764Z9Z4,GKOUF4561N,mistrydeepa@vig.com,+916237716455,Oviya Mital,"58/963, Subramaniam Circle",Unit 44,Kolkata,West Bengal,India,196116,7,Punjab National Bank,876692957228,PUNJ0552904,Inactive,2021-10-05,2021-11-18
+544,SUP00544,Bakshi-Behl,Logistics Provider,33DPVGD8692I1ZJ,AXCTS4446K,hthakur@lanka-bhavsar.com,03001227176,Girish Iyer,"H.No. 93, Bora Marg",,Ludhiana,Punjab,India,426406,3,ICICI Bank,35637861965406,ICIC0722703,Active,2024-07-04,2026-04-06
+545,SUP00545,Bali-Sanghvi,Logistics Provider,19KQWPS6365Q9ZP,ZZSSD2340S,bprasad@oommen-ray.com,09460615976,Praneel Lall,"H.No. 697
+Warrior Nagar",,Hyderabad,Telangana,India,644688,8,Axis Bank,207282000251,AXIS0400062,Active,2020-08-09,2026-01-06
+546,SUP00546,Sharma-Agarwal,Contractor,29LEQAP0619Y6ZR,DPSBI0448P,shettyeta@rege.com,9188603204,Nitesh Sandal,"07/779
+Ganesan Street",,New Delhi,Delhi,India,226677,6,Yes Bank,89068161941,YES 0290313,Active,2025-07-07,2025-08-22
+547,SUP00547,"Mander, Mallick and Randhawa",Goods Supplier,02POCFQ2114Q3ZM,DXTDR2221B,chakradhar00@dar-mani.com,08926644536,Omkaar Vohra,"97/539
+Cherian Circle",Floor 15,Hyderabad,Telangana,India,169632,2,ICICI Bank,26425816286,ICIC0268421,Active,2023-12-07,2026-01-14
+548,SUP00548,Sathe Group,Equipment Vendor,09ZBPEU3628E0ZD,USGOP0962W,gautam54@varghese.info,01936038775,Nihal Bala,"H.No. 074, Badami Circle",,Jaipur,Rajasthan,India,500794,3,ICICI Bank,665875937772,ICIC0262263,Under Review,2016-06-19,2023-12-30
+549,SUP00549,"Tailor, Dar and Bhatti",Service Provider,12VZJGL7754B2ZN,HLIFV4406O,gautami21@mammen.com,5648406529,Nachiket Dua,"H.No. 993, Mody",Floor 2,New Delhi,Delhi,India,336861,9,HDFC Bank,15126454265194,HDFC0276257,Under Review,2025-04-07,2026-03-18
+550,SUP00550,Behl PLC,Logistics Provider,07FZXLX8433X8Z8,QNFWQ9591F,urvibasak@balasubramanian.com,+914582983081,Chaitanya Bhatnagar,"03/94
+Banik Chowk",Suite 28,Jaipur,Rajasthan,India,795188,3,IndusInd Bank,9883827197089312,INDU0617310,Inactive,2022-01-17,2023-04-27
+551,SUP00551,Sethi-Karpe,Contractor,11PMDOZ0556X0ZA,TCBWH1993M,samakshvenkataraman@bansal-subramanian.com,+919646056586,Neelima Nanda,"98/101
+Tara",,Pune,Maharashtra,India,193648,9,State Bank of India,24609056888,STAT0332717,Active,2024-10-12,2025-05-04
+552,SUP00552,"Ravel, Mital and Sandal",Logistics Provider,33IXBSZ4124N9ZU,GXGZB9838F,jagvidoctor@barad-loyal.biz,07278082778,Warjas Goyal,"H.No. 44, Varghese Path",Suite 17,Jaipur,Rajasthan,India,799635,7,Kotak Mahindra Bank,4563383192319704,KOTA0796906,Active,2019-10-21,2026-04-03
+553,SUP00553,Varughese Group,Contractor,04ZKWMV6221J3ZX,SQCUF7808L,manbirkumar@pall.org,07482177074,Aarna Babu,"515
+Karan Marg",Floor 9,Hyderabad,Telangana,India,031145,6,Punjab National Bank,24842005043,PUNJ0543133,Blocked,2025-10-10,2026-03-09
+554,SUP00554,Brahmbhatt Group,Logistics Provider,31PIADD5910V8ZM,IEXEA7701E,jainupkaar@nazareth-comar.com,+911880100284,Charita Upadhyay,"246, Taneja",,New Delhi,Delhi,India,139861,1,ICICI Bank,37003398644,ICIC0355487,Under Review,2020-11-09,2022-01-09
+555,SUP00555,"Khatri, Ganguly and Mukherjee",Equipment Vendor,30RQIRT2130Q8Z6,THCWS5894P,rdara@subramaniam.com,+915256041099,Pushti Sabharwal,"46/50
+Singhal Street",Floor 11,Jaipur,Rajasthan,India,034275,7,Punjab National Bank,7937784006561572,PUNJ0334438,Active,2020-11-02,2026-02-11
+556,SUP00556,Sarraf-Sachar,Contractor,37FNBBD2607Z4ZP,KAUNS1613B,gopalgarima@andra-goel.com,7976371729,Pallavi Bora,"H.No. 13, Lall Marg",,Hyderabad,Telangana,India,429769,6,Kotak Mahindra Bank,178557209940,KOTA0227698,Active,2021-07-20,2026-02-11
+557,SUP00557,"Jayaraman, Parmar and Mallick",Contractor,10POAXW3016K9ZQ,QVOKG6565R,fpandit@bhagat-datta.com,+914588132242,Anirudh Jha,"48/36, Seshadri Path",Suite 7,Amritsar,Punjab,India,597407,1,Punjab National Bank,7434756627711307,PUNJ0209022,Active,2023-06-24,2024-05-30
+558,SUP00558,Nagy Ltd,Service Provider,20GHLVW0319D5ZR,XGPGY9364F,ekarajnadkarni@edwin-memon.net,+913335433474,Upadhriti Kari,"H.No. 77
+Roy Nagar",Suite 36,Bengaluru,Karnataka,India,625097,3,Axis Bank,678301995540,AXIS0145685,Active,2021-09-26,2023-11-22
+559,SUP00559,Seth-Manda,Service Provider,17OJQPW9766H5ZF,HKZYQ9907P,harshil09@vora-walia.org,04222994589,Amol Palla,"60/802
+Pillay Chowk",Suite 25,Hyderabad,Telangana,India,079066,8,Punjab National Bank,69715684912499,PUNJ0414448,Active,2016-04-29,2021-08-30
+560,SUP00560,Palla-Joshi,Goods Supplier,15VVLKV6219W9ZV,PCOJY1319U,nisha66@bath.com,+917981801119,Laksh Garg,"78/57, Dora Marg",Suite 45,Bengaluru,Karnataka,India,023974,8,Axis Bank,78260184377619,AXIS0179677,Active,2023-08-19,2026-05-19
+561,SUP00561,Sachar-Shere,Raw Material Supplier,29VYLHR3538A0Z1,QORXS4348S,tejasyogi@sahota.com,8728520436,Yauvani Chadha,"455
+Sankar Chowk",Floor 1,Jaipur,Rajasthan,India,390979,7,Kotak Mahindra Bank,1109655143349899,KOTA0361249,Active,2017-08-02,2025-08-28
+562,SUP00562,Chacko-Mishra,Equipment Vendor,09XWOFD2195G5Z3,HFVPK1363C,omya99@jani.biz,+917687913394,Mohini Sanghvi,"71/22
+Dani Circle",Unit 3,Coimbatore,Tamil Nadu,India,638264,9,ICICI Bank,51913850029777,ICIC0169673,Active,2020-06-15,2021-05-27
+563,SUP00563,Kant LLC,Service Provider,03QUJLW0664X1ZB,LRGOU2227C,yashawini66@mallick.com,7253186966,Saanvi Dada,"74
+Luthra Chowk",,Mysuru,Karnataka,India,119804,3,Yes Bank,9534033814967280,YES 0774766,Inactive,2023-12-15,2023-12-20
+564,SUP00564,Tiwari PLC,Logistics Provider,17NLAKK3693K5ZU,WNVVM1326Z,rehaanagarwal@brahmbhatt-barad.net,03425632630,Advay Narula,"76/11, Subramaniam",Suite 35,Coimbatore,Tamil Nadu,India,903203,4,Kotak Mahindra Bank,541662104259,KOTA0820629,Active,2024-08-06,2024-10-03
+565,SUP00565,Dugar-Bhatt,Logistics Provider,11UPUNS4216K3ZS,KWQSY2633J,rajagopalanoscar@anand-nadkarni.info,+918002751094,Chatresh Prakash,"65/84, Issac Road",Unit 28,Jaipur,Rajasthan,India,360216,3,IndusInd Bank,87609279344,INDU0613518,Active,2025-07-07,2025-10-11
+566,SUP00566,Srinivasan LLC,Goods Supplier,36BJOWG4036J5ZC,ZTCKG8922D,dalaloscar@tara.com,+913096356450,Amrita Srinivasan,"11
+Kuruvilla Chowk",Suite 38,Kolkata,West Bengal,India,037265,2,Axis Bank,26396789590555,AXIS0995360,Active,2024-04-04,2024-12-03
+567,SUP00567,Kaur-Sabharwal,Equipment Vendor,06GPHTD4878H6ZH,ISBEJ5227V,simon07@venkatesh.com,00998182734,Ekalinga Sarraf,"28/745
+Barman Nagar",Unit 43,Kolkata,West Bengal,India,397787,8,Punjab National Bank,096545168916,PUNJ0939101,Active,2022-04-02,2025-03-29
+568,SUP00568,Lalla and Sons,Goods Supplier,16MWKVR0250R9ZD,ARRVV5294W,jyotimitter@bath-venkataraman.net,8927554903,Girik Mittal,"18/103, Shanker Circle",,Kolkata,West Bengal,India,628030,7,Punjab National Bank,892245114475,PUNJ0760736,Active,2019-09-26,2020-09-06
+569,SUP00569,Naidu LLC,Raw Material Supplier,32JNGQH5055X3ZL,DUBVS2533L,kkumar@sethi.org,02408861222,Bhavini Dara,"H.No. 03
+Sami Circle",Suite 31,Pune,Maharashtra,India,277061,9,Kotak Mahindra Bank,6346561037854315,KOTA0127778,Active,2017-11-23,2019-06-22
+570,SUP00570,Dave Group,Contractor,10YAFEW2548Q4Z5,OXYEA3090Q,gagangola@chacko.biz,+910085110417,Gabriel Manda,"16/481, Ratta Nagar",,Lucknow,Uttar Pradesh,India,742355,10,Kotak Mahindra Bank,32975923986952,KOTA0130372,Active,2021-07-03,2022-01-29
+571,SUP00571,Mani PLC,Logistics Provider,23UFVAQ6998Z8ZZ,BPRFK4625R,lakshitram@hegde-sekhon.net,07814988140,Tamanna Deo,"12/078
+Krish Ganj",,Noida,Uttar Pradesh,India,089353,1,Yes Bank,70232182299,YES 0852578,Active,2022-09-21,2025-05-20
+572,SUP00572,"Dutta, Sarkar and Pillay",Goods Supplier,09UYIKD8737Z6ZO,AGWRO5855N,kannannoah@lall.com,4654715808,Jagrati Krishnamurthy,"46, Tata Ganj",Unit 40,Surat,Gujarat,India,094723,3,Punjab National Bank,05157522679,PUNJ0848650,Inactive,2017-07-13,2021-06-09
+573,SUP00573,Dhaliwal Group,Service Provider,30CEVHI9392W9Z2,NAEXV4988N,damble@nanda.com,3931752335,Wriddhish Baral,"598, Keer",Floor 10,New Delhi,Delhi,India,565188,5,State Bank of India,442605002687,STAT0462699,Under Review,2025-12-08,2025-12-09
+574,SUP00574,Sama LLC,Service Provider,10BIRTO4219Y9ZQ,QXDQB2410I,rachitsolanki@mammen.net,+914748458863,Osha Bhavsar,"H.No. 073, Sinha Road",Floor 13,Noida,Uttar Pradesh,India,477048,2,Kotak Mahindra Bank,637704875508,KOTA0772363,Inactive,2017-01-29,2024-01-06
+575,SUP00575,Ganguly-Sangha,Service Provider,11GAHFO2490O4ZA,FTHXH4181O,rsunder@johal.com,+919276459653,Daksh Swamy,"75
+Sagar Path",,Bengaluru,Karnataka,India,836628,8,HDFC Bank,7395055586552059,HDFC0148738,Active,2023-06-07,2024-07-08
+576,SUP00576,Tata-Kapoor,Goods Supplier,01OLAHE0095W8ZX,DINSM8438H,deepadhillon@das.com,06056036106,Nitara Kunda,"00, Bhalla Ganj",,Kolkata,West Bengal,India,354106,9,Axis Bank,66699723324,AXIS0481355,Active,2021-10-23,2024-12-30
+577,SUP00577,Prabhu PLC,Logistics Provider,10WFPGR3549E9ZF,TRNHD8304G,bhanumati25@sood-gaba.org,+914304817032,Aarnav Sharaf,"78/011
+Swamy Circle",Unit 88,Kolkata,West Bengal,India,898458,10,Yes Bank,028283262472,YES 0857431,Inactive,2024-05-14,2026-05-04
+578,SUP00578,Pal PLC,Equipment Vendor,27LCPYD5676U9ZB,QROTX2883R,avi10@sarna.net,5312415951,Ekta Taneja,"H.No. 825
+Sule Street",Suite 47,Ludhiana,Punjab,India,601818,6,HDFC Bank,392309488037,HDFC0734668,Active,2025-04-15,2025-09-15
+579,SUP00579,Magar-Ben,Raw Material Supplier,26RQWWA1135T5ZE,JTJMG7411Z,xiti14@dora.com,06510168287,Vinaya Ganesh,"81/25
+Virk Nagar",,Kolkata,West Bengal,India,273192,3,Kotak Mahindra Bank,65073825119,KOTA0909782,Active,2016-09-04,2025-01-29
+580,SUP00580,"Aggarwal, Bahl and Agrawal",Raw Material Supplier,14PHKVA2959O2ZK,LLDKO9537L,kavyasaha@ramakrishnan-mall.biz,2005654842,Urvi Bhandari,"36/12
+Mitra Nagar",,Ludhiana,Punjab,India,413034,9,Kotak Mahindra Bank,3440136609683577,KOTA0185746,Active,2017-01-24,2026-06-14
+581,SUP00581,Bobal-Bera,Logistics Provider,25YAGOQ5887N9ZU,QDRQF6686Y,rswaminathan@rattan.net,06049298080,Bhanumati Apte,"H.No. 914
+Bera Chowk",Floor 18,New Delhi,Delhi,India,547221,4,Kotak Mahindra Bank,79261900901,KOTA0991358,Active,2025-10-26,2025-12-23
+582,SUP00582,"Garde, Bhandari and Chopra",Contractor,24LPVUV4623U3ZA,SODDA8117U,upasnaahuja@gour.com,7744397849,Hemal Johal,"950, Narula",Suite 33,Mumbai,Maharashtra,India,654407,6,Punjab National Bank,86481020000139,PUNJ0364902,Active,2020-04-06,2022-12-27
+583,SUP00583,"Chokshi, Manne and Desai",Equipment Vendor,16NUGSH9845H2Z9,WEPYB4528W,kraman@batra.org,+913482129466,Neel Choudhury,"04/95, Bajaj Zila",Floor 7,Kolkata,West Bengal,India,899319,6,HDFC Bank,2778842133910381,HDFC0570072,Active,2024-09-04,2026-02-20
+584,SUP00584,Oommen Inc,Service Provider,08RKCIH9792S0ZQ,YGRDT1731G,bhari@bera.biz,00352269343,Ishwar Dara,"38/87, Ratta Chowk",Suite 19,Coimbatore,Tamil Nadu,India,128222,2,Kotak Mahindra Bank,91114919753119,KOTA0942929,Active,2024-01-14,2024-10-03
+585,SUP00585,Tandon-Merchant,Equipment Vendor,21ALKEW1415J8ZB,AYXHC6868S,chanakya03@lad.org,7862413703,Vaishnavi Jha,"H.No. 11
+Minhas Circle",Suite 33,Kolkata,West Bengal,India,045655,10,HDFC Bank,3859122272881545,HDFC0947447,Active,2022-09-03,2026-04-21
+586,SUP00586,Memon-Korpal,Goods Supplier,18CBSGI4176J3Z6,RPSTA4382G,cmangal@biswas-jha.com,+914450734448,Bhavna Kara,"228
+Setty Chowk",Suite 37,Ludhiana,Punjab,India,405277,8,Punjab National Bank,89049418964,PUNJ0629796,Active,2022-12-15,2026-03-25
+587,SUP00587,Korpal PLC,Contractor,18RGIHF0524Z2ZM,RLSQG0301E,dhriti23@kunda.com,+912736161579,Vrishti Yogi,"750
+Rai Chowk",Unit 2,Hyderabad,Telangana,India,917740,7,State Bank of India,57295580386,STAT0694198,Active,2023-03-19,2025-04-18
+588,SUP00588,Khosla Group,Service Provider,03BCCZF6833Z6ZB,XGFHA8615V,sharmadamyanti@guha.com,05159108917,Saumya Kale,"H.No. 85
+Jain Street",Suite 13,Hyderabad,Telangana,India,272147,2,IndusInd Bank,84931106886016,INDU0780366,Inactive,2019-10-09,2024-01-23
+589,SUP00589,"Walla, Wable and Magar",Service Provider,02OMJJG2055C6ZL,JVMEZ0140K,chakrabortypranit@krishnamurthy-mandal.com,9656114113,Jagvi Karan,"H.No. 539
+Dey Chowk",Suite 37,Chennai,Tamil Nadu,India,658134,3,State Bank of India,08772384803609,STAT0557400,Blocked,2022-02-04,2025-02-02
+590,SUP00590,"Palla, Nayak and Shetty",Goods Supplier,11AVFHL7704J1ZD,SGQFP1641G,srinivasanayaan@venkatesh.com,08414204533,Qushi Patel,"H.No. 17, Babu Marg",Floor 3,Amritsar,Punjab,India,105906,9,ICICI Bank,8051806093039029,ICIC0194802,Active,2017-02-03,2025-05-15
+591,SUP00591,"Bhatti, Mahajan and Gera",Equipment Vendor,05AOOIX5891S4ZD,TSGRS6735Y,subramanianikshita@bandi-parikh.info,+912644337069,Saumya Morar,"47/198
+Sahni Circle",,Noida,Uttar Pradesh,India,122733,8,ICICI Bank,401311069520,ICIC0117074,Active,2016-06-08,2018-06-21
+592,SUP00592,Malhotra LLC,Equipment Vendor,37SHHWN5136R9ZZ,TBFSX2763J,nicholas15@mitra-varma.com,07909321316,Alexander Kota,"09, Bajaj Path",Floor 1,New Delhi,Delhi,India,092812,1,State Bank of India,577052174509,STAT0803310,Active,2023-03-05,2025-10-11
+593,SUP00593,Goswami-Balay,Logistics Provider,25FLZGP1492T1Z5,FSSKZ8903E,balasubramanianabhiram@vala.com,5567709986,Darpan Puri,"83/78
+Sangha Zila",Unit 86,Lucknow,Uttar Pradesh,India,050530,2,ICICI Bank,5989592027620171,ICIC0733329,Blocked,2025-08-12,2025-09-13
+594,SUP00594,"Lata, Karan and Sibal",Service Provider,19PSTOH1703G7Z5,CLFTW1354P,edwineshana@pillai.com,+912016673154,Ekiya Borah,"68
+Golla Ganj",,Kolkata,West Bengal,India,959725,3,Axis Bank,39287482985,AXIS0827028,Active,2022-12-17,2024-06-21
+595,SUP00595,Sathe Inc,Raw Material Supplier,25PEGDY0298I4Z9,VDBPR8409M,aryandara@ratta.com,00510227984,Ira Luthra,"685, Reddy Chowk",Floor 13,Surat,Gujarat,India,679915,4,Yes Bank,553067246939,YES 0633556,Active,2022-12-15,2026-03-24
+596,SUP00596,Bal-Narayanan,Raw Material Supplier,32EANHI6145H4ZI,OFRXO7293I,obiswas@bassi.com,7464551573,Gopal Vaidya,"H.No. 01
+Trivedi Marg",,Amritsar,Punjab,India,947716,7,Kotak Mahindra Bank,50543326289,KOTA0487219,Active,2018-09-20,2022-04-20
+597,SUP00597,Batra PLC,Goods Supplier,26NFRVR8551M4ZL,SSEDR5530U,oparekh@peri-seth.com,+918123809249,Aarnav Kari,"10, Chaudhuri Marg",,Kolkata,West Bengal,India,129489,5,ICICI Bank,66746827349,ICIC0976650,Active,2018-09-27,2023-08-09
+598,SUP00598,"Wason, Magar and Kade",Contractor,20VJYAT7427M2ZQ,JPPJN1480R,prakashhritik@khatri-sha.net,02718220187,Shravya Shankar,"78
+Chaudry Nagar",,Hyderabad,Telangana,India,344853,8,Axis Bank,076245531339,AXIS0353670,Active,2020-01-11,2020-07-29
+599,SUP00599,Tella-Chaudhuri,Logistics Provider,23SHNOJ6962Q0Z4,VJQQR9178R,rudra71@iyengar.biz,0806407393,Yashawini Kothari,"05
+Sibal Circle",Floor 20,Coimbatore,Tamil Nadu,India,322677,2,ICICI Bank,6972364415923385,ICIC0409992,Blocked,2017-06-11,2018-03-04
+600,SUP00600,Varkey Ltd,Contractor,18BABSS9634C1Z1,UOHPE6069Q,umall@sarin-chokshi.biz,+913125496139,Shivani Ramachandran,"H.No. 23
+Salvi Ganj",Floor 7,Kolkata,West Bengal,India,607156,10,State Bank of India,93257442347445,STAT0279130,Inactive,2024-01-16,2025-12-02

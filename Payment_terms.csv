@@ -1,0 +1,11 @@
+payment_terms_id,payment_terms_code,payment_terms_name,due_days,early_payment_discount_percent,late_payment_penalty_percent,payment_method,created_date
+1,PT001,Net 15,15,0.49,3.45,Credit Card,2020-05-16
+2,PT002,Net 30,30,2.53,4.95,UPI,2020-09-30
+3,PT003,Net 45,45,0.55,2.64,Bank Transfer,2015-02-27
+4,PT004,Net 60,60,1.11,2.93,Bank Transfer,2016-08-16
+5,PT005,Net 90,90,2.38,1.16,Cheque,2015-06-23
+6,PT006,Due on Receipt,0,0.0,0.0,UPI,2019-07-25
+7,PT007,2/10 Net 30,30,1.85,0.17,Credit Card,2020-07-30
+8,PT008,End of Month,30,2.08,3.24,Credit Card,2015-04-06
+9,PT009,Advance Payment,0,0.0,0.0,Cheque,2015-12-29
+10,PT010,Milestone Based,45,0.37,4.64,UPI,2016-10-21

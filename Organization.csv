@@ -1,0 +1,16 @@
+organization_id,organization_code,organization_name,organization_type,business_unit,region,country,created_date
+1,ORG001,Sahota Ltd Ltd,Branch,Retail,South,India,2018-11-05
+2,ORG002,Manda-Srinivas Ltd,Business Unit,Manufacturing,South,India,2015-06-02
+3,ORG003,Soman PLC Group,Legal Entity,Corporate,West,India,2017-05-04
+4,ORG004,Tiwari PLC Holdings,Subsidiary,Retail,Central,India,2019-05-09
+5,ORG005,Aggarwal Inc Enterprises,Subsidiary,Distribution,Central,India,2019-08-05
+6,ORG006,Sangha-Biswas Enterprises,Branch,Distribution,East,India,2019-04-30
+7,ORG007,Kata and Sons Group,Business Unit,Distribution,North,India,2015-04-20
+8,ORG008,"Basak, Sarkar and Ray Group",Business Unit,Corporate,Central,India,2020-07-06
+9,ORG009,"Sathe, Bandi and Narasimhan Group",Business Unit,Retail,East,India,2018-07-29
+10,ORG010,"Tank, D’Alia and Pillay Enterprises",Subsidiary,Retail,North,India,2018-09-23
+11,ORG011,Dubey Ltd Group,Business Unit,Distribution,East,India,2016-11-21
+12,ORG012,Dash Inc Group,Business Unit,Distribution,South,India,2016-10-16
+13,ORG013,Dyal-Oza Enterprises,Branch,Corporate,West,India,2015-02-28
+14,ORG014,Sundaram-Dora Holdings,Business Unit,Corporate,North,India,2017-10-09
+15,ORG015,Barad Group Ltd,Branch,Manufacturing,East,India,2019-12-05

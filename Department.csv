@@ -1,0 +1,31 @@
+department_id,department_code,department_name,cost_center_id,department_head,location_id,created_date
+1,DPT001,Procurement,63,Varenya Bawa,8,2018-09-03
+2,DPT002,Manufacturing,5,Liam Vora,16,2015-12-16
+3,DPT003,IT,63,Ayaan Kala,12,2016-12-08
+4,DPT004,Facilities,58,Mitesh Pillay,21,2017-06-03
+5,DPT005,R&D,32,Vedhika Sood,16,2017-12-09
+6,DPT006,Sales,50,Liam Warrior,10,2020-08-04
+7,DPT007,Marketing,68,Liam Anne,23,2019-04-14
+8,DPT008,Quality Assurance,21,Jeremiah Bajwa,11,2015-01-27
+9,DPT009,Logistics,40,Eshana Krish,13,2017-04-07
+10,DPT010,Administration,12,Aarini Ravi,18,2016-08-18
+11,DPT011,Finance,11,Kiaan Dhar,17,2016-12-19
+12,DPT012,HR,80,Mekhala Chandra,13,2018-05-24
+13,DPT013,Legal,14,Aryan Sekhon,6,2020-03-08
+14,DPT014,Customer Support,27,Ekbal Dani,22,2019-11-10
+15,DPT015,Engineering,48,Jonathan Modi,21,2018-10-05
+16,DPT016,Procurement 16,34,Meghana Tak,3,2017-02-12
+17,DPT017,Manufacturing 17,42,Ojas Golla,17,2015-04-28
+18,DPT018,IT 18,20,Krishna Jaggi,22,2017-11-07
+19,DPT019,Facilities 19,26,Yamini Bhandari,8,2020-09-07
+20,DPT020,R&D 20,49,Lila Shetty,6,2018-02-10
+21,DPT021,Sales 21,60,Mitali Gill,13,2019-05-28
+22,DPT022,Marketing 22,59,Zayyan Murthy,20,2019-11-25
+23,DPT023,Quality Assurance 23,23,Yash Ramachandran,22,2018-02-23
+24,DPT024,Logistics 24,80,Dayamai Merchant,9,2019-04-25
+25,DPT025,Administration 25,25,Guneet Bhasin,7,2016-02-10
+26,DPT026,Finance 26,45,Zansi Mukherjee,21,2015-05-21
+27,DPT027,HR 27,3,Ranveer Bhatt,3,2019-02-15
+28,DPT028,Legal 28,75,Saksham Pant,2,2020-08-14
+29,DPT029,Customer Support 29,78,Eesha Salvi,15,2019-06-19
+30,DPT030,Engineering 30,31,Faqid Borah,1,2020-01-16
