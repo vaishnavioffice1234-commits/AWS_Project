@@ -1,0 +1,26 @@
+warehouse_id,warehouse_code,warehouse_name,warehouse_type,location,warehouse_manager,organization_id,created_date
+1,WH001,Mumbai Central Warehouse,Finished Goods Store,"Mumbai, Maharashtra",Falan Hora,4,2018-04-02
+2,WH002,Coimbatore Raw Material Store,Regional Distribution Center,"Coimbatore, Tamil Nadu",Ekavir Das,3,2015-10-12
+3,WH003,Lucknow Regional Distribution Center,Bonded Warehouse,"Lucknow, Uttar Pradesh",Lipika Iyer,15,2017-10-30
+4,WH004,Lucknow Raw Material Store,Regional Distribution Center,"Lucknow, Uttar Pradesh",Madhav Wason,15,2017-05-18
+5,WH005,Hyderabad Bonded Warehouse,Finished Goods Store,"Hyderabad, Telangana",Bishakha Patla,5,2020-06-07
+6,WH006,Coimbatore Central Warehouse,Finished Goods Store,"Coimbatore, Tamil Nadu",Yachana Raju,11,2016-07-24
+7,WH007,Chennai Bonded Warehouse,Raw Material Store,"Chennai, Tamil Nadu",Vedhika Raju,11,2017-12-19
+8,WH008,New Delhi Finished Goods Store,Regional Distribution Center,"New Delhi, Delhi",Avi Chander,3,2017-11-19
+9,WH009,Chennai Central Warehouse,Regional Distribution Center,"Chennai, Tamil Nadu",Warhi Agate,1,2019-06-14
+10,WH010,Lucknow Central Warehouse,Raw Material Store,"Lucknow, Uttar Pradesh",Ekaraj Vig,3,2015-10-22
+11,WH011,Surat Finished Goods Store,Regional Distribution Center,"Surat, Gujarat",Eiravati Chowdhury,10,2019-06-12
+12,WH012,Chennai Finished Goods Store,Regional Distribution Center,"Chennai, Tamil Nadu",Onkar Pall,12,2017-01-23
+13,WH013,Jaipur Central Warehouse,Central Warehouse,"Jaipur, Rajasthan",Hiral Mohan,7,2020-08-29
+14,WH014,Lucknow Bonded Warehouse,Regional Distribution Center,"Lucknow, Uttar Pradesh",Harshil Ganguly,14,2019-06-18
+15,WH015,New Delhi Central Warehouse,Regional Distribution Center,"New Delhi, Delhi",Owen Sanghvi,7,2018-07-08
+16,WH016,Coimbatore Bonded Warehouse,Bonded Warehouse,"Coimbatore, Tamil Nadu",Nathaniel Bansal,8,2018-04-23
+17,WH017,Ludhiana Bonded Warehouse,Bonded Warehouse,"Ludhiana, Punjab",Niharika Gade,12,2015-09-03
+18,WH018,Hyderabad Bonded Warehouse,Bonded Warehouse,"Hyderabad, Telangana",Hiral Swaminathan,13,2018-04-09
+19,WH019,Jaipur Bonded Warehouse,Raw Material Store,"Jaipur, Rajasthan",Yug Korpal,4,2015-09-19
+20,WH020,Hyderabad Finished Goods Store,Central Warehouse,"Hyderabad, Telangana",Ekapad Sarna,14,2018-07-26
+21,WH021,Bengaluru Bonded Warehouse,Bonded Warehouse,"Bengaluru, Karnataka",Vasudha Bhandari,1,2020-01-10
+22,WH022,Noida Bonded Warehouse,Finished Goods Store,"Noida, Uttar Pradesh",Charles Kuruvilla,15,2020-10-20
+23,WH023,Kolkata Central Warehouse,Central Warehouse,"Kolkata, West Bengal",Bakhshi Saini,11,2017-07-12
+24,WH024,Kolkata Raw Material Store,Bonded Warehouse,"Kolkata, West Bengal",Onkar Ramesh,14,2017-10-08
+25,WH025,Kolkata Regional Distribution Center,Finished Goods Store,"Kolkata, West Bengal",Hamsini Dhingra,7,2020-02-11
